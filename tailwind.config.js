@@ -6,16 +6,16 @@ module.exports = {
       },
       colors: {
         green: "#678138",
-        tan: "#F0F0EB"
+        tan: "#F0F0EB",
+        gray: {
+          "300": "#7B7B7B"
+        }
       },
       fontSize: {
         sm: ".8rem"
       },
       letterSpacing: {
         widest: "0.15em"
-      },
-      minHeight: {
-        1000: "1000px"
       }
     }
   },

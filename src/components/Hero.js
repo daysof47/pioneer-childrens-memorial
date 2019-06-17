@@ -4,9 +4,11 @@ import { Link } from "gatsby";
 
 export default function Hero({ image, content }) {
   const { heading, subheading } = content;
-  console.log(content);
   return (
-    <BackgroundImage fluid={image.childImageSharp.fluid}>
+    <BackgroundImage
+      fluid={image.childImageSharp.fluid}
+      style={{ backgroundAttachment: "fixed" }}
+    >
       <div className="hero">
         <div className="text-white text-center mx-auto max-w-3xl">
           <h1 className="text-xl lg:text-6xl tracking-wide mb-6 text-white">
