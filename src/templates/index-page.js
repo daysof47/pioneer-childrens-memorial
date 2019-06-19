@@ -8,7 +8,9 @@ import SlideShow from "../components/home/SlideShow";
 import Fade from "react-reveal/Fade";
 import Img from "gatsby-image";
 import Illustration from "../img/home-illustration.png";
-import LeavesImage from "../img/home-leaves.png";
+import Leaf1 from "../img/leaf-1.png";
+import Leaf2 from "../img/leaf-2.png";
+import Leaf3 from "../img/leaf-3.png";
 import WomenImage from "../img/home-about-statue.png";
 import ManImage from "../img/home-visit-statue.png";
 import FamilySearchLogo from "../img/familysearch-logo.png";
@@ -32,7 +34,8 @@ export const IndexPageTemplate = ({
           subheading: frontmatter.subheading
         }}
       />
-      <Leaves />
+      <LeafEl1 />
+      <LeafEl2 />
       <BackgroundImage
         fluid={introBg.childImageSharp.fluid}
         style={{ backgroundSize: "contain", backgroundPosition: "top center" }}
@@ -58,6 +61,7 @@ export const IndexPageTemplate = ({
           </Fade>
           <Line height={300} />
         </section>
+        <LeafEl3 />
         <section>
           <div className="container mx-auto">
             <SlideShow images={frontmatter.gallery} />
@@ -293,11 +297,37 @@ export const IndexPageTemplate = ({
 //   gallery: PropTypes.array
 // };
 
-const Leaves = () => (
-  <div className="relative z-10">
-    <div style={{ position: "absolute", width: "100%", top: "0px" }}>
-      <Parallax y={[-10, 0]} tagOuter="figure">
-        <img src={LeavesImage} alt="leaves" className="m-auto" />
+const LeafEl1 = () => (
+  <div style={{ position: "relative", zIndex: "99" }}>
+    <div style={{ position: "absolute", left: "3%", zIndex: "100" }}>
+      <Parallax y={[0, 100]} tagOuter="figure">
+        <img src={Leaf1} alt="leaf" />
+      </Parallax>
+    </div>
+  </div>
+);
+const LeafEl2 = () => (
+  <div style={{ position: "relative", zIndex: "99" }}>
+    <div style={{ position: "absolute", left: "30%", zIndex: "99" }}>
+      <Parallax y={[-20, 15]} tagOuter="figure">
+        <img src={Leaf2} alt="leaf" />
+      </Parallax>
+    </div>
+  </div>
+);
+const LeafEl3 = () => (
+  <div style={{ position: "relative", zIndex: "99" }}>
+    <div
+      style={{
+        position: "absolute",
+        bottom: "0px",
+        left: "50%",
+        marginLeft: "-260px",
+        zIndex: "5"
+      }}
+    >
+      <Parallax y={[-20, 20]} tagOuter="figure">
+        <img src={Leaf3} alt="leaf" />
       </Parallax>
     </div>
   </div>
