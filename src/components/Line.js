@@ -1,9 +1,9 @@
 import React from "react";
 
-export default function Line({ height }) {
+export default function Line({ mobile, desk }) {
   return (
     <div className="line">
-      <div style={{ height: `${height}px` }}></div>
+      <div className={`h-${mobile} lg:h-${desk}`}></div>
     </div>
   );
 }

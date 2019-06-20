@@ -1,77 +1,66 @@
 import React, { Component } from "react";
 import { FaChevronLeft } from "react-icons/fa";
 import { FaChevronRight } from "react-icons/fa";
-import Slide from "./Slide";
+import Img from "gatsby-image";
 
 class SlideShow extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      images: [],
-      current: 1
+      visibleSlides: [0, 1, 2]
     };
   }
 
-  componentDidMount() {
-    const images = this.props.images.map((image, index) => {
-      return { image: image, position: index };
-    });
-    this.setState({ images });
-  }
-
   goToPrevSlide = () => {
-    const current =
-      this.state.current > 1
-        ? this.state.current - 1
-        : this.state.images.length;
-    const images = this.state.images.map(item => {
-      if (item.position === 0) {
-        return { position: this.state.images.length - 1, image: item.image };
+    const visibleSlides = this.state.visibleSlides.map(number => {
+      if (number === 0) {
+        return this.props.images.length - 1;
       } else {
-        return { position: item.position - 1, image: item.image };
+        return number - 1;
       }
     });
-    this.setState({ current });
-    this.setState({ images });
+    this.setState({ visibleSlides });
   };
 
   goToNextSlide = () => {
-    const current =
-      this.state.current < this.state.images.length
-        ? this.state.current + 1
-        : 1;
-    const images = this.state.images.map(item => {
-      if (item.position === this.state.images.length - 1) {
-        return { position: 0, image: item.image };
+    const visibleSlides = this.state.visibleSlides.map(number => {
+      if (number === this.props.images.length - 1) {
+        return 0;
       } else {
-        return { position: item.position + 1, image: item.image };
+        return number + 1;
       }
     });
-    this.setState({ current });
-    this.setState({ images });
-  };
-
-  slideWidth = () => {
-    return document.querySelector(".slide").clientWidth;
+    this.setState({ visibleSlides });
   };
 
   render() {
     return (
       <div>
-        <div
-          style={{
-            position: "relative",
-            overflow: "hidden"
-          }}
-        >
-          <img
-            src={this.props.images[0].image.childImageSharp.fixed.src}
-            style={{ visibility: "hidden" }}
-            alt=""
-          />
-          {this.state.images.map((image, i) => (
-            <Slide key={i} slide={image} />
-          ))}
+        <div className="flex items-center justify-center">
+          <div className="hidden lg:block w-1/4 p-3">
+            <Img
+              fluid={
+                this.props.images[this.state.visibleSlides[0]].image
+                  .childImageSharp.fluid
+              }
+            />
+          </div>
+          <div className="w-full lg:w-1/2 p-3">
+            <Img
+              fluid={
+                this.props.images[this.state.visibleSlides[1]].image
+                  .childImageSharp.fluid
+              }
+            />
+          </div>
+          <div className="hidden lg:block w-1/4 p-3">
+            <Img
+              fluid={
+                this.props.images[this.state.visibleSlides[2]].image
+                  .childImageSharp.fluid
+              }
+            />
+          </div>
         </div>
         <div className="flex justify-center items-center mt-6">
           <button
@@ -81,7 +70,7 @@ class SlideShow extends Component {
             <FaChevronLeft size={"1.25em"} />
           </button>
           <div className="font-bold tracking-wide mx-6">
-            0{this.state.current}/0{this.state.images.length}
+            0{this.state.visibleSlides[0] + 1}/0{this.props.images.length}
           </div>
           <button
             onClick={this.goToNextSlide}

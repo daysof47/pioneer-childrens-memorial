@@ -36,7 +36,4 @@ gallery:
   - image: /img/home-gallery-1.jpg
   - image: /img/home-gallery-2.jpg
   - image: /img/home-gallery-3.jpg
-  - image: /img/home-gallery-1.jpg
-  - image: /img/home-gallery-2.jpg
-  - image: /img/home-gallery-3.jpg
 ---

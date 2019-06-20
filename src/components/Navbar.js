@@ -67,7 +67,7 @@ const Navbar = class extends React.Component {
             </div>
             <div
               id="navMenu"
-              className={`flex-1 flex justify-around mx-4 ${this.state.navBarActiveClass}`}
+              className={`flex-1 flex justify-around mx-4 hidden lg:block ${this.state.navBarActiveClass}`}
             >
               <Link
                 to="/"
@@ -94,7 +94,7 @@ const Navbar = class extends React.Component {
                 About the Memorial
               </Link>
             </div>
-            <div className="mx-4">
+            <div className="hidden lg:block mx-4">
               <Link
                 to="/"
                 className="inline-block uppercase py-3 px-8 bg-white text-green text-sm tracking-widest shadow font-bold"
