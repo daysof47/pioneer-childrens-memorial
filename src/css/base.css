@@ -37,7 +37,7 @@ h2 {
 .hero {
   position: relative;
   overflow: hidden;
-  min-height: 650px;
+  min-height: 550px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -105,7 +105,7 @@ h2 {
   .scroll {
     display: block;
   }
-  .hero {
+  .hero.home {
     min-height: 850px;
   }
   .hero::after {

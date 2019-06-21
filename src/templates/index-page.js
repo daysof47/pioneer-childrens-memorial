@@ -33,6 +33,7 @@ export const IndexPageTemplate = ({
           heading: frontmatter.heading,
           subheading: frontmatter.subheading
         }}
+        home={true}
       />
       <LeafEl1 />
       <LeafEl2 />
