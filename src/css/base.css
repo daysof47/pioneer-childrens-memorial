@@ -17,7 +17,8 @@ button:focus {
 }
 
 h1,
-h2 {
+h2,
+h3 {
   font-family: "Yeseva One", cursive;
   font-weight: normal;
   line-height: 1.2;
@@ -99,6 +100,22 @@ h2 {
 
 .huge-text .parallax-inner {
   overflow: hidden;
+}
+
+.green-offset {
+  position: relative;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+.green-offset:before {
+  content: "";
+  position: absolute;
+  top: 30px;
+  left: -30px;
+  width: 100%;
+  height: 100%;
+  @apply bg-green;
 }
 
 @media (min-width: 768px) {

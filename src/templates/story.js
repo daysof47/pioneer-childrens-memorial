@@ -1,91 +1,74 @@
 import React from "react";
-import PropTypes from "prop-types";
-import { kebabCase } from "lodash";
-import Helmet from "react-helmet";
 import { graphql, Link } from "gatsby";
+import PropTypes from "prop-types";
 import Layout from "../components/Layout";
-import Content, { HTMLContent } from "../components/Content";
+import Hero from "../components/Hero";
+import RelatedStoryRoll from "../components/RelatedStoryRoll";
+import { ParallaxProvider } from "react-scroll-parallax";
+import HugeText from "../components/HugeText";
+// import Helmet from "react-helmet";
 
-export const BlogPostTemplate = ({
-  content,
-  contentComponent,
-  description,
-  tags,
-  title,
-  helmet
-}) => {
-  const PostContent = contentComponent || Content;
-
-  return (
-    <section className="section">
-      {helmet || ""}
-      <div className="container content">
-        <div className="columns">
-          <div className="column is-10 is-offset-1">
-            <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
-              {title}
-            </h1>
-            <p>{description}</p>
-            <PostContent content={content} />
-            {tags && tags.length ? (
-              <div style={{ marginTop: `4rem` }}>
-                <h4>Tags</h4>
-                <ul className="taglist">
-                  {tags.map(tag => (
-                    <li key={tag + `tag`}>
-                      <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
-                    </li>
-                  ))}
-                </ul>
-              </div>
-            ) : null}
-          </div>
-        </div>
-      </div>
-    </section>
-  );
-};
-
-BlogPostTemplate.propTypes = {
-  content: PropTypes.node.isRequired,
-  contentComponent: PropTypes.func,
-  description: PropTypes.string,
-  title: PropTypes.string,
-  helmet: PropTypes.object
-};
-
-const BlogPost = ({ data }) => {
+const Story = ({ data }) => {
   const { markdownRemark: post } = data;
 
   return (
     <Layout>
-      <BlogPostTemplate
-        content={post.html}
-        contentComponent={HTMLContent}
-        description={post.frontmatter.description}
-        helmet={
-          <Helmet titleTemplate="%s | Blog">
-            <title>{`${post.frontmatter.title}`}</title>
-            <meta
-              name="description"
-              content={`${post.frontmatter.description}`}
-            />
-          </Helmet>
-        }
-        tags={post.frontmatter.tags}
-        title={post.frontmatter.title}
-      />
+      <ParallaxProvider>
+        <Hero
+          image={post.frontmatter.image}
+          content={{
+            heading: post.frontmatter.title,
+            subheading: post.frontmatter.company,
+            theme: post.frontmatter.theme
+          }}
+        />
+        <div className="relative z-10">
+          <div className="container mx-auto font-lora text-gray-200 italic mb-12 lg:mb-24 lg:-mt-4">
+            <Link to="/stories" className="text-gray-200">
+              Stories
+            </Link>
+            <span> > </span>
+            <span className="text-green">{post.frontmatter.title}</span>
+          </div>
+          <HugeText text="The Story" start="0" finish="-80" />
+          <article className="max-w-3xl mx-auto mb-8 lg:mb-24">
+            <header className="mb-12 text-center">
+              <h4 className="uppercase tracking-widest text-green mb-4">
+                Subheadline Goes Here
+              </h4>
+              <h2 className="text-3xl lg:text-4xl mb-3">
+                {post.frontmatter.title}
+              </h2>
+              <div className="font-lora italic text-lg text-gray-300">
+                {post.frontmatter.author}
+              </div>
+            </header>
+            <div dangerouslySetInnerHTML={{ __html: post.html }}></div>
+            <hr className="border-gray-200 border-b my-12" />
+          </article>
+          <HugeText text="More" start="-20" finish="-50" />
+          <div className="container mx-auto">
+            <h4 className="uppercase tracking-widest text-green mb-4 text-center">
+              Subheadline Goes Here
+            </h4>
+            <h2 className="text-3xl lg:text-4xl text-center mb-8">
+              More Stories
+            </h2>
+            <RelatedStoryRoll cols={2} />
+          </div>
+        </div>
+      </ParallaxProvider>
     </Layout>
   );
 };
 
-BlogPost.propTypes = {
+Story.propTypes = {
   data: PropTypes.shape({
     markdownRemark: PropTypes.object
   })
 };
 
-export default BlogPost;
+export default Story;
 
 export const pageQuery = graphql`
   query StoryByID($id: String!) {
@@ -94,9 +77,17 @@ export const pageQuery = graphql`
       html
       frontmatter {
         date(formatString: "MMMM DD, YYYY")
+        image: featuredimage {
+          childImageSharp {
+            fluid(maxWidth: 1800, quality: 90) {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
         title
-        description
-        tags
+        author
+        company
+        theme
       }
     }
   }

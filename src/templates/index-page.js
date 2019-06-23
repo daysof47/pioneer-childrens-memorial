@@ -1,13 +1,10 @@
 import React from "react";
 // import PropTypes from "prop-types";
 import { graphql, Link } from "gatsby";
-import BackgroundImage from "gatsby-background-image";
 import Layout from "../components/Layout";
 import Hero from "../components/Hero";
 import SlideShow from "../components/home/SlideShow";
 import Fade from "react-reveal/Fade";
-import Img from "gatsby-image";
-import Illustration from "../img/home-illustration.png";
 import Leaf1 from "../img/leaf-1.png";
 import Leaf2 from "../img/leaf-2.png";
 import Leaf3 from "../img/leaf-3.png";
@@ -18,13 +15,12 @@ import { ParallaxProvider } from "react-scroll-parallax";
 import { Parallax } from "react-scroll-parallax";
 import Line from "../components/Line";
 import HugeText from "../components/HugeText";
+import IntroBackgroundSection from "../components/IntroBackgroundSection";
+import BodyBackgroundSection from "../components/BodyBackgroundSection";
+import FeaturedStoryHome from "../components/home/FeaturedStoryHome";
+import TellStory from "../components/home/TellStory";
 
-export const IndexPageTemplate = ({
-  frontmatter,
-  introBg,
-  donorsBg,
-  submitStory
-}) => (
+export const IndexPageTemplate = ({ frontmatter }) => (
   <div>
     <ParallaxProvider>
       <Hero
@@ -38,14 +34,7 @@ export const IndexPageTemplate = ({
       <LeafEl1 />
       <LeafEl2 />
       <Line mobile={20} desk={36} />
-      <BackgroundImage
-        fluid={introBg.childImageSharp.fluid}
-        style={{
-          backgroundSize: "contain",
-          backgroundPosition: "top center",
-          marginTop: "40px"
-        }}
-      >
+      <IntroBackgroundSection>
         <section>
           <Fade>
             <div className="text-center mx-auto max-w-2xl p-8">
@@ -72,7 +61,7 @@ export const IndexPageTemplate = ({
             <SlideShow images={frontmatter.gallery} />
           </div>
         </section>
-      </BackgroundImage>
+      </IntroBackgroundSection>
       <Line mobile={20} desk={48} />
       <WomenParallax />
       <HugeText text="Large Headline" start="20" finish="-40" />
@@ -107,84 +96,13 @@ export const IndexPageTemplate = ({
       </section>
       <section>
         <div className="container mx-auto">
-          <div
-            className="p-8 lg:p-20 bg-tan min-h-lg flex items-center bg-no-repeat bg-right min-h-lg relative"
-            style={{
-              backgroundImage: `url(${Illustration})`,
-              minHeight: "550px"
-            }}
-          >
-            <div className="w-full lg:w-1/2">
-              <h4 className="uppercase tracking-widest text-green mb-4 text-center lg:text-left">
-                Featured Story
-              </h4>
-              <h2 className="text-3xl lg:text-4xl mb-6 text-center lg:text-left">
-                Story Name
-              </h2>
-              <div className="mb-8">
-                Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem.
-                Pellentesque in ipsum id orci porta dapibus. Curabitur arcu
-                erat, accumsan id imperdiet et, porttitor at sem. Proin eget
-                tortor risus. Vestibulum ante ipsum primis in faucibus orci
-                luctus et ultrices posuere cubilia Curae; Donec velit neque,
-                auctor sit amet aliquam vel, ullamcorper sit amet ligula.
-              </div>
-              <Link
-                to="/"
-                className="block lg:inline-block w-56 mx-auto text-center border-solid border-gray-300 border py-4 px-8 bg-white text-green uppercase tracking-widest text-sm lg:mr-3 mb-4 lg:mb-0"
-              >
-                Read more
-              </Link>
-              <Link
-                to="/"
-                className="block lg:inline-block w-56 mx-auto text-center border-solid border-transparent border py-4 px-8 bg-green text-white uppercase tracking-widest text-sm mb-12 lg:mb-0"
-              >
-                See all stories
-              </Link>
-            </div>
-          </div>
+          <FeaturedStoryHome />
         </div>
       </section>
       <section className="py-4 mt-48">
-        <HugeText text="Tell a Story" start="-20" finish="-100" />
-        <div className="flex flex-wrap lg:flex-no-wrap">
-          <div className="w-full lg:w-7/12">
-            <Img fluid={submitStory.childImageSharp.fluid} />
-          </div>
-          <div className="w-full lg:w-5/12 flex items-center relative">
-            <div className="p-8 lg:p-12 max-w-md">
-              <Fade right distance="50px">
-                <h2 className="text-3xl lg:text-4xl mb-4 lg:-ml-24">
-                  Have a Fascinating Story to tell?
-                </h2>
-              </Fade>
-              <Fade right distance="50px">
-                <div>
-                  <p className="mb-8">
-                    Vestibulum ante ipsum primis in faucibus orci luctus et
-                    ultrices posuere cubilia Curae; Donec velit neque, auctor
-                    sit amet aliquam vel, ullamcorper sit amet ligula. Nulla
-                    quis lorem ut libero malesuada feugiat. Nulla porttitor
-                    accumsan tincidunt.
-                  </p>
-                  <p className="text-center lg:text-left">
-                    <a
-                      href="#subscribe"
-                      className="inline-block py-4 px-12 text-white bg-green uppercase tracking-widest text-sm"
-                    >
-                      Submit a Story
-                    </a>
-                  </p>
-                </div>
-              </Fade>
-            </div>
-          </div>
-        </div>
+        <TellStory />
       </section>
-      <BackgroundImage
-        fluid={donorsBg.childImageSharp.fluid}
-        style={{ backgroundSize: "contain", backgroundPosition: "top center" }}
-      >
+      <BodyBackgroundSection>
         <Line mobile={20} desk={20} />
         <section className="py-4 lg:py-12">
           <div className="container mx-auto text-center">
@@ -196,9 +114,9 @@ export const IndexPageTemplate = ({
             </div>
             <ul className="font-lora text-green text-4xl flex justify-around flex-wrap italic leading-tight tracking-wide">
               <Fade bottom>
-                {DonorList.map(donor => {
+                {DonorList.map((donor, index) => {
                   return (
-                    <li keys={donor} className="w-full lg:w-1/3 my-3 lg:my-8">
+                    <li keys={index} className="w-full lg:w-1/3 my-3 lg:my-8">
                       <div
                         className="max-w-sm p-4"
                         dangerouslySetInnerHTML={{ __html: donor }}
@@ -287,7 +205,7 @@ export const IndexPageTemplate = ({
           </div>
           <div className="clearfix"></div>
         </section>
-      </BackgroundImage>
+      </BodyBackgroundSection>
     </ParallaxProvider>
   </div>
 );
@@ -313,7 +231,7 @@ const LeafEl1 = () => (
         pointerEvents: "none"
       }}
     >
-      <Parallax y={[0, 100]} tagOuter="figure">
+      <Parallax y={[0, 80]} tagOuter="figure">
         <img src={Leaf1} alt="leaf" />
       </Parallax>
     </div>
@@ -330,7 +248,7 @@ const LeafEl2 = () => (
         pointerEvents: "none"
       }}
     >
-      <Parallax y={[-20, 20]} tagOuter="figure">
+      <Parallax y={[-20, 10]} tagOuter="figure">
         <img src={Leaf2} alt="leaf" />
       </Parallax>
     </div>
@@ -348,7 +266,7 @@ const LeafEl3 = () => (
         pointerEvents: "none"
       }}
     >
-      <Parallax y={[-5, 20]} tagOuter="figure">
+      <Parallax y={[0, 20]} tagOuter="figure">
         <img src={Leaf3} alt="leaf" />
       </Parallax>
     </div>
@@ -367,7 +285,7 @@ const DonorList = [
 const WomenParallax = () => (
   <div className="relative">
     <div className="lg:absolute lg:w-1/2">
-      <Parallax y={[-30, 0]} tagOuter="figure">
+      <Parallax y={[-10, 10]} tagOuter="figure">
         <img src={WomenImage} alt="Statue of Women" />
       </Parallax>
     </div>
@@ -376,7 +294,7 @@ const WomenParallax = () => (
 
 const ManParallax = () => (
   <div className="relative">
-    <div className="lg:absolute lg:right-0">
+    <div className="lg:absolute lg:right-0" style={{ maxWidth: "1000px" }}>
       <Parallax y={[-45, 0]} tagOuter="figure">
         <img src={ManImage} alt="Statue of Man" />
       </Parallax>
@@ -388,15 +306,9 @@ const ManParallax = () => (
 const IndexPage = ({ data }) => {
   console.log(data);
   const { frontmatter } = data.markdownRemark;
-  const { introBg, donorsBg, submitStory } = data;
   return (
     <Layout>
-      <IndexPageTemplate
-        frontmatter={frontmatter}
-        introBg={introBg}
-        donorsBg={donorsBg}
-        submitStory={submitStory}
-      />
+      <IndexPageTemplate frontmatter={frontmatter} />
     </Layout>
   );
 };
@@ -462,27 +374,6 @@ export const pageQuery = graphql`
               }
             }
           }
-        }
-      }
-    }
-    introBg: file(relativePath: { eq: "home-bg-purpose.jpg" }) {
-      childImageSharp {
-        fluid(maxWidth: 2048, quality: 90) {
-          ...GatsbyImageSharpFluid_withWebp
-        }
-      }
-    }
-    donorsBg: file(relativePath: { eq: "home-bg-donors-visit.jpg" }) {
-      childImageSharp {
-        fluid(maxWidth: 2048, quality: 90) {
-          ...GatsbyImageSharpFluid_withWebp
-        }
-      }
-    }
-    submitStory: file(relativePath: { eq: "home-submit-a-story.jpg" }) {
-      childImageSharp {
-        fluid(maxWidth: 800, quality: 90) {
-          ...GatsbyImageSharpFluid_withWebp
         }
       }
     }

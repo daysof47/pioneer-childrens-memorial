@@ -12,7 +12,7 @@ class StoryRoll extends React.Component {
       <div className="flex">
         {posts &&
           posts.map(({ node: post }) => (
-            <div className="w-full md:w-1/2 lg:w-1/3 p-4" key={post.id}>
+            <div className="w-full md:w-1/2 p-4" key={post.id}>
               <BackgroundImage
                 fluid={post.frontmatter.featuredimage.childImageSharp.fluid}
               >
@@ -27,7 +27,7 @@ class StoryRoll extends React.Component {
                         ? post.frontmatter.theme.join(", ")
                         : null}
                     </em>
-                    <h2 className="text-white text-2xl font-normal tracking-wide my-3">
+                    <h2 className="text-white text-2xl font-normal tracking-wide my-2">
                       {post.frontmatter.title}
                     </h2>
                     <em className="font-lora">{post.frontmatter.company}</em>
@@ -52,7 +52,7 @@ StoryRoll.propTypes = {
 export default () => (
   <StaticQuery
     query={graphql`
-      query StoryRollQuery {
+      query RelatedStoryRollQuery {
         allMarkdownRemark(
           sort: { order: DESC, fields: [frontmatter___date] }
           filter: { frontmatter: { templateKey: { eq: "story" } } }
