@@ -10,7 +10,6 @@ import HugeText from "../components/HugeText";
 
 const Story = ({ data }) => {
   const { markdownRemark: post } = data;
-
   return (
     <Layout>
       <ParallaxProvider>
@@ -37,13 +36,16 @@ const Story = ({ data }) => {
                 Subheadline Goes Here
               </h4>
               <h2 className="text-3xl lg:text-4xl mb-3">
-                {post.frontmatter.title}
+                {post.frontmatter.secondarytitle}
               </h2>
               <div className="font-lora italic text-lg text-gray-300">
                 {post.frontmatter.author}
               </div>
             </header>
-            <div dangerouslySetInnerHTML={{ __html: post.html }}></div>
+            <div
+              dangerouslySetInnerHTML={{ __html: post.html }}
+              className="story-content"
+            ></div>
             <hr className="border-gray-200 border-b my-12" />
           </article>
           <HugeText text="More" start="-20" finish="-50" />
@@ -54,7 +56,7 @@ const Story = ({ data }) => {
             <h2 className="text-3xl lg:text-4xl text-center mb-8">
               More Stories
             </h2>
-            <RelatedStoryRoll cols={2} />
+            <RelatedStoryRoll curr={post.id} />
           </div>
         </div>
       </ParallaxProvider>
@@ -85,6 +87,7 @@ export const pageQuery = graphql`
           }
         }
         title
+        secondarytitle
         author
         company
         theme

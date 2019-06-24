@@ -3,15 +3,15 @@ import PropTypes from "prop-types";
 import { Link, graphql, StaticQuery } from "gatsby";
 import BackgroundImage from "gatsby-background-image";
 
-class StoryRoll extends React.Component {
+class RelatedStoryRollComp extends React.Component {
   render() {
-    const { data } = this.props;
+    const { data, curr } = this.props;
     const { edges: posts } = data.allMarkdownRemark;
-
+    const filtered = posts.filter(({ node }) => node.id !== curr);
     return (
-      <div className="flex">
-        {posts &&
-          posts.map(({ node: post }) => (
+      <div className="flex flex-wrap">
+        {filtered &&
+          filtered.map(({ node: post }) => (
             <div className="w-full md:w-1/2 p-4" key={post.id}>
               <BackgroundImage
                 fluid={post.frontmatter.featuredimage.childImageSharp.fluid}
@@ -41,7 +41,7 @@ class StoryRoll extends React.Component {
   }
 }
 
-StoryRoll.propTypes = {
+RelatedStoryRollComp.propTypes = {
   data: PropTypes.shape({
     allMarkdownRemark: PropTypes.shape({
       edges: PropTypes.array
@@ -49,10 +49,10 @@ StoryRoll.propTypes = {
   })
 };
 
-export default () => (
+export default ({ curr }) => (
   <StaticQuery
     query={graphql`
-      query RelatedStoryRollQuery {
+      query RelatedRelatedStoryRollQuery {
         allMarkdownRemark(
           sort: { order: DESC, fields: [frontmatter___date] }
           filter: { frontmatter: { templateKey: { eq: "story" } } }
@@ -66,8 +66,6 @@ export default () => (
               }
               frontmatter {
                 title
-                templateKey
-                date(formatString: "MMMM DD, YYYY")
                 featuredpost
                 theme
                 company
@@ -84,6 +82,6 @@ export default () => (
         }
       }
     `}
-    render={data => <StoryRoll data={data} />}
+    render={data => <RelatedStoryRollComp data={data} curr={curr} />}
   />
 );

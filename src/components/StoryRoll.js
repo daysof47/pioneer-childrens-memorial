@@ -9,10 +9,10 @@ class StoryRoll extends React.Component {
     const { edges: posts } = data.allMarkdownRemark;
 
     return (
-      <div className="flex">
+      <div className="flex flex-wrap">
         {posts &&
           posts.map(({ node: post }) => (
-            <div className="w-full md:w-1/2 lg:w-1/3 p-4" key={post.id}>
+            <div className="w-full md:w-1/2 p-4" key={post.id}>
               <BackgroundImage
                 fluid={post.frontmatter.featuredimage.childImageSharp.fluid}
               >
@@ -23,7 +23,7 @@ class StoryRoll extends React.Component {
                     style={{ height: "360px" }}
                   >
                     <em className="font-lora">
-                      {post.frontmatter.theme
+                      {Array.isArray(post.frontmatter.theme)
                         ? post.frontmatter.theme.join(", ")
                         : null}
                     </em>
@@ -55,7 +55,12 @@ export default () => (
       query StoryRollQuery {
         allMarkdownRemark(
           sort: { order: DESC, fields: [frontmatter___date] }
-          filter: { frontmatter: { templateKey: { eq: "story" } } }
+          filter: {
+            frontmatter: {
+              templateKey: { eq: "story" }
+              featuredpost: { ne: true }
+            }
+          }
         ) {
           edges {
             node {
@@ -73,7 +78,7 @@ export default () => (
                 company
                 featuredimage {
                   childImageSharp {
-                    fluid(maxWidth: 120, quality: 100) {
+                    fluid(maxWidth: 400, quality: 100) {
                       ...GatsbyImageSharpFluid
                     }
                   }

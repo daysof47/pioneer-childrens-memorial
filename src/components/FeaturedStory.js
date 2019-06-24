@@ -24,7 +24,7 @@ class FeaturedStory extends React.Component {
                       style={{ height: "600px" }}
                     >
                       <em className="font-lora text-xl">
-                        {post.frontmatter.theme
+                        {Array.isArray(post.frontmatter.theme)
                           ? post.frontmatter.theme.join(", ")
                           : null}
                       </em>
