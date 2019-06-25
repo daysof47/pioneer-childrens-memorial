@@ -86,11 +86,10 @@ export const pageQuery = graphql`
             }
           }
         }
+        templateKey
         title
         secondarytitle
         author
-        company
-        theme
       }
     }
   }

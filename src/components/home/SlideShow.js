@@ -69,7 +69,7 @@ class SlideShow extends Component {
           >
             <FaChevronLeft size={"1.25em"} />
           </button>
-          <div className="font-bold tracking-wide mx-6">
+          <div className="tracking-wide mx-6">
             0{this.state.visibleSlides[0] + 1}/0{this.props.images.length}
           </div>
           <button

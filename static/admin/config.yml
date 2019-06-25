@@ -114,6 +114,11 @@ collections:
                 ],
             }
           - {
+              label: Family Search Text Block,
+              name: familysearch,
+              widget: text,
+            }
+          - {
               label: Gallery,
               name: gallery,
               widget: list,

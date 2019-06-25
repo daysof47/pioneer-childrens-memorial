@@ -6,8 +6,6 @@ date: 2019-06-21T16:40:25.933Z
 author: "John Doe"
 featuredpost: false
 featuredimage: /img/story-hero-2.jpg
-theme:
-company:
 ---
 
 In late 1861, Mercy Ann Virgin was only ten days old when her father died tragically in a railroad accident, devastating her family as only the death of a close loved one can. It was a bleak time for the little family, which now consisted of Mercy Ann, her mother Mary and her two brothers, Amos Moses and Nephi Charles. One can only imagine the sorrow Mary must have felt living without her husband in Marston, England near Oxford University.

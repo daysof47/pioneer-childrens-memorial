@@ -75,9 +75,8 @@ export default () => (
                 slug
               }
               frontmatter {
+                templateKey
                 title
-                theme
-                company
               }
             }
           }

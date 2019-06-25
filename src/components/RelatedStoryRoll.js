@@ -66,9 +66,6 @@ export default ({ curr }) => (
               }
               frontmatter {
                 title
-                featuredpost
-                theme
-                company
                 featuredimage {
                   childImageSharp {
                     fluid(maxWidth: 120, quality: 100) {

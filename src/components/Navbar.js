@@ -42,28 +42,28 @@ const Navbar = class extends React.Component {
         <div className="container mx-auto">
           <div className="flex justify-between items-center">
             <div className="mx-4">
-              <Link to="/" title="Logo">
+              <Link to="/" title="Logo" className="flex items-center">
                 <img
                   src={thePlacelogo}
                   alt="This Is The Place"
-                  style={{ width: "60px", position: "absolute" }}
+                  style={{ width: "100px", margin: "0 8px" }}
                 />
                 <img
                   src={logo}
                   alt="Days of 47"
-                  style={{ width: "90px", marginLeft: "85px" }}
+                  style={{ width: "90px", margin: "0 8px" }}
                 />
               </Link>
-              {/* Hamburger menu */}
-              <div
+            </div>
+            {/* Hamburger menu 
+            <div
                 className={`navbar-burger burger ${this.state.navBarActiveClass}`}
                 data-target="navMenu"
                 onClick={() => this.toggleHamburger()}
               >
-                <span />
-                <span />
-                <span />
-              </div>
+              <span />
+              <span />
+              <span />
             </div>
             <div
               id="navMenu"
@@ -102,6 +102,7 @@ const Navbar = class extends React.Component {
                 Visit the Memorial
               </Link>
             </div>
+            */}
           </div>
         </div>
       </nav>

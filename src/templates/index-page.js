@@ -1,6 +1,6 @@
 import React from "react";
 // import PropTypes from "prop-types";
-import { graphql, Link } from "gatsby";
+import { graphql } from "gatsby";
 import Layout from "../components/Layout";
 import Hero from "../components/Hero";
 import SlideShow from "../components/home/SlideShow";
@@ -19,6 +19,7 @@ import IntroBackgroundSection from "../components/IntroBackgroundSection";
 import BodyBackgroundSection from "../components/BodyBackgroundSection";
 import FeaturedStoryHome from "../components/home/FeaturedStoryHome";
 import TellStory from "../components/home/TellStory";
+import SubscribeForm from "../components/SubscribeForm";
 
 export const IndexPageTemplate = ({ frontmatter }) => (
   <div>
@@ -45,12 +46,14 @@ export const IndexPageTemplate = ({ frontmatter }) => (
                 {frontmatter.intro.heading}
               </h2>
               <div className="mb-8">{frontmatter.intro.description}</div>
+              {/*
               <Link
                 to={frontmatter.intro.link}
                 className="inline-block py-4 px-8 bg-green text-white uppercase tracking-widest text-sm"
               >
                 {frontmatter.intro.linkText}
               </Link>
+               */}
             </div>
           </Fade>
           <Line mobile={20} desk={64} />
@@ -80,6 +83,7 @@ export const IndexPageTemplate = ({ frontmatter }) => (
                   <div className="mb-8">
                     {frontmatter.mainpitch.description}
                   </div>
+                  {/*
                   <div className="text-center lg:text-left">
                     <Link
                       to={frontmatter.mainpitch.link}
@@ -88,6 +92,7 @@ export const IndexPageTemplate = ({ frontmatter }) => (
                       {frontmatter.mainpitch.linkText}
                     </Link>
                   </div>
+                   */}
                 </div>
               </Fade>
             </div>
@@ -129,7 +134,7 @@ export const IndexPageTemplate = ({ frontmatter }) => (
           </div>
         </section>
         <Line mobile={20} desk={48} />
-        <section>
+        <section id="visit">
           <div className="container mx-auto">
             <div className="flex">
               <div className="w-full lg:w-2/5">
@@ -142,12 +147,14 @@ export const IndexPageTemplate = ({ frontmatter }) => (
                       {frontmatter.visit.heading}
                     </h2>
                     <div className="mb-8">{frontmatter.visit.description}</div>
-                    <Link
-                      to={frontmatter.visit.link}
+                    <a
+                      href="https://www.google.com/maps/place/This+Is+The+Place+Heritage+Park/@40.7526393,-111.8180033,17z/data=!3m1!4b1!4m5!3m4!1s0x87525e2bd2441443:0xdf4e3ffc5c0526e4!8m2!3d40.7526353!4d-111.8158093"
+                      target="_blank"
+                      rel="noopener noreferrer"
                       className="block lg:inline-block w-48 mx-auto py-4 px-8 bg-green text-white uppercase tracking-widest text-sm"
                     >
                       {frontmatter.visit.linkText}
-                    </Link>
+                    </a>
                   </div>
                 </Fade>
               </div>
@@ -161,18 +168,10 @@ export const IndexPageTemplate = ({ frontmatter }) => (
               <h2 className="text-3xl lg:text-4xl mb-6">Newsletter Headline</h2>
               <p>
                 To receive more information about the Pioneer Children's
-                Memorial and how you can help in grow, please provide your name
-                and email address. It will be used only for that purpose.
+                Memorial and how you can help in grow, please provide your email
+                address. It will be used only for that purpose.
               </p>
-              <form className="flex flex-wrap w-full mt-12">
-                <input
-                  placeholder="Enter your email address"
-                  className="w-full lg:w-auto lg:flex-grow bg-transparent border-solid border-gray-400 border-b-2 py-2 mr-4 lg:mr-8 mb-4 lg:mb-0"
-                />
-                <button className="block w-48 lg:w-auto mx-auto py-4 px-8 lg:px-16 bg-green text-white uppercase tracking-widest text-sm flex-shrink">
-                  Submit
-                </button>
-              </form>
+              <SubscribeForm />
             </div>
           </div>
           <div className="container bg-tan p-8 py-24 lg:py-24 float-right relative z-10">
@@ -185,12 +184,7 @@ export const IndexPageTemplate = ({ frontmatter }) => (
                   className="mx-auto"
                 />
               </p>
-              <p className="mb-4">
-                Quisque velit nisi, pretium ut lacinia in, elementum id enim.
-                Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
-                Praesent sapien massa, convallis a pellentesque nec, egestas
-                non.
-              </p>
+              <p className="mb-4">{frontmatter.familysearch}</p>
               <p>
                 <a
                   href="https://www.familysearch.org/en/"
@@ -198,7 +192,7 @@ export const IndexPageTemplate = ({ frontmatter }) => (
                   className="font-bold text-green uppercase tracking-wider"
                   rel="noopener noreferrer"
                 >
-                  Explore Family Search
+                  Explore Family Search →
                 </a>
               </p>
             </div>
@@ -366,6 +360,7 @@ export const pageQuery = graphql`
           linkText
           link
         }
+        familysearch
         gallery {
           image {
             childImageSharp {

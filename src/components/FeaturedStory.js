@@ -86,11 +86,7 @@ export default () => (
               }
               frontmatter {
                 title
-                templateKey
                 date(formatString: "MMMM DD, YYYY")
-                featuredpost
-                theme
-                company
                 featuredimage {
                   childImageSharp {
                     fluid(maxWidth: 600, quality: 100) {
@@ -104,6 +100,6 @@ export default () => (
         }
       }
     `}
-    render={(data, count) => <FeaturedStory data={data} count={count} />}
+    render={data => <FeaturedStory data={data} />}
   />
 );

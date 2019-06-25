@@ -32,6 +32,8 @@ visit:
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
   linkText: Get Directions
   link: /
+familysearch: >
+  Quisque velit nisi, pretium ut lacinia in, elementum id enim. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Praesent sapien massa, convallis a pellentesque nec, egestas non.
 gallery:
   - image: /img/home-gallery-1.jpg
   - image: /img/home-gallery-2.jpg

@@ -6,8 +6,6 @@ date: 2019-06-21T16:41:25.933Z
 author: "Excerpts from Mary Goble Pay’s autobiography"
 featuredpost: false
 featuredimage: /img/story-hero-3.jpg
-theme:
-company:
 ---
 
 When we were in the Iowa campground, there came up a thunderstorm that blew down our shelter, made with handcarts and some quilts. We sat there in the rain, thunderstorm and lightning. My sister Fanny got wet and died on the 19th of July 1856. She would have been 2 years old on the 23rd. [She had broken out with the measles on the ship, and was thus in a weakened position.] The day we started our journey, we visited her grave. We felt very bad to leave our little sister there.

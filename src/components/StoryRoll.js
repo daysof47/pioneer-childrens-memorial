@@ -70,12 +70,9 @@ export default () => (
                 slug
               }
               frontmatter {
-                title
                 templateKey
+                title
                 date(formatString: "MMMM DD, YYYY")
-                featuredpost
-                theme
-                company
                 featuredimage {
                   childImageSharp {
                     fluid(maxWidth: 400, quality: 100) {

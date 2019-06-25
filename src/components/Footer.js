@@ -25,6 +25,7 @@ const Footer = class extends React.Component {
             </div>
           </div>
           <div>
+            {/*}
             <ul className="footer-nav lg:flex lg:justify-center my-8 font-bold text-center tracking-wide">
               <li className="my-2">
                 <Link to="/">The Stories</Link>
@@ -42,6 +43,7 @@ const Footer = class extends React.Component {
                 <Link to="/">Visit The Memorial</Link>
               </li>
             </ul>
+            */}
           </div>
           <div className="lg:flex lg:justify-center lg:items-center text-center">
             <img
