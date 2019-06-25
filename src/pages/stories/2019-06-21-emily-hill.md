@@ -6,6 +6,8 @@ date: 2019-06-21T16:39:25.933Z
 author: "John Doe"
 featuredpost: true
 featuredimage: /img/story-hero-1.jpg
+theme:
+company:
 ---
 
 When 16 year old Emily Hill was growing up in England, she learned of The Church of Jesus Christ of Latter-day Saints, and the gathering of the Saints in "Zion." Despite fierce opposition, she and her sister Julia determined to leave their home and family and somehow make their way to America. After sailing the Atlantic in May 1856, they traveled by handcart with the James G. Willie company to Utah. The journey was difficult, and Emily said many backed out within a few days, but she was determined to pull her handcart all the way to the Salt Lake Valley.

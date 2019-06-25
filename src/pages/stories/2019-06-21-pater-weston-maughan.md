@@ -6,6 +6,8 @@ date: 2019-06-21T16:42:25.933Z
 author: As told by his mother Mary Ann Weston Maughan
 featuredpost: false
 featuredimage: /img/story-hero-1.jpg
+theme:
+company:
 ---
 
 About noon [on July 12, 1850], as we were traveling along on a good plain road, my little Peter, about three years old, was sitting in the front of the wagon between his brother Charles and his sister Mary Ann. They were looking at a cow that had lost one horn. He leaned forward, lost his balance, and fell before the wheels. The first passed over him, and he tried to escape the other one. But alas, the wagon stopped just as the hind wheel stood on his dear little back. The brethren from behind ran up and lifted the wheel and took him from under it. He was bruised internally so that it was impossible for him to live long.
