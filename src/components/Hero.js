@@ -12,7 +12,7 @@ export default function Hero({ image, content, home = false }) {
       }}
     >
       <div className={`hero ${home ? "home" : ""}`}>
-        <div className="text-white text-center mx-auto max-w-3xl">
+        <div className="text-white text-center mx-auto max-w-3xl mt-24 lg:mt-0">
           {theme ? (
             <p className="font-lora tracking-wide font-lg italic mb-4">
               {theme.join(", ")}

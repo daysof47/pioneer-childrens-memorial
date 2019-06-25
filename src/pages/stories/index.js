@@ -21,7 +21,7 @@ export default ({ data }) => (
       />
       <IntroBackgroundSection>
         <HugeText text="Featured" start="10" finish="-40" />
-        <div className="container mx-auto mb-8 lg:mb-24 lg:mt-24">
+        <div className="container mx-auto mb-8 lg:mb-24 mt-8 lg:mt-24">
           <h4 className="uppercase tracking-widest text-green mb-4 text-center">
             Subheadline Goes Here
           </h4>
@@ -31,7 +31,7 @@ export default ({ data }) => (
           <FeaturedStory />
         </div>
         <HugeText text="More" start="-20" finish="-50" />
-        <div className="container mx-auto">
+        <div className="container mx-auto px-4">
           <h4 className="uppercase tracking-widest text-green mb-4 text-center">
             Subheadline Goes Here
           </h4>

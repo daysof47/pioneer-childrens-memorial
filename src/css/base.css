@@ -39,7 +39,7 @@ h3 {
 .hero {
   position: relative;
   overflow: hidden;
-  min-height: 550px;
+  min-height: 400px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -133,6 +133,9 @@ h3 {
 @media (min-width: 768px) {
   .scroll {
     display: block;
+  }
+  .hero {
+    min-height: 550px;
   }
   .hero.home {
     min-height: 850px;

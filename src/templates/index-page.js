@@ -34,18 +34,18 @@ export const IndexPageTemplate = ({ frontmatter }) => (
       />
       <LeafEl1 />
       <LeafEl2 />
-      <Line mobile={20} desk={36} />
+      <Line mobile={2} desk={36} />
       <IntroBackgroundSection>
         <section>
           <Fade>
-            <div className="text-center mx-auto max-w-2xl p-8">
+            <div className="text-center mx-auto max-w-2xl px-8">
               <h4 className="uppercase tracking-widest text-green mb-4">
                 {frontmatter.intro.subheading}
               </h4>
               <h2 className="text-3xl lg:text-4xl mb-6">
                 {frontmatter.intro.heading}
               </h2>
-              <div className="mb-8">{frontmatter.intro.description}</div>
+              <div>{frontmatter.intro.description}</div>
               {/*
               <Link
                 to={frontmatter.intro.link}
@@ -56,7 +56,7 @@ export const IndexPageTemplate = ({ frontmatter }) => (
                */}
             </div>
           </Fade>
-          <Line mobile={20} desk={64} />
+          <Line mobile={2} desk={64} />
         </section>
         <LeafEl3 />
         <section>
@@ -137,7 +137,7 @@ export const IndexPageTemplate = ({ frontmatter }) => (
         <section id="visit">
           <div className="container mx-auto">
             <div className="flex">
-              <div className="w-full lg:w-2/5">
+              <div className="w-full lg:w-2/5 mb-32 lg:mb-4">
                 <Fade left distance="50px">
                   <div className="p-8">
                     <h4 className="uppercase tracking-widest text-green mb-4 text-center lg:text-left">

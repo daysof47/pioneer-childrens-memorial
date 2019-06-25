@@ -12,8 +12,8 @@ class FeaturedStory extends React.Component {
       <article>
         {posts &&
           posts.map(({ node: post }) => (
-            <div className="flex items-center" key={post.id}>
-              <div className="w-full md:w-1/2 p-4">
+            <div className="flex flex-wrap items-center px-4" key={post.id}>
+              <div className="w-full md:w-1/2 px-4 mb-8">
                 <div className="green-offset">
                   <BackgroundImage
                     fluid={post.frontmatter.featuredimage.childImageSharp.fluid}
@@ -21,7 +21,7 @@ class FeaturedStory extends React.Component {
                     <Link
                       className="flex items-center justify-center flex-col text-white border-solid border-white border m-4"
                       to={post.fields.slug}
-                      style={{ height: "600px" }}
+                      style={{ height: "300px" }}
                     >
                       <em className="font-lora text-xl">
                         {Array.isArray(post.frontmatter.theme)

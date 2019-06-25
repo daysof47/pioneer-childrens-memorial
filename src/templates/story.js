@@ -21,8 +21,8 @@ const Story = ({ data }) => {
             theme: post.frontmatter.theme
           }}
         />
-        <div className="relative z-10">
-          <div className="container mx-auto font-lora text-gray-200 italic mb-12 lg:mb-24 lg:-mt-4">
+        <div className="relative z-10 px-8">
+          <div className="container mx-auto font-lora text-gray-200 italic mb-12 lg:mb-24 mt-8 lg:-mt-4">
             <Link to="/stories" className="text-gray-200">
               Stories
             </Link>

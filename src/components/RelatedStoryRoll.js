@@ -9,10 +9,10 @@ class RelatedStoryRollComp extends React.Component {
     const { edges: posts } = data.allMarkdownRemark;
     const filtered = posts.filter(({ node }) => node.id !== curr);
     return (
-      <div className="flex flex-wrap">
+      <div className="flex flex-wrap text-center">
         {filtered &&
           filtered.map(({ node: post }) => (
-            <div className="w-full md:w-1/2 p-4" key={post.id}>
+            <div className="w-full md:w-1/2 py-4 lg:p-4" key={post.id}>
               <BackgroundImage
                 fluid={post.frontmatter.featuredimage.childImageSharp.fluid}
               >
