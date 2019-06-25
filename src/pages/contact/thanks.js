@@ -1,15 +1,28 @@
-import React from 'react'
-import Layout from '../../components/Layout'
+import React from "react";
+import Layout from "../../components/Layout";
+import Hero from "../../components/Hero";
 
-export default () => (
+export default ({ data }) => (
   <Layout>
-    <section className="section">
-      <div className="container">
-        <div className="content">
-          <h1>Thank you!</h1>
-          <p>This is a custom thank you page for form submissions</p>
-        </div>
-      </div>
-    </section>
+    <Hero
+      image={data.heroBg}
+      content={{
+        heading: "Thank You",
+        subheading: "We will be in touch"
+      }}
+      home={true}
+    />
   </Layout>
-)
+);
+
+export const pageQuery = graphql`
+  query ThanksPageTemplate {
+    heroBg: file(relativePath: { eq: "storiesindex-hero-img.jpg" }) {
+      childImageSharp {
+        fluid(maxWidth: 2048, quality: 90) {
+          ...GatsbyImageSharpFluid_withWebp
+        }
+      }
+    }
+  }
+`;
