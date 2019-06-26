@@ -34,7 +34,7 @@ export const IndexPageTemplate = ({ frontmatter }) => (
       />
       <LeafEl1 />
       <LeafEl2 />
-      <Line mobile={2} desk={36} />
+      <Line mobile={20} desk={36} />
       <IntroBackgroundSection>
         <section>
           <Fade>
@@ -225,7 +225,7 @@ const LeafEl1 = () => (
         pointerEvents: "none"
       }}
     >
-      <Parallax y={[0, 80]} tagOuter="figure">
+      <Parallax y={[-10, 70]} tagOuter="figure">
         <img src={Leaf1} alt="leaf" />
       </Parallax>
     </div>
@@ -242,7 +242,7 @@ const LeafEl2 = () => (
         pointerEvents: "none"
       }}
     >
-      <Parallax y={[-20, 10]} tagOuter="figure">
+      <Parallax y={[-20, 0]} tagOuter="figure">
         <img src={Leaf2} alt="leaf" />
       </Parallax>
     </div>
@@ -253,7 +253,7 @@ const LeafEl3 = () => (
     <div
       style={{
         position: "absolute",
-        bottom: "100px",
+        bottom: "0px",
         left: "50%",
         marginLeft: "-260px",
         zIndex: "5",
