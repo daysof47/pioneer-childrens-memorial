@@ -44,14 +44,14 @@ const Navbar = class extends React.Component {
             <div className="mx-4">
               <Link to="/" title="Logo" className="flex items-center">
                 <img
-                  src={thePlacelogo}
-                  alt="This Is The Place"
-                  style={{ width: "100px", margin: "0 8px" }}
-                />
-                <img
                   src={logo}
                   alt="Days of 47"
                   style={{ width: "90px", margin: "0 8px" }}
+                />
+                <img
+                  src={thePlacelogo}
+                  alt="This Is The Place"
+                  style={{ width: "100px", margin: "0 8px" }}
                 />
               </Link>
             </div>
@@ -94,15 +94,15 @@ const Navbar = class extends React.Component {
                 About the Memorial
               </Link>
             </div>
+            */}
             <div className="hidden lg:block mx-4">
               <Link
-                to="/"
+                to="/stories"
                 className="inline-block uppercase py-3 px-8 bg-white text-green text-sm tracking-widest shadow font-bold"
               >
-                Visit the Memorial
+                Read the stories
               </Link>
             </div>
-            */}
           </div>
         </div>
       </nav>

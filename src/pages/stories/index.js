@@ -16,15 +16,15 @@ export default ({ data }) => (
         image={data.heroBg}
         content={{
           heading: "The Stories",
-          subheading: "Need subheadline content here"
+          subheading: ""
         }}
       />
       <IntroBackgroundSection>
         <HugeText text="Featured" start="10" finish="-40" />
         <div className="container mx-auto mb-8 lg:mb-24 mt-8 lg:mt-24">
-          <h4 className="uppercase tracking-widest text-green mb-4 text-center">
+          {/* <h4 className="uppercase tracking-widest text-green mb-4 text-center">
             Subheadline Goes Here
-          </h4>
+          </h4> */}
           <h2 className="text-3xl lg:text-4xl text-center mb-8">
             Featured Story
           </h2>
@@ -32,9 +32,9 @@ export default ({ data }) => (
         </div>
         <HugeText text="More" start="-20" finish="-50" />
         <div className="container mx-auto px-4">
-          <h4 className="uppercase tracking-widest text-green mb-4 text-center">
+          {/* <h4 className="uppercase tracking-widest text-green mb-4 text-center">
             Subheadline Goes Here
-          </h4>
+          </h4> */}
           <h2 className="text-3xl lg:text-4xl text-center mb-8">
             More Stories
           </h2>

@@ -6,6 +6,7 @@ import Hero from "../components/Hero";
 import RelatedStoryRoll from "../components/RelatedStoryRoll";
 import { ParallaxProvider } from "react-scroll-parallax";
 import HugeText from "../components/HugeText";
+import SubscribeForm from "../components/SubscribeForm";
 // import Helmet from "react-helmet";
 
 const Story = ({ data }) => {
@@ -32,9 +33,9 @@ const Story = ({ data }) => {
           <HugeText text="The Story" start="0" finish="-80" />
           <article className="max-w-3xl mx-auto mb-8 lg:mb-24">
             <header className="mb-12 text-center">
-              <h4 className="uppercase tracking-widest text-green mb-4">
+              {/* <h4 className="uppercase tracking-widest text-green mb-4">
                 Subheadline Goes Here
-              </h4>
+              </h4> */}
               <h2 className="text-3xl lg:text-4xl mb-3">
                 {post.frontmatter.secondarytitle}
               </h2>
@@ -50,13 +51,23 @@ const Story = ({ data }) => {
           </article>
           <HugeText text="More" start="-20" finish="-50" />
           <div className="container mx-auto">
-            <h4 className="uppercase tracking-widest text-green mb-4 text-center">
+            {/* <h4 className="uppercase tracking-widest text-green mb-4 text-center">
               Subheadline Goes Here
-            </h4>
+            </h4> */}
             <h2 className="text-3xl lg:text-4xl text-center mb-8">
               More Stories
             </h2>
             <RelatedStoryRoll curr={post.id} />
+            <div className="bg-tan p-8 py-24 lg:py-24 mt-12 lg:mt-24 mx-4">
+              <div className="text-center">
+                <h2 className="text-3xl lg:text-4xl mb-6">
+                  Have a Fascinating Story to Share?
+                </h2>
+                <div className="max-w-xl m-auto">
+                  <SubscribeForm />
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </ParallaxProvider>
