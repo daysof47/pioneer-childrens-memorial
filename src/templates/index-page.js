@@ -39,14 +39,18 @@ export const IndexPageTemplate = ({ frontmatter }) => (
       <IntroBackgroundSection>
         <section>
           <Fade>
-            <div className="text-center mx-auto max-w-2xl px-8">
-              <h4 className="uppercase tracking-widest text-green mb-4">
+            <div className="text-center mx-auto max-w-3xl px-8">
+              <h4 className="uppercase tracking-widest text-green mb-4 max-w-lg mx-auto">
                 {frontmatter.intro.subheading}
               </h4>
               <h2 className="text-3xl lg:text-4xl mb-6">
                 {frontmatter.intro.heading}
               </h2>
-              <div>{frontmatter.intro.description}</div>
+              <div
+                dangerouslySetInnerHTML={{
+                  __html: frontmatter.intro.description
+                }}
+              ></div>
               {/*
               <Link
                 to={frontmatter.intro.link}
@@ -113,8 +117,9 @@ export const IndexPageTemplate = ({ frontmatter }) => (
         <section className="py-4 lg:py-12">
           <div className="container mx-auto text-center">
             <div className="mb-16 lg:mb-36">
-              <h4 className="uppercase tracking-widest text-green mb-4">
-                Subheadline
+              <h4 className="uppercase tracking-widest text-green mb-4 max-w-xl mx-auto">
+                This website has been made possible by the hard work and
+                generous gifts from our donors.
               </h4>
               <h2 className="text-3xl lg:text-4xl">Our Donors</h2>
             </div>
@@ -122,9 +127,9 @@ export const IndexPageTemplate = ({ frontmatter }) => (
               <Fade bottom>
                 {DonorList.map((donor, index) => {
                   return (
-                    <li keys={index} className="w-full lg:w-1/3 my-3 lg:my-8">
+                    <li keys={index} className="w-full md:w-1/3 my-3 lg:my-8">
                       <div
-                        className="max-w-sm p-4"
+                        className="max-w-sm p-4 mx-auto"
                         dangerouslySetInnerHTML={{ __html: donor }}
                       ></div>
                     </li>
@@ -138,7 +143,10 @@ export const IndexPageTemplate = ({ frontmatter }) => (
         <section id="visit">
           <div className="container mx-auto">
             <div className="flex">
-              <div className="w-full lg:w-2/5 mb-32 lg:mb-4">
+              <div
+                className="w-full lg:w-2/5 mb-32 lg:mb-4"
+                style={{ minHeight: "450px" }}
+              >
                 <Fade left distance="50px">
                   <div className="p-8">
                     <h4 className="uppercase tracking-widest text-green mb-4 text-center lg:text-left">
@@ -166,11 +174,13 @@ export const IndexPageTemplate = ({ frontmatter }) => (
         <section id="subscribe">
           <div className="container bg-tan p-8 py-24 lg:py-24 mb-12 relative">
             <div className="max-w-2xl mx-auto text-center">
-              <h2 className="text-3xl lg:text-4xl mb-6">Newsletter Headline</h2>
+              <h2 className="text-3xl lg:text-4xl mb-6">
+                “Children of the Trail” Newsletter
+              </h2>
               <p>
-                To receive more information about the Pioneer Children's
-                Memorial and how you can help in grow, please provide your email
-                address. It will be used only for that purpose.
+                To receive more information about the pioneer children’s
+                memorial and how you can help it grow, please provide your name
+                and email address in the form below.
               </p>
               <SubscribeForm />
             </div>
@@ -185,7 +195,7 @@ export const IndexPageTemplate = ({ frontmatter }) => (
                   className="mx-auto"
                 />
               </p>
-              <p className="mb-4">{frontmatter.familysearch}</p>
+              {/* <p className="mb-4">{frontmatter.familysearch}</p> */}
               <p>
                 <a
                   href="https://www.familysearch.org/en/"
