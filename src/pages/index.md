@@ -5,7 +5,7 @@ heroImage: /img/home-hero-image.jpg
 heading: Children of the Trail
 subheading: Remembering those along the way.
 intro:
-  description: >-
+  description: >
     Thousands of pioneer children walked, rode and camped their way through more
     than 1,300-miles of trail from Council Bluffs, Iowa to the Land of Zion in
     Utah. It was an adventure for most. They played and argued like most
