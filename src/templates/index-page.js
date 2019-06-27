@@ -195,7 +195,7 @@ export const IndexPageTemplate = ({ frontmatter }) => (
                   className="mx-auto"
                 />
               </p>
-              {/* <p className="mb-4">{frontmatter.familysearch}</p> */}
+              <p className="mb-4">{frontmatter.familysearch}</p>
               <p>
                 <a
                   href="https://www.familysearch.org/en/"
