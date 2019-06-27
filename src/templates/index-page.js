@@ -34,7 +34,8 @@ export const IndexPageTemplate = ({ frontmatter }) => (
       />
       <LeafEl1 />
       <LeafEl2 />
-      <Line mobile={20} desk={36} />
+      <div className="home-scroll-line"></div>
+      <Line mobile={20} desk={48} />
       <IntroBackgroundSection>
         <section>
           <Fade>
@@ -64,10 +65,10 @@ export const IndexPageTemplate = ({ frontmatter }) => (
             <SlideShow images={frontmatter.gallery} />
           </div>
         </section>
+        <Line mobile={20} desk={48} />
       </IntroBackgroundSection>
-      <Line mobile={20} desk={48} />
       <WomenParallax />
-      <HugeText text="Large Headline" start="20" finish="-40" />
+      <HugeText text="The Statues" start="20" finish="-40" />
       <section className="p-4 lg:py-24 mb-12">
         <div className="container mx-auto">
           <div className="flex justify-end">
@@ -105,7 +106,7 @@ export const IndexPageTemplate = ({ frontmatter }) => (
         </div>
       </section>
       <section className="py-4 mt-48">
-        <TellStory />
+        <TellStory content={frontmatter.submitStoryCta} />
       </section>
       <BodyBackgroundSection>
         <Line mobile={20} desk={20} />
@@ -225,7 +226,7 @@ const LeafEl1 = () => (
         pointerEvents: "none"
       }}
     >
-      <Parallax y={[-10, 70]} tagOuter="figure">
+      <Parallax y={[-10, 80]} tagOuter="figure">
         <img src={Leaf1} alt="leaf" />
       </Parallax>
     </div>

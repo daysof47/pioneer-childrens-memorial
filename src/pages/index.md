@@ -57,10 +57,13 @@ familysearch: >
   a pellentesque nec, egestas non.
 gallery:
   - alt: Photo of the site
-    image: /img/home-gallery-1.jpg
+    image: /img/home-gallery-4.jpg
   - alt: Photo of the site
-    image: /img/home-gallery-2.jpg
+    image: /img/home-gallery-5.jpg
   - alt: Photo of the site
-    image: /img/home-gallery-3.jpg
+    image: /img/home-gallery-6.jpg
+  - alt: Photo of the site
+    image: /img/home-gallery-7.jpg
+  - alt: Photo of the site
+    image: /img/home-gallery-8.jpg
 ---
-

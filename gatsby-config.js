@@ -3,7 +3,8 @@ var proxy = require("http-proxy-middleware");
 module.exports = {
   siteMetadata: {
     title: "Pioneer Childrens Memorial",
-    description: "We will need a discription"
+    description:
+      "The Pioneer Childrens Memorial honors the fallen children who died along the pioneer trail."
   },
   plugins: [
     "gatsby-plugin-react-helmet",
