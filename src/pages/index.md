@@ -5,12 +5,25 @@ heroImage: /img/home-hero-image.jpg
 heading: Children of the Trail
 subheading: Remembering those along the way.
 intro:
-  description:
-    <p>Thousands of pioneer children walked, rode and camped their way through more than 1,300-miles of trail from Council Bluffs, Iowa to the Land of Zion in Utah. It was an adventure for most. They played and argued like most children. They picked berries, slept out under the stars, and danced. Some suffered, but most made it to Utah no worse for the wear. Tragically, however, 684 of them died during the trek.</p>
+  description: >-
+    <p>Thousands of pioneer children walked, rode and camped their way through
+    more than 1,300-miles of trail from Council Bluffs, Iowa to the Land of Zion
+    in Utah. It was an adventure for most. They played and argued like most
+    children. They picked berries, slept out under the stars, and danced. Some
+    suffered, but most made it to Utah no worse for the wear. Tragically,
+    however, 684 of them died during the trek.</p>
 
-    <p>The Days of '47, Inc. and This Is The Place State Park, with the help of generous donors, have created a striking, new memorial to the 684 children who lost their lives while making their way to Zion on the pioneer trail in the mid-1800’s.</p>
+    <p>The Days of '47, Inc. and This Is The Place State Park, with the help of
+    generous donors, have created a striking, new memorial to the 684 children
+    who lost their lives while making their way to Zion on the pioneer trail in
+    the mid-1800’s.</p>
 
-    <p>The new memorial is located at This Is The Place State Park in Salt Lake City, Utah, where the names of the children are etched in stone so they will not be forgotten. Their stories are told through a variety of innovative, time-honored, artistic ways that bring them and the trail to life. Come and see for yourself. The stories are tender, you’ll feel the connections and your heart will be touched.</p>
+    <p>The new memorial is located at This Is The Place State Park in Salt Lake
+    City, Utah, where the names of the children are etched in stone so they will
+    not be forgotten. Their stories are told through a variety of innovative,
+    time-honored, artistic ways that bring them and the trail to life. Come and
+    see for yourself. The stories are tender, you’ll feel the connections and
+    your heart will be touched.</p>
   heading: The Memorial
   link: /
   linkText: About the Memorial
@@ -25,8 +38,9 @@ mainpitch:
   linkText: Tour the Memorial
   subheading: Experience the stories
 visit:
-  description: |+
-
+  description: >-
+    Please visit This is the Place Heritage Park. www.thisistheplace.org for
+    location and hours of operation.
   heading: Visit The Memorial
   link: /
   linkText: Get Directions
@@ -41,7 +55,13 @@ submitStoryCta:
   heading: Have a fascinating story to tell?
   link: /
   linkText: Submit a story
-familysearch: .
+familysearch: >-
+  Finding your family tree is easier than you think.  Go to
+  www.familysearch.org. 
+
+  For Android, go to the PlayStore and download the Family Search App.  
+
+  For Apple, go to Apps and download FamilySearch.
 gallery:
   - alt: Photo of the site
     image: /img/home-gallery-4.jpg
@@ -54,3 +74,4 @@ gallery:
   - alt: Photo of the site
     image: /img/home-gallery-8.jpg
 ---
+
