@@ -2,8 +2,8 @@
 templateKey: index-page
 title: Pioneer Childrens Memorial
 heroImage: /img/home-hero-image.jpg
-heading: 'Remembering Those Along The Way. '
-subheading: The stories of the Pioneer children like never before.
+heading: Children of the Trail
+subheading: Remembering those along the way.
 intro:
   description: >-
     Thousands of pioneer children walked, rode and camped their way through more
