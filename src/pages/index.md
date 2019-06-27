@@ -30,7 +30,7 @@ intro:
   subheading: “Let us never forget the cost of our faith.” Gordon B. Hinckley
 mainpitch:
   description: >-
-    Artistic creativity brings the children’s stories to life in more than 30
+    Artistic creativity brings the children’s stories to life in more than 47
     bronze statues at the new pioneer children’s memorial at This Is The Place
     State Park. Each statue represents multiple stories in a unique way.
   heading: Over Thirty Bronze Statues Tell the Storie
