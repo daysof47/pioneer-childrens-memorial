@@ -40,11 +40,8 @@ mainpitch:
   linkText: Tour the Memorial
   subheading: Experience the stories
 visit:
-  description: >
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat test.
+  description: |+
+
   heading: Visit The Memorial
   link: /
   linkText: Get Directions
@@ -59,10 +56,7 @@ submitStoryCta:
   heading: Have a fascinating story to tell?
   link: /
   linkText: Submit a story
-familysearch: >
-  Quisque velit nisi, pretium ut lacinia in, elementum id enim. Mauris blandit
-  aliquet elit, eget tincidunt nibh pulvinar a. Praesent sapien massa, convallis
-  a pellentesque nec, egestas non.
+familysearch: .
 gallery:
   - alt: Photo of the site
     image: /img/home-gallery-4.jpg
