@@ -6,32 +6,30 @@ heading: Remembering those along the way.
 subheading: Remembering those along the way.
 intro:
   description: >-
-    Thousands of pioneer children walked, rode and camped their way through more
+    <p>Thousands of pioneer children walked, rode and camped their way through more
     than 1,300-miles of trail from Council Bluffs, Iowa to the Land of Zion in
     Utah. It was an adventure for most. They played and argued like most
     children. They picked berries, slept out under the stars, and danced. Most
     made it to Utah no worse for the wear. Tragically, however, 684 of them died
-    on the trail.
+    on the trail.</p>
 
-
-    *The Days of '47, Inc.* and *This Is The Place Heritage Park*, with the help
+    <p><em>The Days of '47, Inc.</em> and <em>This Is The Place Heritage Park</em>, with the help
     of generous donors, have created a striking, new Pioneer Children's Memorial
     to honor the 684 children who lost their lives while making their way to
-    Zion on the pioneer trail in the mid-1800’s.
+    Zion on the pioneer trail in the mid-1800’s.</p>
 
-
-    The new memorial is located at *This Is The Place Heritage Park* in Salt
+    <p>The new memorial is located at <em>This Is The Place Heritage Park</em> in Salt
     Lake City, Utah, where the names of the children are etched in stone so they
     will never be forgotten. Their stories are told through a variety of
     innovative, time-honored, artistic expressions that bring them and the trail
     to life. Come and see for yourself. The stories are tender, you’ll feel
-    connections and your heart will be touched.
+    connections and your heart will be touched.</p>
   heading: The Memorial
   link: /
   linkText: About the Memorial
   subheading: “Let us never forget the cost of our faith.” Gordon B. Hinckley
 mainpitch:
-  description: "Artistic creativity brings the children’s stories to life in more than 30 bronze statues at the new _Pioneer Children's Memorial_. Each statue represents multiple stories in a unique way. On the surface, the larger-than-life bronze sculptures portray the trail history, but on a deeper level they symbolize the grit, resilience and what handcart pioneer Jens Nielsen called (stickity-to-ity)\r stick-to-itiveness, – the qualities they used to make the western desert “blossom as a rose.” Artist sculpted the statues in conjunction with the Metal Arts Foundry in Lehi, Utah."
+  description: "Artistic creativity brings the children’s stories to life in more than 30 bronze statues at the new <em>Pioneer Children's Memorial</em>. Each statue represents multiple stories in a unique way. On the surface, the larger-than-life bronze sculptures portray the trail history, but on a deeper level they symbolize the grit, resilience and what handcart pioneer Jens Nielsen called (stickity-to-ity)\r stick-to-itiveness, – the qualities they used to make the western desert “blossom as a rose.” Artist sculpted the statues in conjunction with the Metal Arts Foundry in Lehi, Utah."
   heading: Over thirty bronze statues tell the stories
   link: /
   linkText: Tour the Memorial

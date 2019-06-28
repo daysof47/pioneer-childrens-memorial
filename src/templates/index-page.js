@@ -85,9 +85,12 @@ export const IndexPageTemplate = ({ frontmatter }) => (
                   <h2 className="text-3xl lg:text-4xl mb-6 text-center lg:text-left">
                     {frontmatter.mainpitch.heading}
                   </h2>
-                  <div className="mb-8">
-                    {frontmatter.mainpitch.description}
-                  </div>
+                  <div
+                    className="mb-8"
+                    dangerouslySetInnerHTML={{
+                      __html: frontmatter.mainpitch.description
+                    }}
+                  ></div>
                   {/*
                   <div className="text-center lg:text-left">
                     <Link
