@@ -6,28 +6,26 @@ heading: Remembering those along the way.
 subheading: Remembering those along the way.
 intro:
   description: >-
-    <p>Thousands of pioneer children walked, rode and camped their way through
-    more than 1,300-miles of trail from Council Bluffs, Iowa to the Land of Zion
-    in Utah. It was an adventure for most. They played and argued like most
+    Thousands of pioneer children walked, rode and camped their way through more
+    than 1,300-miles of trail from Council Bluffs, Iowa to the Land of Zion in
+    Utah. It was an adventure for most. They played and argued like most
     children. They picked berries, slept out under the stars, and danced. Most
     made it to Utah no worse for the wear. Tragically, however, 684 of them died
-    on the trail.</p>
+    on the trail.
 
 
-
-    <p>T_he Days of '47, Inc._ and _This Is The Place Heritage Park_, with the
-    help of generous donors, have created a striking, new Pioneer Children's
-    Memorial to honor the 684 children who lost their lives while making their
-    way to Zion on the pioneer trail in the mid-1800’s.</p>
-
+    *The Days of '47, Inc.* and *This Is The Place Heritage Park*, with the help
+    of generous donors, have created a striking, new Pioneer Children's Memorial
+    to honor the 684 children who lost their lives while making their way to
+    Zion on the pioneer trail in the mid-1800’s.
 
 
-    <p>The new memorial is located at _This Is The Place Heritage Park_ in Salt
+    The new memorial is located at *This Is The Place Heritage Park* in Salt
     Lake City, Utah, where the names of the children are etched in stone so they
     will never be forgotten. Their stories are told through a variety of
     innovative, time-honored, artistic expressions that bring them and the trail
     to life. Come and see for yourself. The stories are tender, you’ll feel
-    connections and your heart will be touched.</p>
+    connections and your heart will be touched.
   heading: The Memorial
   link: /
   linkText: About the Memorial
