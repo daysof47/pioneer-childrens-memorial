@@ -24,7 +24,7 @@ class SubscribeForm extends React.Component {
       "form-name": form.getAttribute("name"),
       ...this.state
     });
-    console.log(body);
+    // console.log(body);
     fetch("/", {
       method: "POST",
       headers: { "Content-Type": "application/x-www-form-urlencoded" },

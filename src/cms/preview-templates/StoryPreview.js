@@ -13,7 +13,7 @@ const StoryPreview = ({ entry, getAsset }) => {
       //   donorsBg={donorsBg}
       //   submitStory={submitStory}
       // />
-      <div>{console.log(data)}</div>
+      // <div>{console.log(data)}</div>
     );
   } else {
     return <div>Loading...</div>;

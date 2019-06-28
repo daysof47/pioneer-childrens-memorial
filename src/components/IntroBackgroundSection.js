@@ -17,7 +17,7 @@ const IntroBackgroundSection = ({ children }) => (
     `}
     render={data => {
       // Set ImageData.
-      console.log(data);
+      // console.log(data);
       const imageData = data.introBg.childImageSharp.fluid;
       return (
         <BackgroundImage

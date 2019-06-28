@@ -11,7 +11,7 @@ import IntroBackgroundSection from "../../components/IntroBackgroundSection";
 export default ({ data }) => (
   <Layout>
     <ParallaxProvider>
-      {console.log(data)}
+      {/* {console.log(data)} */}
       <Hero
         image={data.heroBg}
         content={{

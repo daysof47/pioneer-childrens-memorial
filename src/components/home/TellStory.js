@@ -19,7 +19,7 @@ const TellStory = ({ content }) => (
     `}
     render={data => {
       const imageData = data.submitStory.childImageSharp.fluid;
-      console.log(content);
+      // console.log(content);
       return (
         <div>
           <HugeText text="Tell a Story" start="-20" finish="-100" />
