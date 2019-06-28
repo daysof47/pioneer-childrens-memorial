@@ -61,8 +61,8 @@ familysearch: >-
   Learning about your ancestors will help you better understand who you are. It
   will create a family bond linking the present to the past, and will build a
   bridge to the future. We invite you to bring your ancestors to life and tell
-  their stories on the <i>Pioneer Children’s Memorial</i> website. For more
-  information on how to find them, go to: https://www.familysearch.org/en/
+  their stories on the Pioneer Children’s Memorial website. For more information
+  on how to find them, go to: https://www.familysearch.org/en/
 gallery:
   - alt: Photo of the site
     image: /img/home-gallery-4.jpg
