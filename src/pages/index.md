@@ -2,41 +2,42 @@
 templateKey: index-page
 title: Pioneer Childrens Memorial
 heroImage: /img/home-hero-image.jpg
-heading: Children of the Trail
+heading: Remembering those along the way.
 subheading: Remembering those along the way.
 intro:
   description: >-
     <p>Thousands of pioneer children walked, rode and camped their way through
     more than 1,300-miles of trail from Council Bluffs, Iowa to the Land of Zion
     in Utah. It was an adventure for most. They played and argued like most
-    children. They picked berries, slept out under the stars, and danced. Some
-    suffered, but most made it to Utah no worse for the wear. Tragically,
-    however, 684 of them died during the trek.</p>
+    children. They picked berries, slept out under the stars, and danced. Most
+    made it to Utah no worse for the wear. Tragically, however, 684 of them died
+    on the trail.</p>
 
-    <p>The Days of '47, Inc. and This Is The Place State Park, with the help of
-    generous donors, have created a striking, new memorial to the 684 children
-    who lost their lives while making their way to Zion on the pioneer trail in
-    the mid-1800’s.</p>
 
-    <p>The new memorial is located at This Is The Place State Park in Salt Lake
-    City, Utah, where the names of the children are etched in stone so they will
-    not be forgotten. Their stories are told through a variety of innovative,
-    time-honored, artistic ways that bring them and the trail to life. Come and
-    see for yourself. The stories are tender, you’ll feel the connections and
-    your heart will be touched.</p>
+
+    <p>T_he Days of '47, Inc._ and _This Is The Place Heritage Park_, with the
+    help of generous donors, have created a striking, new Pioneer Children's
+    Memorial to honor the 684 children who lost their lives while making their
+    way to Zion on the pioneer trail in the mid-1800’s.</p>
+
+
+
+    <p>The new memorial is located at _This Is The Place Heritage Park_ in Salt
+    Lake City, Utah, where the names of the children are etched in stone so they
+    will never be forgotten. Their stories are told through a variety of
+    innovative, time-honored, artistic expressions that bring them and the trail
+    to life. Come and see for yourself. The stories are tender, you’ll feel
+    connections and your heart will be touched.</p>
   heading: The Memorial
   link: /
   linkText: About the Memorial
   subheading: “Let us never forget the cost of our faith.” Gordon B. Hinckley
 mainpitch:
-  description: >-
-    Artistic creativity brings the children’s stories to life in more than 47
-    bronze statues at the new pioneer children’s memorial at This Is The Place
-    State Park. Each statue represents multiple stories in a unique way.
-  heading: Over Thirty Bronze Statues Tell the Storie
+  description: "Artistic creativity brings the children’s stories to life in more than 30 bronze statues at the new _Pioneer Children's Memorial_. Each statue represents multiple stories in a unique way. On the surface, the larger-than-life bronze sculptures portray the trail history, but on a deeper level they symbolize the grit, resilience and what handcart pioneer Jens Nielsen called (stickity-to-ity)\r stick-to-itiveness, – the qualities they used to make the western desert “blossom as a rose.” Artist sculpted the statues in conjunction with the Metal Arts Foundry in Lehi, Utah."
+  heading: Over thirty bronze statues tell the stories
   link: /
   linkText: Tour the Memorial
-  subheading: Experience the stories
+  subheading: Artistic creativity and symbolism
 visit:
   description: >-
     Please visit This is the Place Heritage Park. www.thisistheplace.org for
@@ -47,21 +48,21 @@ visit:
   subheading: Subheadline
 submitStoryCta:
   description: >-
-    There are many stories hiding in attics, old trunks, and on computer drives
+    There are many stories hiding in attics, old trunks and on computer drives
     waiting to be told. Search your own ancestry. Do you descend from ancestors
     who lost children along the trail? You can add their stories to the website
-    too. (This website is still under construction and won’t be available for
-    story downloads at this time. Please watch for updates.)
+    too. (Pioneer stories unfortunately can’t be uploaded to the website at this
+    time, because it is still under construction. Please check this website for
+    future updates.)
   heading: Have a fascinating story to tell?
   link: /
   linkText: Submit a story
 familysearch: >-
-  Finding your family tree is easier than you think.  Go to
-  www.familysearch.org. 
-
-  For Android, go to the PlayStore and download the Family Search App.  
-
-  For Apple, go to Apps and download FamilySearch.
+  Learning about your ancestors will help you better understand who you are. It
+  will create a family bond linking the present to the past, and will build a
+  bridge to the future. We invite you to bring your ancestors to life and tell
+  their stories on the <i>Pioneer Children’s Memorial</i> website. For more
+  information on how to find them, go to: https://www.familysearch.org/en/
 gallery:
   - alt: Photo of the site
     image: /img/home-gallery-4.jpg
