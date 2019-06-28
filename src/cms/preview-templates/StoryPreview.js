@@ -7,6 +7,7 @@ const StoryPreview = ({ entry, getAsset }) => {
 
   if (data) {
     return (
+      <div>&nbsp;</div>
       // <IndexPageTemplate
       //   frontmatter={frontmatter}
       //   introBg={introBg}
