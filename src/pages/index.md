@@ -29,7 +29,7 @@ intro:
   linkText: About the Memorial
   subheading: “Let us never forget the cost of our faith.” Gordon B. Hinckley
 mainpitch:
-  description: "Artistic creativity brings the children’s stories to life in more than 30 bronze statues at the new <em>Pioneer Children's Memorial</em>. Each statue represents multiple stories in a unique way. On the surface, the larger-than-life bronze sculptures portray the trail history, but on a deeper level they symbolize the grit, resilience and what handcart pioneer Jens Nielsen called (stickity-to-ity)\r stick-to-itiveness, – the qualities they used to make the western desert “blossom as a rose.” Artist sculpted the statues in conjunction with the Metal Arts Foundry in Lehi, Utah."
+  description: "Artistic creativity brings the children’s stories to life in more than 47 bronze statues at the new <em>Pioneer Children's Memorial</em>. Each statue represents multiple stories in a unique way. On the surface, the larger-than-life bronze sculptures portray the trail history, but on a deeper level they symbolize the grit, resilience and what handcart pioneer Jens Nielsen called (stickity-to-ity)\r stick-to-itiveness, – the qualities they used to make the western desert “blossom as a rose.” Artist sculpted the statues in conjunction with the Metal Arts Foundry in Lehi, Utah."
   heading: Over thirty bronze statues tell the stories
   link: /
   linkText: Tour the Memorial
