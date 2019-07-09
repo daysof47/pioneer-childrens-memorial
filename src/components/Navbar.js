@@ -40,7 +40,7 @@ const Navbar = class extends React.Component {
         aria-label="main-navigation"
       >
         <div className="container mx-auto">
-          <div className="flex justify-between items-center">
+          <div className="flex justify-center lg:justify-between items-center">
             <div className="mx-4">
               <Link to="/" title="Logo" className="flex items-center">
                 <img

@@ -18,7 +18,7 @@ class FeaturedStoryHome extends React.Component {
       >
         {posts &&
           posts.map(({ node: post }) => (
-            <div className="w-full lg:w-1/2">
+            <div className="w-full lg:w-1/2" key={post.fields.slug}>
               <h4 className="uppercase tracking-widest text-green mb-4 text-center lg:text-left">
                 Featured Story
               </h4>

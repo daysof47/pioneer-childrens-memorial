@@ -8,8 +8,6 @@ import Fade from "react-reveal/Fade";
 import Leaf1 from "../img/leaf-1.png";
 import Leaf2 from "../img/leaf-2.png";
 import Leaf3 from "../img/leaf-3.png";
-import WomenImage from "../img/home-about-statue.png";
-import ManImage from "../img/home-visit-statue.png";
 import FamilySearchLogo from "../img/familysearch-logo.png";
 import { ParallaxProvider } from "react-scroll-parallax";
 import { Parallax } from "react-scroll-parallax";
@@ -20,6 +18,8 @@ import BodyBackgroundSection from "../components/BodyBackgroundSection";
 import FeaturedStoryHome from "../components/home/FeaturedStoryHome";
 import TellStory from "../components/home/TellStory";
 import SubscribeForm from "../components/SubscribeForm";
+import AboutStatue from "../components/home/AboutStatue";
+import VisitStatue from "../components/home/VisitStatue";
 
 export const IndexPageTemplate = ({ frontmatter }) => (
   <div>
@@ -128,9 +128,9 @@ export const IndexPageTemplate = ({ frontmatter }) => (
             </div>
             <ul className="font-lora text-green text-4xl flex justify-around flex-wrap italic leading-tight tracking-wide">
               <Fade bottom>
-                {DonorList.map((donor, index) => {
+                {DonorList.map(donor => {
                   return (
-                    <li keys={index} className="w-full md:w-1/3 my-3 lg:my-8">
+                    <li key={donor} className="w-full md:w-1/3 my-3 lg:my-8">
                       <div
                         className="max-w-sm p-4 mx-auto"
                         dangerouslySetInnerHTML={{ __html: donor }}
@@ -144,37 +144,36 @@ export const IndexPageTemplate = ({ frontmatter }) => (
         </section>
         <Line mobile={20} desk={48} />
         <section id="visit">
-          <div className="container mx-auto">
-            <div className="flex">
-              <div
-                className="w-full lg:w-2/5 mb-32 lg:mb-4"
-                style={{ minHeight: "450px" }}
-              >
-                <Fade left distance="50px">
-                  <div className="p-8">
-                    <h4 className="uppercase tracking-widest text-green mb-4 text-center lg:text-left">
-                      {frontmatter.visit.subheading}
-                    </h4>
-                    <h2 className="text-3xl lg:text-4xl mb-6 text-center lg:text-left">
-                      {frontmatter.visit.heading}
-                    </h2>
-                    <div className="mb-8">{frontmatter.visit.description}</div>
-                    <a
-                      href="https://www.google.com/maps/place/This+Is+The+Place+Heritage+Park/@40.7526393,-111.8180033,17z/data=!3m1!4b1!4m5!3m4!1s0x87525e2bd2441443:0xdf4e3ffc5c0526e4!8m2!3d40.7526353!4d-111.8158093"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="block lg:inline-block w-48 mx-auto py-4 px-8 bg-green text-white uppercase tracking-widest text-sm"
-                    >
-                      {frontmatter.visit.linkText}
-                    </a>
-                  </div>
-                </Fade>
-              </div>
+          <div className="container mx-auto relative">
+            <div className="w-full lg:w-2/5 mb-32 lg:mb-4">
+              <Fade left distance="50px">
+                <div className="p-8">
+                  {/* <h4 className="uppercase tracking-widest text-green mb-4 text-center lg:text-left">
+                    {frontmatter.visit.subheading}
+                  </h4> */}
+                  <h2 className="text-3xl lg:text-4xl mb-6 text-center lg:text-left">
+                    {frontmatter.visit.heading}
+                  </h2>
+                  <div className="mb-8">{frontmatter.visit.description}</div>
+                  <a
+                    href="https://www.google.com/maps/place/This+Is+The+Place+Heritage+Park/@40.7526393,-111.8180033,17z/data=!3m1!4b1!4m5!3m4!1s0x87525e2bd2441443:0xdf4e3ffc5c0526e4!8m2!3d40.7526353!4d-111.8158093"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="block lg:inline-block w-48 mx-auto py-4 px-8 bg-green text-white uppercase tracking-widest text-sm"
+                  >
+                    {frontmatter.visit.linkText}
+                  </a>
+                </div>
+              </Fade>
             </div>
           </div>
-          <ManParallax />
+          <div className="lg:float-right w-full" style={{ maxWidth: "1000px" }}>
+            <Parallax y={[-45, 0]} tagOuter="figure">
+              <VisitStatue />
+            </Parallax>
+          </div>
         </section>
-        <section id="subscribe">
+        <section id="subscribe" style={{ clear: "both" }}>
           <div className="container bg-tan p-8 py-24 lg:py-24 mb-12 relative">
             <div className="max-w-2xl mx-auto text-center">
               <h2 className="text-3xl lg:text-4xl mb-6">
@@ -292,22 +291,11 @@ const DonorList = [
 
 const WomenParallax = () => (
   <div className="relative">
-    <div className="lg:absolute lg:w-1/2">
-      <Parallax y={[-10, 10]} tagOuter="figure">
-        <img src={WomenImage} alt="Statue of Women" />
+    <div className="lg:absolute md:w-1/2 lg:w-2/5">
+      <Parallax y={[-20, 0]} tagOuter="figure">
+        <AboutStatue />
       </Parallax>
     </div>
-  </div>
-);
-
-const ManParallax = () => (
-  <div className="relative">
-    <div className="lg:absolute lg:right-0" style={{ maxWidth: "1000px" }}>
-      <Parallax y={[-45, 0]} tagOuter="figure">
-        <img src={ManImage} alt="Statue of Man" />
-      </Parallax>
-    </div>
-    <div className="hidden lg:block" style={{ height: "400px" }}></div>
   </div>
 );
 

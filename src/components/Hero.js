@@ -41,7 +41,6 @@ export default function Hero({ image, content, home = false }) {
             </p>
           ) : null}
         </div>
-        {home ? <div className="scroll">SCROLL</div> : null}
       </div>
     </BackgroundImage>
   );
