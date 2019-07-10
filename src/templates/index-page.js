@@ -122,6 +122,7 @@ export const IndexPageTemplate = ({ frontmatter }) => (
         <TellStory content={frontmatter.submitStoryCta} />
       </section>
       <BodyBackgroundSection>
+        {/*         
         <Line mobile={20} desk={20} />
         <section className="py-4 lg:py-12">
           <div className="container mx-auto text-center">
@@ -147,7 +148,7 @@ export const IndexPageTemplate = ({ frontmatter }) => (
               </Fade>
             </ul>
           </div>
-        </section>
+        </section> */}
         <Line mobile={20} desk={48} />
         <section id="visit">
           <div className="container mx-auto relative">

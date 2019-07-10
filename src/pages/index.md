@@ -52,7 +52,7 @@ submitStoryCta:
     future updates.)
   heading: Have a fascinating story to tell?
   link: /
-  linkText: Submit a story
+  linkText: Subscribe
 familysearch: >-
   Learning about your ancestors will help you better understand who you are. It
   will create a family bond linking the present to the past, and will build a
@@ -71,4 +71,3 @@ gallery:
   - alt: Photo of the site
     image: /img/home-gallery-8.jpg
 ---
-
