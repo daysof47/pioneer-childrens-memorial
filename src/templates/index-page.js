@@ -71,7 +71,13 @@ export const IndexPageTemplate = ({ frontmatter }) => (
         </section>
         <Line mobile={20} desk={48} />
       </IntroBackgroundSection>
-      <WomenParallax />
+      <div className="relative">
+        <div className="lg:absolute md:w-1/2 lg:w-2/5">
+          <Parallax y={[-20, 0]} tagOuter="figure">
+            <AboutStatue />
+          </Parallax>
+        </div>
+      </div>
       <HugeText text="The Statues" start="20" finish="-40" />
       <section className="p-4 lg:py-24 mb-12">
         <div className="container mx-auto">
@@ -288,16 +294,6 @@ const DonorList = [
   "Brigham Young <br />University",
   "Abby <br />Hafen"
 ];
-
-const WomenParallax = () => (
-  <div className="relative">
-    <div className="lg:absolute md:w-1/2 lg:w-2/5">
-      <Parallax y={[-20, 0]} tagOuter="figure">
-        <AboutStatue />
-      </Parallax>
-    </div>
-  </div>
-);
 
 const IndexPage = ({ data }) => {
   // console.log(data);

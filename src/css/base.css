@@ -85,7 +85,6 @@ h3 {
   font-family: "Yeseva One", cursive;
   font-size: 200px;
   width: 100%;
-  text-align: center;
   white-space: nowrap;
   text-overflow: clip;
   z-index: -1;
@@ -124,11 +123,12 @@ h3 {
 
 @media (min-width: 768px) {
   .home-scroll-line {
-    height: 240px;
+    height: 174px;
     margin: auto;
     position: absolute;
     width: 100%;
-    bottom: -60px;
+    bottom: 100%;
+    margin-bottom: -30px;
     background: url(../img/home-hero-line.png) no-repeat center top;
     z-index: 9;
   }
