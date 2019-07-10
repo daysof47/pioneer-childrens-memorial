@@ -43,7 +43,11 @@ export const ChildrenPageTemplate = ({ frontmatter }) => (
       </section>
       <div className="container mx-auto bg-tan p-8 flex items-center justify-around">
         {frontmatter.stones.map((section, index) => (
-          <Link to={`/the-children#section-${index}`} className="font-bold">
+          <Link
+            key={section.years}
+            to={`/the-children#section-${index}`}
+            className="font-bold"
+          >
             {section.years}
           </Link>
         ))}

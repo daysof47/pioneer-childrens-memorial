@@ -22,10 +22,6 @@ class NamesSlider extends Component {
     this.chunks = [];
   }
 
-  componentDidMount() {
-    this.chunks = chunk(this.props.names, 25);
-  }
-
   getKey() {
     return this.keyCount++;
   }
@@ -69,12 +65,11 @@ class NamesSlider extends Component {
           </button>
         </div>
       );
-    } else {
-      return <div></div>;
     }
   }
 
   render() {
+    this.chunks = chunk(this.props.names, 25);
     return (
       <div>
         <div>
