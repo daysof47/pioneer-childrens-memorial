@@ -2,7 +2,7 @@
 templateKey: "about-page"
 path: /about
 title: About The Memorial
-heroImage: /img/home-hero-image.jpg
+heroImage: /img/about-the-memorial-hero.jpg
 heading: About The Memorial
 test: test
 intro:
@@ -13,19 +13,19 @@ intro:
 sections:
   - heading: Making of Headline 1
     hugetext: Headline
-    image: /img/home-gallery-4.jpg
+    image: /img/placeholder-1100x1400.jpg
     description: >-
       <p>Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Nulla porttitor accumsan tincidunt. Nulla porttitor accumsan tincidunt. Donec sollicitudin molestie malesuada. Donec sollicitudin molestie malesuada.</p>
       <p>Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Nulla porttitor accumsan tincidunt. Nulla porttitor accumsan tincidunt. Donec sollicitudin molestie malesuada. Donec sollicitudin molestie malesuada.</p>
   - heading: Making of Headline 2
     hugetext: Headline
-    image: /img/home-gallery-5.jpg
+    image: /img/placeholder-1100x1400.jpg
     description: >-
       <p>Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Nulla porttitor accumsan tincidunt. Nulla porttitor accumsan tincidunt. Donec sollicitudin molestie malesuada. Donec sollicitudin molestie malesuada.</p>
       <p>Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Nulla porttitor accumsan tincidunt. Nulla porttitor accumsan tincidunt. Donec sollicitudin molestie malesuada. Donec sollicitudin molestie malesuada.</p>
   - heading: Making of Headline 3
     hugetext: Headline
-    image: /img/home-gallery-6.jpg
+    image: /img/placeholder-1100x1400.jpg
     description: >-
       <p>Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Nulla porttitor accumsan tincidunt. Nulla porttitor accumsan tincidunt. Donec sollicitudin molestie malesuada. Donec sollicitudin molestie malesuada.</p>
       <p>Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Nulla porttitor accumsan tincidunt. Nulla porttitor accumsan tincidunt. Donec sollicitudin molestie malesuada. Donec sollicitudin molestie malesuada.</p>
@@ -52,13 +52,13 @@ references:
       link: https://www.redolive.com
 gallery:
   - alt: Photo of the site
-    image: /img/home-gallery-4.jpg
+    image: /img/about-the-memorial-gallery-1.jpg
   - alt: Photo of the site
-    image: /img/home-gallery-5.jpg
+    image: /img/about-the-memorial-gallery-2.jpg
   - alt: Photo of the site
-    image: /img/home-gallery-6.jpg
+    image: /img/about-the-memorial-gallery-3.jpg
   - alt: Photo of the site
-    image: /img/home-gallery-7.jpg
+    image: /img/about-the-memorial-gallery-4.jpg
   - alt: Photo of the site
-    image: /img/home-gallery-8.jpg
+    image: /img/about-the-memorial-gallery-5.jpg
 ---

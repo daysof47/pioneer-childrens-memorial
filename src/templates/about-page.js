@@ -23,7 +23,7 @@ export const AboutPageTemplate = ({ frontmatter }) => (
       />
       <section className="relative">
         <div className="home-scroll-line"></div>
-        <Line mobile={12} desk={12} />
+        <Line mobile={4} desk={4} />
         <HugeText text="Large Headline" start="-10" finish="-60" />
         <Fade>
           <div className="text-center mx-auto max-w-3xl px-8">

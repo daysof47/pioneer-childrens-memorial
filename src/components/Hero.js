@@ -8,7 +8,7 @@ export default function Hero({ image, content, home = false }) {
     <BackgroundImage
       fluid={image.childImageSharp.fluid}
       style={{
-        backgroundAttachment: "fixed"
+        backgroundAttachment: "scroll"
       }}
     >
       <div className={`hero ${home ? "home" : ""}`}>
