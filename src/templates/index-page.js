@@ -287,14 +287,14 @@ const LeafEl3 = () => (
   </div>
 );
 
-const DonorList = [
-  "Jacob <br />Larsen",
-  "Kyle <br />Herriman",
-  "Jane <br />Smith",
-  "Andrew <br />Farseid",
-  "Brigham Young <br />University",
-  "Abby <br />Hafen"
-];
+// const DonorList = [
+//   "Jacob <br />Larsen",
+//   "Kyle <br />Herriman",
+//   "Jane <br />Smith",
+//   "Andrew <br />Farseid",
+//   "Brigham Young <br />University",
+//   "Abby <br />Hafen"
+// ];
 
 const IndexPage = ({ data }) => {
   // console.log(data);
