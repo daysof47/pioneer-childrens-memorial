@@ -28,13 +28,13 @@ export default function Hero({ image, content, home = false }) {
             <p>
               <Link
                 to="/stories"
-                className="block lg:inline-block w-56 mx-auto lg:mx-4 uppercase m-3 py-4 px-4 border-solid border-white border-2 font-bold tracking-widest text-sm hover:bg-white hover:text-green"
+                className="block text-white lg:inline-block w-56 mx-auto lg:mx-4 uppercase m-3 py-4 px-4 border-solid border-white border-2 font-bold tracking-widest text-sm hover:bg-white hover:text-green"
               >
                 Read the stories
               </Link>
               <Link
                 to="#visit"
-                className="block lg:inline-block w-56 mx-auto lg:mx-4 uppercase m-3 py-4 px-4 border-solid border-white border-2 font-bold tracking-widest text-sm hover:bg-white hover:text-green"
+                className="block text-white lg:inline-block w-56 mx-auto lg:mx-4 uppercase m-3 py-4 px-4 border-solid border-white border-2 font-bold tracking-widest text-sm hover:bg-white hover:text-green"
               >
                 Visit the Memorial
               </Link>

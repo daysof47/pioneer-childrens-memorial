@@ -36,7 +36,11 @@ const TellStory = ({ content }) => (
                 </Fade>
                 <Fade right distance="50px">
                   <div>
-                    <p className="mb-8">{content.description}</p>
+                    <div
+                      dangerouslySetInnerHTML={{
+                        __html: content.description
+                      }}
+                    ></div>
                     <p className="text-center lg:text-left">
                       <a
                         href="#subscribe"

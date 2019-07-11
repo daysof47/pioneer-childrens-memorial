@@ -1,5 +1,5 @@
 import React from "react";
-import { Link } from "gatsby";
+// import { Link } from "gatsby";
 
 import logo1 from "../img/gray-logo-1.png";
 import logo2 from "../img/gray-logo-2.png";
@@ -19,10 +19,10 @@ const Footer = class extends React.Component {
             </div>
             <div className="m-2 hidden lg:block">|</div>
             <div className="m-2 w-auto">All Rights Reserved</div>
-            <div className="m-2 w-auto">|</div>
+            {/* <div className="m-2 w-auto">|</div>
             <div className="m-2 w-auto">
               <Link to="/">Terms of Service</Link>
-            </div>
+            </div> */}
           </div>
           <div>
             {/*}

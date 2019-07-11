@@ -16,6 +16,10 @@ p {
   margin-bottom: 1em;
 }
 
+a {
+  @apply text-green;
+}
+
 a:focus,
 button:focus {
   outline: none;

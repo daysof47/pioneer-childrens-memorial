@@ -3,7 +3,7 @@ templateKey: index-page
 title: Pioneer Childrens Memorial
 heroImage: /img/home-hero-image.jpg
 heading: Remembering those along the way.
-subheading: Remembering those along the way.
+subheading:
 intro:
   description: >-
     <p>Thousands of pioneer children walked, rode and camped their way through more
@@ -43,22 +43,17 @@ visit:
   linkText: Get Directions
   subheading: Subheadline
 submitStoryCta:
-  description: >-
-    There are many stories hiding in attics, old trunks and on computer drives
-    waiting to be told. Search your own ancestry. Do you descend from ancestors
-    who lost children along the trail? You can add their stories to the website
-    too. (Pioneer stories unfortunately can’t be uploaded to the website at this
-    time, because it is still under construction. Please check this website for
-    future updates.)
+  description: >
+    <p>There are many stories hiding in attics, old trunks and on computer drives waiting to be told. Search your own ancestry. Do you descend from ancestors who lost children along the trail? You can add their stories to the website too.</p><p><em> Notice: Our submissions database is currently being built. But we are anxious to receive your stories. You can subscribe to our email newsletter and we will let you know when it is live, or you can directly email your stories to <a href='mailto:daysof47@gmail.com'>daysof47@gmail.com</a>. Include such things as Birth Date, Family Search ID number, Parents Names. Anything that will aid in our verification process. Thank you for your stories.</em></p>
   heading: Have a fascinating story to tell?
   link: /
   linkText: Subscribe
-familysearch: >-
+familysearch: >
   Learning about your ancestors will help you better understand who you are. It
   will create a family bond linking the present to the past, and will build a
   bridge to the future. We invite you to bring your ancestors to life and tell
   their stories on the Pioneer Children’s Memorial website. For more information
-  on how to find them, go to: https://www.familysearch.org/en/
+  on how to find them, follow the link below.
 gallery:
   - alt: Photo of the site
     image: /img/home-gallery-4.jpg
