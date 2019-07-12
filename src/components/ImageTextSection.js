@@ -7,8 +7,8 @@ const ImageTextSection = ({ section, index }) => (
   <section className="py-8 lg:py-24">
     <HugeText
       text={section.hugetext}
-      start="-10"
-      finish="-60"
+      start="-20"
+      finish="-100"
       textalign={index % 2 ? "text-right" : "text-left"}
     />
     <div className="container mx-auto">
