@@ -324,7 +324,6 @@ export const pageQuery = graphql`
       frontmatter {
         title
         heading
-        subheading
         heroImage {
           childImageSharp {
             fluid(maxWidth: 2048, quality: 100) {
