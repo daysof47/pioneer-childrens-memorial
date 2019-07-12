@@ -34,8 +34,10 @@ export const IndexPageTemplate = ({ frontmatter }) => (
       />
       <LeafEl1 />
       <LeafEl2 />
-      <div className="home-scroll-line"></div>
-      <Line mobile={20} desk={48} />
+      <div className="relative">
+        <div className="home-scroll-line"></div>
+        <Line mobile={4} desk={24} />
+      </div>
       <IntroBackgroundSection>
         <section>
           <Fade>
