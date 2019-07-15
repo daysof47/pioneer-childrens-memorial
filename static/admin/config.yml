@@ -71,8 +71,6 @@ collections:
                   { label: Subheading, name: subheading, widget: string },
                   { label: Heading, name: heading, widget: string },
                   { label: Description, name: description, widget: markdown },
-                  { label: Link Text, name: linkText, widget: string },
-                  { label: Link, name: link, widget: string },
                 ],
             }
           - {
@@ -139,5 +137,49 @@ collections:
               widget: "hidden",
               default: "about-page",
             }
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Body", name: "body", widget: "markdown" }
+          - {
+              label: Intro,
+              name: intro,
+              widget: object,
+              fields:
+                [
+                  { label: Subheading, name: subheading, widget: string },
+                  { label: Heading, name: heading, widget: string },
+                  { label: Huge Text, name: hugetext, widget: string },
+                  { label: Description, name: description, widget: markdown },
+                ],
+            }
+          - {
+              label: Sections,
+              name: sections,
+              widget: list,
+              fields:
+                [
+                  { label: Heading, name: heading, widget: string },
+                  { label: Huge Text, name: hugetext, widget: string },
+                  { label: Description, name: description, widget: markdown },
+                  { label: Image, name: image, widget: image },
+                ],
+            }
+          - {
+              label: References,
+              name: references,
+              widget: object,
+              fields:
+                [
+                  { label: Subheading, name: subheading, widget: string },
+                  { label: Heading, name: heading, widget: string },
+                  { label: Huge Text, name: hugetext, widget: string },
+                  { label: Description, name: description, widget: markdown },
+                  {
+                    label: Links,
+                    name: links,
+                    widget: list,
+                    fields:
+                      [
+                        { label: Link Text, name: linktext, widget: string },
+                        { label: Link, name: link, widget: string },
+                      ],
+                  },
+                ],
+            }

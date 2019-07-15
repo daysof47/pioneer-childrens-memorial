@@ -24,7 +24,7 @@ export const AboutPageTemplate = ({ frontmatter }) => (
       <section className="relative">
         <div className="home-scroll-line"></div>
         <Line mobile={4} desk={4} />
-        <HugeText text="Large Headline" start="-10" finish="-60" />
+        <HugeText text={frontmatter.intro.hugetext} start="-10" finish="-60" />
         <Fade>
           <div className="text-center mx-auto max-w-3xl px-8">
             <h4 className="uppercase tracking-widest text-green mb-4 max-w-lg mx-auto">
@@ -154,6 +154,7 @@ export const pageQuery = graphql`
         }
         intro {
           heading
+          hugetext
           subheading
           description
         }
