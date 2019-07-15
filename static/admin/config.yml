@@ -49,7 +49,7 @@ collections:
     label: "Pages"
     files:
       - file: "src/pages/index.md"
-        label: "Landing Page"
+        label: "Home Page"
         name: "index"
         fields:
           - {
@@ -131,6 +131,7 @@ collections:
         label: "About"
         name: "about"
         fields:
+          - { label: Title, name: title, widget: string }
           - {
               label: "Template Key",
               name: "templateKey",
