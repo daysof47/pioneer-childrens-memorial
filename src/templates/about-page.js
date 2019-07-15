@@ -147,15 +147,15 @@ export const pageQuery = graphql`
         heading
         heroImage {
           childImageSharp {
-            fluid(maxWidth: 2048, quality: 100) {
+            fluid(maxWidth: 800, quality: 100) {
               ...GatsbyImageSharpFluid_withWebp
             }
           }
         }
         intro {
           heading
-          hugetext
           subheading
+          hugetext
           description
         }
         sections {
