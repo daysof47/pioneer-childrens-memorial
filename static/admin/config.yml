@@ -141,7 +141,6 @@ collections:
           - { label: Title, name: title, widget: string }
           - { label: "Hero Image", name: heroImage, widget: image }
           - { label: Heading, name: heading, widget: string }
-          - { label: Subheading, name: subheading, widget: string }
           - {
               label: Intro,
               name: intro,
