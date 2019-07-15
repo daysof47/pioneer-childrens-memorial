@@ -10,7 +10,7 @@ intro:
     sollicitudin molestie malesuada. Donec sollicitudin molestie malesuada.</p>
   heading: Headline About Making of The Memorial
   hugetext: Placeholder
-  subheading: Subheadline Goes Here Test
+  subheading: Subheadline Goes Here
 sections:
   - description: >-
       <p>Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Nulla
@@ -53,19 +53,19 @@ references:
   heading: References
   hugetext: Learn
   links:
-    - link: "https://www.redolive.com"
+    - link: 'https://www.redolive.com'
       linktext: Placeholder
-    - link: "https://www.redolive.com"
+    - link: 'https://www.redolive.com'
       linktext: Placeholder
-    - link: "https://www.redolive.com"
+    - link: 'https://www.redolive.com'
       linktext: Placeholder
-    - link: "https://www.redolive.com"
+    - link: 'https://www.redolive.com'
       linktext: Placeholder
-    - link: "https://www.redolive.com"
+    - link: 'https://www.redolive.com'
       linktext: Placeholder
-    - link: "https://www.redolive.com"
+    - link: 'https://www.redolive.com'
       linktext: Placeholder
-    - link: "https://www.redolive.com"
+    - link: 'https://www.redolive.com'
       linktext: Placeholder
   subheading: Subheadline Goes Here
 gallery:
@@ -84,3 +84,4 @@ gallery:
   - alt: Photo of the site
     image: /img/about-the-memorial-gallery-7.jpg
 ---
+
