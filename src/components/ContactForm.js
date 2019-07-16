@@ -38,14 +38,14 @@ class ContactForm extends React.Component {
     const { name, email, message } = this.state;
     return (
       <form
-        name="subscribe"
+        name="contact"
         method="post"
         action="/contact/thanks/"
         data-netlify="true"
         data-netlify-honeypot="bot-field"
         onSubmit={this.handleSubmit}
       >
-        <input type="hidden" name="form-name" value="subscribe" />
+        <input type="hidden" name="form-name" value="contact" />
         <div hidden>
           <label>
             Don’t fill this out:{" "}
