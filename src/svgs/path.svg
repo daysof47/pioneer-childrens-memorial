@@ -1,0 +1,10 @@
+<svg id="path" viewBox="0 0 60 55" preserveAspectRatio="xMidYMin slice" style="width: 6%; padding-bottom: 42%; height: 1px; overflow: visible">
+  <defs>
+    <mask id="dash-mask">
+      <path class="st0 mask-style" stroke-dasharray="10,9" d="M 20 0 v 20 a 30 30 0 0 0 30 30 h 600 a 40 40 0 0 1 0 80 h -140 a 30 30 0 0 0 0 60 h 200 a 40 40 0 0 1 0 80 h -100 a 30 30 0 0 0 -30 30 v 20" />
+    </mask>
+  </defs>
+  <circle id="circle" cx="10" cy="10" r="10"/>
+  <path id="myline" class="st0" stroke-dasharray="10,9" d="M 20 0 v 20 a 30 30 0 0 0 30 30 h 600 a 40 40 0 0 1 0 80 h -140 a 30 30 0 0 0 0 60 h 200 a 40 40 0 0 1 0 80 h -100 a 30 30 0 0 0 -30 30 v 20" mask="url(#dash-mask)"/>
+  Sorry, your browser does not support inline SVG.
+</svg>

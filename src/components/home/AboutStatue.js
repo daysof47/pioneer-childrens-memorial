@@ -8,7 +8,7 @@ const AboutStatue = () => (
       query {
         file(relativePath: { eq: "home-about-statue.png" }) {
           childImageSharp {
-            fluid(maxWidth: 1000, quality: 90) {
+            fluid(maxWidth: 600, quality: 90) {
               ...GatsbyImageSharpFluid_withWebp
             }
           }

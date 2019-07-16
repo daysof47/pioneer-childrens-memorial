@@ -35,6 +35,7 @@
     "react-icons": "^3.7.0",
     "react-reveal": "^1.2.2",
     "react-scroll-parallax": "^2.1.2",
+    "react-scrollable-anchor": "^0.6.1",
     "styled-components": "4.3.2",
     "uuid": "^3.2.1"
   },

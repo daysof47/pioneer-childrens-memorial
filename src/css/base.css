@@ -178,3 +178,11 @@ h3 {
     margin: 0;
   }
 }
+
+.map a span {
+  transition: all 0.75s;
+}
+
+.map a:hover span {
+  display: inline-block;
+}
