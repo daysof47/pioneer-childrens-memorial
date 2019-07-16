@@ -131,7 +131,6 @@ collections:
         label: "About"
         name: "about"
         fields:
-          - { label: Title, name: title, widget: string }
           - {
               label: "Template Key",
               name: "templateKey",
@@ -208,7 +207,6 @@ collections:
               widget: "hidden",
               default: "tour-page",
             }
-          - { label: Title, name: title, widget: string }
           - { label: "Hero Image", name: heroImage, widget: image }
           - { label: Heading, name: heading, widget: string }
           - {
@@ -222,5 +220,67 @@ collections:
                   { label: Image, name: image, widget: image },
                   { label: Pin Position Top, name: top, widget: string },
                   { label: Pin Position Left, name: left, widget: string },
+                ],
+            }
+      - file: "src/pages/the-children/index.md"
+        label: "The Children"
+        name: "the-children"
+        fields:
+          - { label: Title, name: title, widget: string }
+          - {
+              label: "Template Key",
+              name: "templateKey",
+              widget: "hidden",
+              default: "children-page",
+            }
+          - { label: "Hero Image", name: heroImage, widget: image }
+          - { label: Heading, name: heading, widget: string }
+          - {
+              label: Intro,
+              name: intro,
+              widget: object,
+              fields:
+                [
+                  { label: Subheading, name: subheading, widget: string },
+                  { label: Heading, name: heading, widget: string },
+                  { label: "Huge Text", name: hugetext, widget: string },
+                  { label: Description, name: description, widget: markdown },
+                ],
+            }
+          - {
+              label: Stones,
+              name: stones,
+              widget: list,
+              fields:
+                [
+                  { label: Heading, name: heading, widget: string },
+                  { label: Years, name: years, widget: string },
+                  { label: Image, name: image, widget: image },
+                  { label: Names, name: names, widget: list },
+                ],
+            }
+      - file: "src/pages/visit/index.md"
+        label: "Visit"
+        name: "visit"
+        fields:
+          - { label: Title, name: title, widget: string }
+          - {
+              label: "Template Key",
+              name: "templateKey",
+              widget: "hidden",
+              default: "visit-page",
+            }
+          - { label: "Hero Image", name: heroImage, widget: image }
+          - { label: Heading, name: heading, widget: string }
+          - {
+              label: Sections,
+              name: sections,
+              widget: list,
+              fields:
+                [
+                  { label: Heading, name: heading, widget: string },
+                  { label: Huge Text, name: hugetext, widget: string },
+                  { label: Description, name: description, widget: markdown },
+                  { label: Image, name: image, widget: image },
                 ],
             }

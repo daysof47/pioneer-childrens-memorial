@@ -28,7 +28,7 @@ export const VisitPageTemplate = ({ frontmatter }) => (
         <Fade>
           <div className="text-center mx-auto max-w-3xl px-8 mb-12 lg:mb-16">
             <h4 className="uppercase tracking-widest text-green mb-4 max-w-lg mx-auto">
-              Subheadline Goes Here
+              How to find the memorial
             </h4>
             <h2 className="text-3xl lg:text-4xl mb-6">
               Location and Contact Information
@@ -37,20 +37,33 @@ export const VisitPageTemplate = ({ frontmatter }) => (
         </Fade>
         <div className="mx-auto max-w-3xl flex items-center">
           <div className="w-full lg:w-1/2">
-            <div className="">
-              <div className="mb-8">
+            <div className="p-4">
+              <div className="mb-4">
+                <span className="text-green">
+                  THIS IS THE PLACE HERITAGE PARK
+                </span>
+                <br />
                 2601 Sunnyside Ave
                 <br />
                 Salt Lake City, UT 84081
-                <br />
-                <span className="text-green">Phone:</span> 801-123-4567
+              </div>
+              <div className="mb-4">
+                <span className="text-green">Phone:</span> 801-582-1847
               </div>
               <div>
-                <span className="text-green">Monday - Friday:</span> 10am -
-                5pm
+                <span className="text-green">UTA Bus Service:</span>
                 <br />
-                <span className="text-green">Saturday - Sunday:</span> 10am -
-                3pm
+                UTA provides service to This Is The Place Heritage Park and
+                Hogle Zoo during the summer months.{" "}
+                <a
+                  href="http://www.rideuta.com/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Visit the UTA website
+                </a>{" "}
+                to find out more information about finding the best route for
+                you.
               </div>
             </div>
           </div>
@@ -63,7 +76,15 @@ export const VisitPageTemplate = ({ frontmatter }) => (
       </section>
       <section className="mb-12 lg:mb-20">
         <div className="container mx-auto">
-        <iframe title="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.4268631217524!2d-111.81799798459387!3d40.7526352793275!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87525e2bd2441443%3A0xdf4e3ffc5c0526e4!2sThis+Is+The+Place+Heritage+Park!5e0!3m2!1sen!2sus!4v1562954879631!5m2!1sen!2sus" width="600" height="450" frameborder="0" style={{border: "0", margin: "auto"}} allowfullscreen></iframe>
+          <iframe
+            title="map"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.4268631217524!2d-111.81799798459387!3d40.7526352793275!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87525e2bd2441443%3A0xdf4e3ffc5c0526e4!2sThis+Is+The+Place+Heritage+Park!5e0!3m2!1sen!2sus!4v1562954879631!5m2!1sen!2sus"
+            width="600"
+            height="450"
+            frameborder="0"
+            style={{ border: "0", margin: "auto" }}
+            allowfullscreen
+          ></iframe>
         </div>
       </section>
       {frontmatter.sections.map((section, index) => (

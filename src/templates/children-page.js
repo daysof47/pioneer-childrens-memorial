@@ -1,6 +1,6 @@
 import React from "react";
 // import PropTypes from "prop-types";
-import { graphql, Link } from "gatsby";
+import { graphql } from "gatsby";
 import Layout from "../components/Layout";
 import Hero from "../components/Hero";
 import Fade from "react-reveal/Fade";
@@ -23,7 +23,7 @@ export const ChildrenPageTemplate = ({ frontmatter }) => (
       <section className="relative">
         <div className="home-scroll-line"></div>
         <Line mobile={4} desk={4} />
-        <HugeText text="Large Headline" start="-10" finish="-60" />
+        <HugeText text="We Honor" start="-10" finish="-60" />
         <Fade>
           <div className="text-center mx-auto max-w-3xl px-8">
             <h4 className="uppercase tracking-widest text-green mb-4 max-w-lg mx-auto">
@@ -41,15 +41,15 @@ export const ChildrenPageTemplate = ({ frontmatter }) => (
         </Fade>
         <Line mobile={8} desk={32} />
       </section>
-      <div className="container mx-auto bg-tan p-8 flex items-center justify-around">
+      <div className="container mx-auto bg-tan p-4 flex flex-wrap items-center justify-around">
         {frontmatter.stones.map((section, index) => (
-          <Link
+          <a
             key={section.years}
-            to={`/the-children#section-${index}`}
-            className="font-bold"
+            href={`#section-${index}`}
+            className="font-bold w-1/2 md:w-1/4 text-center p-3"
           >
             {section.years}
-          </Link>
+          </a>
         ))}
       </div>
       {frontmatter.stones.map((section, index) => (

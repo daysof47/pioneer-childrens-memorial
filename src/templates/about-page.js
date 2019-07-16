@@ -44,7 +44,7 @@ export const AboutPageTemplate = ({ frontmatter }) => (
       {frontmatter.sections.map((section, index) => {
         if (index === 1) {
           return (
-            <div>
+            <div key={index}>
               <div
                 className="my-8 lg:my-16"
                 style={{
@@ -55,7 +55,7 @@ export const AboutPageTemplate = ({ frontmatter }) => (
               >
                 <SlideShow2 images={frontmatter.gallery} />
               </div>
-              <ImageTextSection key={index} section={section} index={index} />
+              <ImageTextSection section={section} index={index} />
             </div>
           );
         } else {

@@ -6,132 +6,746 @@ heroImage: /img/the-children-hero.jpg
 heading: The Children
 intro:
   description: >-
-    <p>Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Nulla porttitor accumsan tincidunt. Nulla porttitor accumsan tincidunt. Donec sollicitudin molestie malesuada. Donec sollicitudin molestie malesuada.</p>
-  heading: Disclaimer Headline
-  subheading: Subheadline Goes Here
+    <p>Historians have documented more than 600 children who died along the trail, but we know there are more. Our plea is for you to check your family history and add the names of children we missed to this website, so they can be honored too. The documented names are listed below.</p>
+  heading: A Plea for Your Help
+  subheading: The Children We Honor
 stones:
   - heading: Stone 1
-    years: "1846-1848"
-    image: "/img/placeholder-1100x1400.jpg"
+    years: "1847-1850"
+    image: "/img/stone-1.jpg"
     names:
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
+      - Ann Bennion
+      - Robert Rierson Gardner
+      - Margaret S. Grant
+      - NN Holmes
+      - Elijah Horace Shockley
+      - Milton Howard Threlkel
+      - NN Williams
+      - NN Williams
+      - Lucretia Cox
+      - Joseph Gordon
+      - Oliver Bar Jacob
+      - Mary Johnson
+      - Sara Johnson
+      - Maria Kay
+      - Sidney C. Tanner
+      - William Howard Whitney
+      - Winona Jane Bull
+      - Joseph Orson Egbert
+      - Ruth Farnham
+      - Samuel Jones
+      - Sally Wilsox
+      - Phebe Ann Wilson
+      - James Marion Young
+      - Fanny Ester Barnum
+      - John McBride Belnap
+      - Julia Ann Bird
+      - Franklin Burnes
+      - Eliza Rebecca Burton
+      - Emma Burton
+      - Emma Eliza Camp
+      - Heber Kimball Campbell
+      - Lorenzo Carter
+      - Sarah Altana Catlin
+      - Rodolphus Cravath
+      - George William Dart
+      - Harriet Paulina Dart
+      - Celestia Ann Durfee
+      - Johnathan Ford
+      - Mary Louisa Fordham
+      - Jane Green
+      - Joseph Nephi Green
+      - Caroline Mathilda Hardy
+      - Adelia Hart
+      - Joel Judd
+      - Zenas Keyes
+      - Ruth Ann Kington
+      - Abigail Ann Lamoreaux
+      - Jacob Edward Lee
+      - Truman Milton Leonard
+      - Levi Cyril Loveland
+      - Peter Weston Maughan
+      - James Travers McClellan
+      - Llewellyn Emery Petty
+      - Charles Daniel Pierson
+      - NN Price
+      - Catherine Elizabeth Radford
+      - Adelaide Sophia Redfield
+      - Horace Bradley Rust
+      - Thomas Sargent
+      - NN Smith
+      - Rhoda Lucene Smith
+      - Horace Spafford
+      - Minerva Spafford
+      - Maroni Spafford
+      - Rhoda Ann Spafford
+      - Lydia Priscilla Webb
+      - Phoebe Arabella Webb
+      - Elmira Charlotte Wilcox
+      - Lyman VanWright
   - heading: Stone 2
-    years: "1849-1850"
-    image: "/img/placeholder-1100x1400.jpg"
-    names:
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-  - heading: Stone 3
     years: "1851-1852"
-    image: "/img/placeholder-1100x1400.jpg"
+    image: "/img/stone-2.jpg"
     names:
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
+      - Amelia Lorinda Allred
+      - Robert Platt Needham
+      - Thomas A Orton
+      - Geoge Gamaliel Vail
+      - George Walton
+      - Martha Ann Elizabeth Adams
+      - Jude Allen
+      - Sarah Ann Andrews
+      - William Francis Beal
+      - Hosea Berian Boren
+      - Lucretia Janes Boren
+      - Isaac Busenbark
+      - Lucy Elizabeth Callaway
+      - Sarah Clark
+      - Elmira Zalotta Clinger
+      - Sara Jane Colvin
+  - heading: Stone 3
+    years: "1852 cont"
+    image: "/img/stone-3.jpg"
+    names:
+      - Thomas David
+      - Emma Dunn
+      - Sarah Ann Dunn
+      - Edmund Thomas
+      - George Alma Gardner
+      - George Harrison Goddard
+      - Henry Goddard
+      - Eliza Melissa Hall
+      - Harriet Moriah Howell
+      - William Howell
+      - Alfred Hunt
+      - Jackson Huldah
+      - Emily Maranda Johnson
+      - Henry Charles Sylvester Kibble
+      - Mary Ann Lavender
+      - Sarah Louise Little
+      - NN Lund
+      - Agnes Christina Malcolm
+      - Marinda Elizabeth Mangum
+      - Joseph Clements McMichael
+      - Jenette Morris
+      - Ann Jenette Odell
+      - Elizabeth Jane Odell
+      - NN Osborn
+      - Nancy Clark Pearce
+      - Henry Peck
+      - Amelia Jane Pond
+      - Joseph Smith Presley
+      - Walter Read
+      - William Maroni Reeves
+      - Violetta P. Robinson
+      - Eliza Smith
+      - Mary Frances Smith
+      - Charles Echo Stewart
+      - Martha Ann Vickers
+      - Mary Wheeler
+      - Joseph D. Wilbur
+      - Henry Wilde
+      - Catherine Wilson
+      - Ann Wiltshire
+      - Samuel Smith Young
   - heading: Stone 4
     years: "1853-1854"
-    image: "/img/placeholder-1100x1400.jpg"
+    image: "/img/stone-4.jpg"
     names:
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
+      - Ellen Perryman Barnes
+      - Frances Hann
+      - Elvira Ann Cole
+      - Samuel William Cooley
+      - John Calder Crabb
+      - William Davies
+      - Julia Duncan
+      - Henry William Joseph Evans
+      - Catherine McFarlane Gibson
+      - Louis Handley
+      - Racheal Imlay
+      - Ann E. Larsen
+      - Phoebe Louisa Mason
+      - Emma Matthews
+      - Sarah Ann Matthews
+      - Sarah Elizabeth Nalder
+      - John Thomas Openshaw
+      - Rowena Allen Piggott
+      - Richard Fell Squires
+      - Mary Agnes Thirkell
+      - Rebecca Thirkell
+      - Eliza Burton
+      - Emma Burton
+      - Jane Burton
+      - Mary Butterworth
+      - George Carroll
+      - Jane Mary DuFresne
+      - Richard Duffin
+      - Roger Eatough
+      - Emma Fechser
+      - Georgina Fisher
+      - Sara Sally Ford
+      - NN Gardiner
+      - Mette Maria Jensen
+      - Francis Laidlaw
+      - Israelus McMaster
+      - Louisa Shelton Obray
+      - Margaret Pinney
+      - Mary Proctor
+      - Hannah Louisa Richins
+      - Ann Sharples
+      - Charles Edwin Shelto
+      - Evelina Shelton
+      - William S. Shelton
+      - Anne Elisa Snowball
+      - Mary Ann Thornock
+      - William Thornock
+      - Clara Malinda Tuttle
   - heading: Stone 5
-    years: "1855-1856"
-    image: "/img/placeholder-1100x1400.jpg"
+    years: "1855"
+    image: "/img/stone-5.jpg"
     names:
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
+      - Cyrenius Bagley
+      - Mary Birch
+      - Joseph Bush
+      - Mette Marie Christensen
+      - Alice Cockle
+      - Mary East
+      - Nancy East
+      - William H. East
+      - Burke Faulkner
+      - John Faulkner
+      - Stephen Faulkner
+      - Orrin Foster
+      - Sarah Elizabeth Graves
+      - Ira Abner Greer
+      - John Irvine Greer
+      - Joseph Hutchison
+      - Lorenzo Irvine
+      - James Jones
+      - Margaret C. Jones
+      - Mary A. Jones
+      - Sarah Jones
+      - Eliza Ann Jost
+      - Alfred Heber Kilbourn
+      - Jacob Peter Kjar
+      - Elizabeth Langford
+      - Alice Mather
+      - Edward Robert Middlemass
+      - Emma Sharlotte Middlemass
+      - William Mark Middlemass
+      - Thomas Morgan
+      - Sarah Platte Neel
+      - Birgethe Ottesen
+      - Francis Helen Phillips
+      - Hugh Gordon Phillips
+      - Morten Poulsen
+      - Walter Simmons
+      - NN Stevenson
+      - Mary Ann Vest
+      - Stephen Walsh
+      - Charles Henry Wilkins
+      - James Cyrus Worlton
   - heading: Stone 6
-    years: "1857-1860"
-    image: "/img/placeholder-1100x1400.jpg"
+    years: "1856"
+    image: "/img/stone-6.jpg"
     names:
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
-      - Firstname Lastname
+      - Anders Nielson Andersen
+      - Betsy Ashton
+      - Sarah Ann Ashton
+      - David Brigham Major Blair
+      - Mary Hannah Briggs
+      - Thomas Briggs
+      - Lorenzo Daw Burton
+      - Polly Caroline Card
+      - William Douglass
+      - Susanna Elliker
+      - William Empey
+      - Daniel Chapman Gadd
+      - Samuel Gadd
+      - Elilzabeth Giles
+      - Edith Goble
+      - James Goble
+      - Margaret Glass Gourley
+      - Herbert Lorenzo Griffiths
+      - John Griffiths
+      - Rasmus Peter Hansen
+      - Ephraim Hartle
+      - Samuel Hartle
+      - James Hawkey
+      - William McDonald Heaton
+      - Selena Hurren
+      - Flora Loader Jaques
+      - Maren Sophia Jorgensen
+      - William Keetch
+      - Peter Kirkman
+      - Alexander Kirkpatrick
+      - James Kirkwood
+      - Hanna Sophie Larsen
+      - Joseph Larsen
+      - Lars Julius Larsen
+      - William N. Leason
+      - William Lee
+      - William Morgan Miles
+      - Bodil Mortensen
+      - Hannah Newman
+      - Niels Nielsen
+  - heading: Stone 7
+    years: "1856 cont"
+    image: "/img/stone-7.jpg"
+    names:
+      - NN Normington
+      - Daniel Normington
+      - Ephraim Roberet Normington
+      - Rhoda Rebecca Oakey
+      - Daniel Osborne
+      - Esther Prkinson
+      - Joseph Parkinson
+      - Marinda Nancy Pay
+      - Loran Isabella Preator
+      - Elizabeth Edwards Price
+      - Joseph Smith Ramsay
+      - Caroline Reeder
+      - NN Richardson
+      - Jean Michel Rochon
+      - Emma Sheen
+      - Sidney Sheen
+      - Elizabeth Stewart
+      - NN Stimpson
+      - William B. Stimpson
+      - James Phillip Taylor
+      - John Turner
+      - Sophia Turner
+      - Brigham Twelves
+      - Charles Samuel Twelves
+      - Mary Jane Twelves
+      - Robert Walsh
+      - Jane Walters
+      - Job Welling
+      - NN Wilson
+      - Henry H. Wiseman
+      - John Joseph Wiseman
+  - heading: Stone 8
+    years: "1857"
+    image: "/img/stone-8.jpg"
+    names:
+      - John Banford
+      - Richard George Banford
+      - Johannes Peter Bertelsen
+      - Marion Billings
+      - Andrea Christensen
+      - William Henry Harrison Coldiron
+      - Josephine Patrine Garff
+      - Platine Plattina Gottfredson
+      - Emmaretta Eliza Green
+      - Hans Jensen
+      - Maria Sophia Jensen
+      - Joseph Petersen Just
+      - Franklin Madsen
+      - NN Muller
+      - Mariah  Louise Nebeker
+      - Rasmina Matilda Rasmussen
+      - Rasmus Rasumssen
+      - Tunis Harriet Rich
+      - NN Rollins
+      - Iowa Sorenson
+  - heading: Stone 9
+    years: "1859-1860"
+    image: "/img/stone-9.jpg"
+    names:
+      - Elizabeth Christiana Allen
+      - Josphine Griffiths
+      - Joseph Edward Hopla
+      - Maren Jensen
+      - Anna Johnson
+      - Lauritz Larsen
+      - Maroni Lee
+      - Jens Peter Rasmussen
+      - Emilie Blackner
+      - William Scott Budge, Jr
+      - Esther Cherrington
+      - Hyrum Cherrington
+      - John Cartwright Cherrington
+      - Eunice Ann Colledge
+      - Cathering Deseret Dean
+      - Sarah Fillmore
+      - Nephi Gaarder
+      - Amelia Mary Ann Gunn
+      - Thomas John Issac
+      - Ame Christine Jensen
+      - William Edwin Morris
+      - Wita Petrine Amelia Nicolaisen
+      - Anthon Petersen
+      - David Cannon Robison
+      - Lucy Sandall
+      - Harriet Martha Shirley
+      - Elizabeth Ann Nutter Stanworth
+  - heading: Stone 10
+    years: "1861-1862"
+    image: "/img/stone-1.jpg"
+    names:
+      - Andrew Jackson Allred
+      - Sarah Jane Backhouse
+      - Abraham Barlow
+      - Fannie Burdett
+      - Sarah Elizabeth Clayton
+      - Howard B. Conk
+      - Leah M. Edwards
+      - William Franklin Glade
+      - Marie Hansen
+      - Emma Hill
+      - Heber Jesse Hill
+      - Elizabeth Holroyd
+      - James Horrox
+      - Annie Lloyd Hughes
+      - Lorenzo Isaacson
+      - Petra Annetta Isaacson
+      - Annie Jane John
+      - Arnold Looser
+      - Mary Eliza Marsden
+      - David M. Memmott
+      - Eliza Ann Helena Michle
+      - Ester Mary Moulding
+      - Hannie Lovise Pedersen
+      - Frances Ann Reed
+      - Marius Rose
+      - Robert Russell
+      - Joseph Stanford
+      - Sarah Thomas
+      - Inger Marie Thomassen
+      - Mouritz Christian Thompson
+      - Anne Williams
+      - Sarah Bachman
+      - Amanda Biddle
+      - Elizabeth Platt Bullock
+      - James Burtenshaw
+      - Ruth Cooper
+      - Anne Eliza Crabbe
+      - Joseph Dansie
+      - John Thomas Daynes
+      - Edward Hirum Downard
+      - Richard Thomas Dye
+      - Clara Hannah Evans
+      - John Evans
+      - Elizabeth Anna Freeman
+      - Leah Gedge
+      - Lois Gedge
+  - heading: Stone 11
+    years: "1862 cont"
+    image: "/img/stone-1.jpg"
+    names:
+      - Mary Gedge
+      - Ephraim Joseph Hall
+      - David Hammond
+      - Sarah Hammond
+      - Hans Pedder Hansen
+      - Hans Peter Brigham Hansen
+      - Josephine Marie Hansen
+      - Peter Hansen
+      - Elizabeth Ann Healey
+      - Amelia Emma Hulse
+      - Surge Louie Jacob
+      - John Jolley
+      - Elizabeth Jones
+      - Heber Jones
+      - Jacob Jones
+      - Alice Rosemary Kemp
+      - Henry Kelsey Kemp
+      - William Heber Kemp
+      - Barbara Grange Kidman
+      - Jacobine Marie Larsen
+      - Jensine Larsen
+      - Eliza LeClerg
+      - Elisha John Luker
+      - Mary Matilda Luker
+      - William Washington Mail
+      - Esther Jean Martin
+      - Ann Snell Maw
+      - Hanna Mary Mitchell
+      - Martha Mitchell
+      - Joseph Hyrum Morris
+      - Sarah Ann Morris
+      - Sarah Jane Morris
+      - Frederick Crane Nichols
+      - Albertine Neilsen
+      - Lucy Oakey
+      - Joseph Hyrum Owen
+      - Elmer Edward Ellsworth Palmer
+      - Mette Marie Peterson
+      - Martha Ann Priest
+      - Thomas Roberts
+      - Eliza Sheppard
+      - Annie Riley Smith
+      - George Thomas Smith
+      - Mary Elizabeth Statham
+      - Phillis Todd
+      - Annie Louise Tucker
+      - Mercy Ann Virgin
+  - heading: Stone 12
+    years: "1863"
+    image: "/img/stone-1.jpg"
+    names:
+      - Isaac Cynosure Abel
+      - Pol Jensen Andersen
+      - Johanna Marie Anderson
+      - John Alfred Anderson
+      - Fanny Eliza Atkinson
+      - Jane Barton
+      - Edward James Bell
+      - Kersti Bondesson
+      - Thomas Dury Bowman
+      - NN Brown
+      - Georgiana Hoagland Cannon
+      - Willar Oliver Clark
+      - Lydia Courts
+      - William Crystal
+      - Robert Cartwright Cunningham
+      - Jane Duncan
+      - Oscar Joseph James Eliason
+      - Beata Eliasson
+      - Samuel Ellingford
+      - Hulda Margana Erickson
+      - Jensine Eskelsen
+      - Dale Willard Eynon
+      - Kate Fowler
+      - John Glenn
+      - Elizabeth Gordon
+      - Alice Jackson Graham
+      - Bernhard Gulbrandsen
+      - Marta gulbrandsen
+      - Johannes Hansen
+      - Ellen Haynes
+      - Rosa Ann Holt
+      - Everine Lorena Jacobsen
+      - Agnes Jenkins
+      - Hans Peter Jensen
+      - Johanna Maria Jensen
+      - Josephine Jensen
+      - Meete Marie Jensen
+      - Ida Charlotte Johnson
+      - Bengta Jonasson
+      - Rosina King
+      - Lars Peter Larsen
+      - Mette Marie Larsen
+      - Abraham Lamb Lea
+      - Hannah Toplin Lock
+      - Samuel Lock
+      - Margaret Mathie
+      - Margaret Melling
+      - Amelia Mitchell
+      - Camilla Thyra Mortensen
+      - Willard Pratt Mortensen
+      - Mary Ann Moss
+  - heading: Stone 13
+    years: "1863-1865"
+    image: "/img/stone-1.jpg"
+    names:
+      - Sine Katrine Nilsson
+      - Anne Marie Olsen
+      - Elijah Orme
+      - Elisa Orme
+      - George Orme
+      - Samuel Orme
+      - Caroline Maria Pedersen
+      - Ida Christine Peterson
+      - Nicoline johanna Peterson
+      - Kittie Bell Ryan
+      - Elizabeth Nelson Stuart
+      - Mary Annemma Taylor
+      - Parley George Taylor
+      - Ane Marie Thomsen
+      - Hans Ephraim Thoresen
+      - Frederick Torgersen
+      - Mary Elizabeth Tullidge
+      - Sarah Louise Webb
+      - NN Weeks
+      - Mary Ann West
+      - Thomas Wimsby
+      - Hyrum Briggs
+      - Jacob Burgener
+      - James Carlin
+      - Angelina Arthelia Chappell
+      - Emily Ann Chappell
+      - Jemima Elizabeth Chappell
+      - Phoebe Cockerhill
+      - Janet Crawford
+      - Henry Crowther
+      - John Crowther
+      - Eli Davis
+      - Maroni Davis
+      - John Baptist Droubay
+      - George Cannon Edlefsen
+      - George Knighton Flint
+      - Nephi Aaron Folland
+      - Jesse Galliers
+      - Edward Lorenzo Gange
+      - William Henry Gange
+      - George Peder Geertsen
+      - John H. George
+      - Gjertrud Catherine Grondman
+      - Edwin Haynes
+      - Anna Johansson Hellstrom
+      - Matilda Howard
+      - Tamar Howard
+      - George Hutchison
+      - Israel Israelsen
+      - Nils Jenson
+      - Eline Knudsen
+      - Hans Johan Lauritzen
+      - John Hyrum Lines
+      - Joseph Edwin Lines
+      - Lucy Lines
+      - Lars Peter Lundgren
+      - Robert McCulloch
+      - William McNeil
+      - Godfried Nieffenegger
+      - Johannes Nieffenegger
+      - Lissette Nieffenegger
+      - Anna Sophia Nielsen
+      - Jens Michael Nielsen
+      - Niels Christian Nielsen
+      - Neeltje Olivier
+      - NN Ollerton
+      - Thomas Payne
+      - Mary Ann Phillips
+      - James William Price
+      - Leopold Singleton
+      - Charles Slade
+      - Edward Slade
+      - Zillah M. Smith
+      - William Burnope Spens
+      - Fanny Wilson
+      - Lavina Wilson
+      - Matha Wilson
+      - Jacob Winkler
+      - Clara Lucas
+      - Lovisa Nielsen
+      - Justina Nilsson
+      - Mary Orgill
+  - heading: Stone 14
+    years: "1866"
+    image: "/img/stone-1.jpg"
+    names:
+      - Charlotta Christina Warnick Arlekulen
+      - Carl Otto Edwin Backman
+      - George Edward Bell
+      - Charlotte Bengtson
+      - Adolphus Ethelbert Orson Blackley
+      - Elizabeth Boneham
+      - Christian Carlsen
+      - Jeanette Chambers
+      - Susannah Cook
+      - George Cottle
+      - Joseph Cottle
+      - Samuel Crane
+      - Carl Ephraim Frandsen
+      - Amalie Fredriksen
+      - Elizabeth Garner
+      - Lizzie Grant
+      - Anna Haderlie
+      - Caroline Haderlie
+      - Alfred Leonard Hansen
+      - Andreas Marius Smith Hansen
+      - Hans Johan Hansen
+      - Mads Jorgen Hansen
+      - Niels Anthon Hansen
+      - Niels Peter William Hansen
+      - Annice Hubaldina Hodgseon
+      - John Arkwright Hodgeson
+      - Mary Agnes Holt
+      - Axel Hyrum Husted
+      - Ragna Olivia Iversen
+      - Elizabeth Jensen
+      - Jens Severin Jenson
+      - Charles Frederick Kelly
+      - Mary Emma Kelly
+      - Lily Jane Lambourne
+      - Karoline Bertha Larsen
+      - Lars Peter Larsen
+      - Thora Marie Larsen
+      - Joseph Willard Lehmberg
+      - Amanda Josephinen Lundberg
+      - Bola Chrstine Mortensen
+      - Josephine Christine Mortensen
+      - Agnes Neil
+      - Lauritz Alma Nielsen
+      - Marie Josephine Nielsen
+      - Niels Ditlov Nielsen
+      - Elizabeteh Oliver
+      - Carl Olsen
+      - Severin Olsen
+      - Bine Pedersen
+      - Ida Pedersen
+      - Peter Pederesen
+      - Parley Pratt Petersen
+      - Augustina Wilhelmina Albertina Peterson
+      - Inger Kathrine Plowman
+      - Frank Loader Rozsa
+      - Johnannes Alma Sandersen
+      - Niels Jakob Sandersen
+      - Tomina Elizabeth Swensen
+      - Daniel Arkwright Taylor
+      - Richard Taylor
+      - Jane Sarah Walters
+      - NN Warnick
+      - Augusta Warnick
+      - John Gustav Warnick
+      - Sina Dina Williamenson
+      - William Isaac Withers
+  - heading: Stone 15
+    years: "1867-1868"
+    image: "/img/stone-1.jpg"
+    names:
+      - Valentina Elizabeth Dyer
+      - Lonnie Iversen
+      - Jens Marinus Jensen
+      - Jensine Jensen
+      - Annie Ball Marie Johansen
+      - Jorgen Sophus Jorgensen
+      - Trine Olsen
+      - Edel Marie Sandersen
+      - Jens Peter Andersen
+      - Joseph Hyrum Barrett
+      - John Boden
+      - Berthe Katrine Christiansen
+      - Henry Davies
+      - Sarah Dearden
+      - Joseph Doman
+      - Charlotte Dunn
+      - Harriet Easthope
+      - John Easthope
+      - Hans Hansen
+      - Maren Hansen
+      - Alice Howarth
+      - Jane Jackson
+      - Mary Jackson
+      - John Christen Jacobsen
+      - Karen Jensen
+      - Margaret Jensen `
+      - Lars Johansen
+      - Alla Herman Kramer
+      - Mary Ann Elizabeth Lance
+      - Emma Constance Lund
+      - William Charles Mallet
+      - Ane Sophia Niesen
+      - Christian Peder Edvard Nielsen
+      - Karen Marie Nielsen
+      - Anna Nilson
+  - heading: Stone 16
+    years: "1868 cont"
+    image: "/img/stone-1.jpg"
+    names:
+      - Ane Christinen Olsen
+      - Charlotte Audrey Payne Oswald
+      - James Powell
+      - Charles Oscar Rose
+      - John Adalf Rose
+      - Ida Joahannah Sandin
+      - John Ludvig Sandin
+      - Maren Sophie Sorensen
+      - Elizabeth Thomas
+      - Alvida Marie Helena Jensen Thorsen
+      - Dorsine Thorsted
+      - Petter Toolson
+      - Alfred Hezekiah Wade
+      - Sarah Ann Williams
 ---
