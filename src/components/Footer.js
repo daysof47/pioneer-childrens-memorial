@@ -1,5 +1,5 @@
 import React from "react";
-// import { Link } from "gatsby";
+import { Link } from "gatsby";
 
 import logo1 from "../img/gray-logo-1.png";
 import logo2 from "../img/gray-logo-2.png";
@@ -25,42 +25,46 @@ const Footer = class extends React.Component {
             </div> */}
           </div>
           <div>
-            {/*}
             <ul className="footer-nav lg:flex lg:justify-center my-8 font-bold text-center tracking-wide">
               <li className="my-2">
-                <Link to="/">The Stories</Link>
+                <Link className="text-gray-200" to="/stories">The Stories</Link>
               </li>
               <li className="my-2">
-                <Link to="/">The Children</Link>
+                <Link className="text-gray-200" to="/the-children">The Children</Link>
               </li>
               <li className="my-2">
-                <Link to="/">Tour The Memorial</Link>
+                <Link className="text-gray-200" to="/tour">Tour The Memorial</Link>
               </li>
               <li className="my-2">
-                <Link to="/">About The Memorial</Link>
+                <Link className="text-gray-200" to="/about">About The Memorial</Link>
               </li>
               <li className="my-2">
-                <Link to="/">Visit The Memorial</Link>
+                <Link className="text-gray-200" to="/visit">Visit The Memorial</Link>
               </li>
             </ul>
-            */}
           </div>
           <div className="lg:flex lg:justify-center lg:items-center text-center">
+          <a href="https://www.thisistheplace.org/" target="_blank" rel="noopener noreferrer">
             <img
               src={logo1}
               alt="This Is The Place"
               className="my-8 mx-auto lg:mx-4"
             />
+            </a>
+            <a href="https://www.familysearch.org/en/" target="_blank" rel="noopener noreferrer">
             <img
               src={logo2}
               alt="Family Search"
               className="my-8 mx-auto lg:mx-4"
             />
+            </a>
+            <a href="https://www.daysof47.com/" target="_blank" rel="noopener noreferrer">
             <img
               src={logo3}
               alt="Days of 47"
               className="my-8 mx-auto lg:mx-4"
             />
+            </a>
           </div>
         </div>
       </footer>

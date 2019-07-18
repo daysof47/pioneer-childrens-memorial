@@ -1,6 +1,6 @@
 import React from "react";
 // import PropTypes from "prop-types";
-import { graphql } from "gatsby";
+import { graphql, Link } from "gatsby";
 import Layout from "../components/Layout";
 import Hero from "../components/Hero";
 import SlideShow from "../components/home/SlideShow";
@@ -53,14 +53,12 @@ export const IndexPageTemplate = ({ frontmatter }) => (
                   __html: frontmatter.intro.description
                 }}
               ></div>
-              {/*
               <Link
                 to={frontmatter.intro.link}
-                className="inline-block py-4 px-8 bg-green text-white uppercase tracking-widest text-sm"
+                className="inline-block mt-6 py-4 px-8 bg-green text-white uppercase tracking-widest text-sm"
               >
                 {frontmatter.intro.linkText}
               </Link>
-               */}
             </div>
           </Fade>
           <Line mobile={2} desk={64} />
@@ -99,7 +97,6 @@ export const IndexPageTemplate = ({ frontmatter }) => (
                       __html: frontmatter.mainpitch.description
                     }}
                   ></div>
-                  {/*
                   <div className="text-center lg:text-left">
                     <Link
                       to={frontmatter.mainpitch.link}
@@ -108,7 +105,6 @@ export const IndexPageTemplate = ({ frontmatter }) => (
                       {frontmatter.mainpitch.linkText}
                     </Link>
                   </div>
-                   */}
                 </div>
               </Fade>
             </div>
@@ -164,14 +160,9 @@ export const IndexPageTemplate = ({ frontmatter }) => (
                     {frontmatter.visit.heading}
                   </h2>
                   <div className="mb-8">{frontmatter.visit.description}</div>
-                  <a
-                    href="https://www.google.com/maps/place/This+Is+The+Place+Heritage+Park/@40.7526393,-111.8180033,17z/data=!3m1!4b1!4m5!3m4!1s0x87525e2bd2441443:0xdf4e3ffc5c0526e4!8m2!3d40.7526353!4d-111.8158093"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="block lg:inline-block w-48 mx-auto py-4 px-8 bg-green text-white uppercase tracking-widest text-sm"
-                  >
+                  <Link to={frontmatter.visit.link} className="inline-block py-4 px-8 bg-green text-white uppercase tracking-widest text-sm">
                     {frontmatter.visit.linkText}
-                  </a>
+                  </Link>
                 </div>
               </Fade>
             </div>

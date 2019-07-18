@@ -8,7 +8,7 @@ const Navbar = class extends React.Component {
     super(props);
     this.state = {
       active: false,
-      navBarActiveClass: ""
+      navBarActiveClass: "hidden lg:flex"
     };
   }
 
@@ -23,10 +23,10 @@ const Navbar = class extends React.Component {
         // set the class in state for the navbar accordingly
         this.state.active
           ? this.setState({
-              navBarActiveClass: "is-active"
+              navBarActiveClass: "block lg:flex"
             })
           : this.setState({
-              navBarActiveClass: ""
+              navBarActiveClass: "hidden lg:flex"
             });
       }
     );
@@ -40,67 +40,63 @@ const Navbar = class extends React.Component {
         aria-label="main-navigation"
       >
         <div className="container mx-auto">
-          <div className="flex justify-between items-center">
-            <div className="w-1/2 md:w-1/6 flex items-center">
-              <a href="https://www.daysof47.com/" target="_blank" rel="noopener noreferrer" className="mx-2">
-                <img
-                  src={logo}
-                  alt="Days of 47"
-                />
-              </a>
-              <a href="https://www.thisistheplace.org/" target="_blank" rel="noopener noreferrer" className="mx-2">
-                <img
-                  src={thePlacelogo}
-                  alt="This Is The Place"
-                />
-              </a>
-            </div>
-            {/* Hamburger menu 
-            <div
-                className={`burger ${this.state.navBarActiveClass}`}
-                data-target="navMenu"
-                onClick={() => this.toggleHamburger()}
-              >
-              <span />
-              <span />
-              <span />
-            </div>
+          <div className="flex flex-wrap justify-between items-center">
+            <Link to="/" className="w-1/2 md:w-1/6 flex items-center">
+              <img
+                src={logo}
+                alt="Days of 47"
+                className="mx-2"
+                style={{width: "45%"}}
+              />
+              <img
+                src={thePlacelogo}
+                alt="This Is The Place"
+                className="mx-2"
+                style={{width: "45%"}}
+              />
+            </Link>
+            <button
+              className="hamburger lg:hidden"
+              data-target="navMenu"
+              onClick={() => this.toggleHamburger()}
+            >
+              Open Menu
+            </button>
             <div
               id="navMenu"
-              className={`flex-1 flex justify-around mx-4 hidden lg:block ${this.state.navBarActiveClass}`}
+              className={`w-full mt-4 lg:mt-0 bg-white lg:bg-transparent lg:flex-1 lg:justify-around lg:mx-4 ${this.state.navBarActiveClass}`}
             >
               <Link
-                to="/"
-                className="text-white uppercase tracking-widest text-sm inline-block p-3"
+                to="/stories"
+                className="lg:text-white uppercase tracking-widest text-sm block font-bold p-3"
               >
                 The Stories
               </Link>
               <Link
-                to="/"
-                className="text-white uppercase tracking-widest text-sm inline-block p-3"
+                to="/the-children"
+                className="lg:text-white uppercase tracking-widest text-sm block font-bold p-3"
               >
                 The Children
               </Link>
               <Link
-                to="/"
-                className="text-white uppercase tracking-widest text-sm inline-block p-3"
+                to="/tour"
+                className="lg:text-white uppercase tracking-widest text-sm block font-bold p-3"
               >
                 Tour the Memorial
               </Link>
               <Link
-                to="/"
-                className="text-white uppercase tracking-widest text-sm inline-block p-3"
+                to="/about"
+                className="lg:text-white uppercase tracking-widest text-sm block font-bold p-3"
               >
                 About the Memorial
               </Link>
             </div>
-            */}
             <div className="hidden lg:block mx-4">
               <Link
-                to="/stories"
+                to="/visit"
                 className="inline-block uppercase py-3 px-8 bg-white text-green text-sm tracking-widest shadow font-bold"
               >
-                Read the stories
+                Visit the Memorial
               </Link>
             </div>
           </div>
