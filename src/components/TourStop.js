@@ -4,6 +4,7 @@ import { configureAnchors } from "react-scrollable-anchor";
 import Img from "gatsby-image";
 import HugeText from "./HugeText";
 import Fade from "react-reveal/Fade";
+import ReactAudioPlayer from "react-audio-player";
 
 configureAnchors({ scrollDuration: 750 });
 
@@ -40,6 +41,7 @@ const TourStop = ({ section, index }) => (
                 }}
               ></div>
             </Fade>
+            <ReactAudioPlayer src={section.audio} controls />
           </div>
         </div>
       </div>

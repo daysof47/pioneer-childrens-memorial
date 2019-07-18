@@ -40,24 +40,24 @@ const Navbar = class extends React.Component {
         aria-label="main-navigation"
       >
         <div className="container mx-auto">
-          <div className="flex justify-center lg:justify-between items-center">
-            <div className="mx-4">
-              <Link to="/" title="Logo" className="flex items-center">
+          <div className="flex justify-between items-center">
+            <div className="w-1/2 md:w-1/6 flex items-center">
+              <a href="https://www.daysof47.com/" target="_blank" rel="noopener noreferrer" className="mx-2">
                 <img
                   src={logo}
                   alt="Days of 47"
-                  style={{ width: "90px", margin: "0 8px" }}
                 />
+              </a>
+              <a href="https://www.thisistheplace.org/" target="_blank" rel="noopener noreferrer" className="mx-2">
                 <img
                   src={thePlacelogo}
                   alt="This Is The Place"
-                  style={{ width: "100px", margin: "0 8px" }}
                 />
-              </Link>
+              </a>
             </div>
             {/* Hamburger menu 
             <div
-                className={`navbar-burger burger ${this.state.navBarActiveClass}`}
+                className={`burger ${this.state.navBarActiveClass}`}
                 data-target="navMenu"
                 onClick={() => this.toggleHamburger()}
               >

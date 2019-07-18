@@ -44,9 +44,9 @@ export const TourPageTemplate = ({ frontmatter }) => (
         </div>
       </section>
       <div>
-      {frontmatter.sections.map((section, index) => (
-        <TourStop key={index} section={section} index={index} />
-      ))}
+        {frontmatter.sections.map((section, index) => (
+          <TourStop key={index} section={section} index={index} />
+        ))}
       </div>
     </ParallaxProvider>
   </div>
@@ -98,6 +98,7 @@ export const pageQuery = graphql`
           description
           top
           left
+          audio
           image {
             childImageSharp {
               fluid(maxWidth: 1000, quality: 100) {

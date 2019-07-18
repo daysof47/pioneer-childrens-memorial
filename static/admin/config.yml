@@ -220,6 +220,7 @@ collections:
                   { label: Image, name: image, widget: image },
                   { label: Pin Position Top, name: top, widget: string },
                   { label: Pin Position Left, name: left, widget: string },
+                  { label: Audio File, name: audio, widget: string },
                 ],
             }
       - file: "src/pages/the-children/index.md"
