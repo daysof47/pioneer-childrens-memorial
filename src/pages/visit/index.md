@@ -13,7 +13,7 @@ sections:
       grouptours@thisistheplace.org or call Alex Stromberg at 801.924.7511.</p>
     heading: Group Tours
     hugetext: Groups
-    image: /img/placeholder-1100x1400.jpg
+    image: /img/group-tours-2.jpg
   - description: >-
       <p>This Is The Place Heritage Park welcomes everyone to experience the
       Park. Our Visitors Center is fully accessible to handicapped guests. There
