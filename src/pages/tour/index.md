@@ -19,7 +19,7 @@ sections:
     image: /img/childrens-memorial-3.jpg
     top: "66%"
     left: "16%"
-    audio: /audio/lower-pavilion.mp3
+    audio: /audio/bodil-mortensen.mp3
   - description: >-
       <p>Members of the Martin Handcart Company were physically and mentally
       exhausted by the time they reached the Sweetwater River on November 4,
@@ -105,6 +105,6 @@ sections:
     image: /img/journeys-end.jpg
     top: "37%"
     left: "79%"
-    audio: /audio/bodil-mortensen.mp3
+    audio: /audio/journeys-end.mp3
 ---
 
