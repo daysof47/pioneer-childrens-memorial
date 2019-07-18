@@ -25,6 +25,6 @@ sections:
       parking is available at the Visitors Center.</p>
     heading: Preparing to Visit
     hugetext: Preparing
-    image: /img/20190612_132722.jpg
+    image: /img/group-tours.jpg
 ---
 
