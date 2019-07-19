@@ -7,10 +7,9 @@ intro:
   description: >-
     <p>Historians have documented more than 600 children who died along the
     trail, but we know there are more. Our plea is for you to check your family
-    history and add the names of children, or
-    [submit](https://pioneerchildrensmemorial.com/#tell-a-story) stories that we
-    missed to this website, so they can be honored, too. The documented names
-    are listed below.</p>
+    history and add the names of children, or <a
+    href="/#tell-a-story">submit</a> stories that we missed to this website, so
+    they can be honored, too. The documented names are listed below.</p>
   heading: A Plea for Your Help
   hugetext: Honor the Children
   subheading: The Children We Honor
