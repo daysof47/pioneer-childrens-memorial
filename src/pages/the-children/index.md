@@ -1,18 +1,21 @@
 ---
-templateKey: "children-page"
-path: /the-children
 title: The Children
+templateKey: children-page
 heroImage: /img/the-children-hero.jpg
 heading: The Children
 intro:
   description: >-
-    <p>Historians have documented more than 600 children who died along the trail, but we know there are more. Our plea is for you to check your family history and add the names of children we missed to this website, so they can be honored too. The documented names are listed below.</p>
+    <p>Historians have documented more than 600 children who died along the
+    trail, but we know there are more. Our plea is for you to check your family
+    history and add the names of children, or submit stories that we missed to
+    this website, so they can be honored, too. The documented names are listed
+    below.</p>
   heading: A Plea for Your Help
+  hugetext: Honor the Children
   subheading: The Children We Honor
 stones:
   - heading: Stone 1
-    years: "1847-1850"
-    image: "/img/stone-1.jpg"
+    image: /img/stone-1.jpg
     names:
       - Ann Bennion
       - Robert Rierson Gardner
@@ -83,9 +86,9 @@ stones:
       - Phoebe Arabella Webb
       - Elmira Charlotte Wilcox
       - Lyman VanWright
+    years: 1847-1850
   - heading: Stone 2
-    years: "1851-1852"
-    image: "/img/stone-2.jpg"
+    image: /img/stone-2.jpg
     names:
       - Amelia Lorinda Allred
       - Robert Platt Needham
@@ -103,9 +106,9 @@ stones:
       - Sarah Clark
       - Elmira Zalotta Clinger
       - Sara Jane Colvin
+    years: 1851-1852
   - heading: Stone 3
-    years: "1852 cont"
-    image: "/img/stone-3.jpg"
+    image: /img/stone-3.jpg
     names:
       - Thomas David
       - Emma Dunn
@@ -148,9 +151,9 @@ stones:
       - Catherine Wilson
       - Ann Wiltshire
       - Samuel Smith Young
+    years: 1852 cont
   - heading: Stone 4
-    years: "1853-1854"
-    image: "/img/stone-4.jpg"
+    image: /img/stone-4.jpg
     names:
       - Ellen Perryman Barnes
       - Frances Hann
@@ -200,9 +203,9 @@ stones:
       - Mary Ann Thornock
       - William Thornock
       - Clara Malinda Tuttle
+    years: 1853-1854
   - heading: Stone 5
-    years: "1855"
-    image: "/img/stone-5.jpg"
+    image: /img/stone-5.jpg
     names:
       - Cyrenius Bagley
       - Mary Birch
@@ -245,9 +248,9 @@ stones:
       - Stephen Walsh
       - Charles Henry Wilkins
       - James Cyrus Worlton
+    years: '1855'
   - heading: Stone 6
-    years: "1856"
-    image: "/img/stone-6.jpg"
+    image: /img/stone-6.jpg
     names:
       - Anders Nielson Andersen
       - Betsy Ashton
@@ -289,9 +292,9 @@ stones:
       - Bodil Mortensen
       - Hannah Newman
       - Niels Nielsen
+    years: '1856'
   - heading: Stone 7
-    years: "1856 cont"
-    image: "/img/stone-7.jpg"
+    image: /img/stone-7.jpg
     names:
       - NN Normington
       - Daniel Normington
@@ -324,9 +327,9 @@ stones:
       - NN Wilson
       - Henry H. Wiseman
       - John Joseph Wiseman
+    years: 1856 cont
   - heading: Stone 8
-    years: "1857"
-    image: "/img/stone-8.jpg"
+    image: /img/stone-8.jpg
     names:
       - John Banford
       - Richard George Banford
@@ -348,9 +351,9 @@ stones:
       - Tunis Harriet Rich
       - NN Rollins
       - Iowa Sorenson
+    years: '1857'
   - heading: Stone 9
-    years: "1859-1860"
-    image: "/img/stone-9.jpg"
+    image: /img/stone-9.jpg
     names:
       - Elizabeth Christiana Allen
       - Josphine Griffiths
@@ -361,7 +364,7 @@ stones:
       - Maroni Lee
       - Jens Peter Rasmussen
       - Emilie Blackner
-      - William Scott Budge, Jr
+      - 'William Scott Budge, Jr'
       - Esther Cherrington
       - Hyrum Cherrington
       - John Cartwright Cherrington
@@ -379,9 +382,9 @@ stones:
       - Lucy Sandall
       - Harriet Martha Shirley
       - Elizabeth Ann Nutter Stanworth
+    years: 1859-1860
   - heading: Stone 10
-    years: "1861-1862"
-    image: "/img/stone-1.jpg"
+    image: /img/stone-1.jpg
     names:
       - Andrew Jackson Allred
       - Sarah Jane Backhouse
@@ -429,9 +432,9 @@ stones:
       - Elizabeth Anna Freeman
       - Leah Gedge
       - Lois Gedge
+    years: 1861-1862
   - heading: Stone 11
-    years: "1862 cont"
-    image: "/img/stone-1.jpg"
+    image: /img/stone-1.jpg
     names:
       - Mary Gedge
       - Ephraim Joseph Hall
@@ -480,9 +483,9 @@ stones:
       - Phillis Todd
       - Annie Louise Tucker
       - Mercy Ann Virgin
+    years: 1862 cont
   - heading: Stone 12
-    years: "1863"
-    image: "/img/stone-1.jpg"
+    image: /img/stone-1.jpg
     names:
       - Isaac Cynosure Abel
       - Pol Jensen Andersen
@@ -535,9 +538,9 @@ stones:
       - Camilla Thyra Mortensen
       - Willard Pratt Mortensen
       - Mary Ann Moss
+    years: '1863'
   - heading: Stone 13
-    years: "1863-1865"
-    image: "/img/stone-1.jpg"
+    image: /img/stone-1.jpg
     names:
       - Sine Katrine Nilsson
       - Anne Marie Olsen
@@ -621,9 +624,9 @@ stones:
       - Lovisa Nielsen
       - Justina Nilsson
       - Mary Orgill
+    years: 1863-1865
   - heading: Stone 14
-    years: "1866"
-    image: "/img/stone-1.jpg"
+    image: /img/stone-1.jpg
     names:
       - Charlotta Christina Warnick Arlekulen
       - Carl Otto Edwin Backman
@@ -691,9 +694,9 @@ stones:
       - John Gustav Warnick
       - Sina Dina Williamenson
       - William Isaac Withers
+    years: '1866'
   - heading: Stone 15
-    years: "1867-1868"
-    image: "/img/stone-1.jpg"
+    image: /img/stone-1.jpg
     names:
       - Valentina Elizabeth Dyer
       - Lonnie Iversen
@@ -730,9 +733,9 @@ stones:
       - Christian Peder Edvard Nielsen
       - Karen Marie Nielsen
       - Anna Nilson
+    years: 1867-1868
   - heading: Stone 16
-    years: "1868 cont"
-    image: "/img/stone-1.jpg"
+    image: /img/stone-1.jpg
     names:
       - Ane Christinen Olsen
       - Charlotte Audrey Payne Oswald
@@ -748,4 +751,6 @@ stones:
       - Petter Toolson
       - Alfred Hezekiah Wade
       - Sarah Ann Williams
+    years: 1868 cont
 ---
+
