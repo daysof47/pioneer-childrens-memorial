@@ -86,9 +86,9 @@ export const AboutPageTemplate = ({ frontmatter }) => (
               ></div>
             </Fade>
           </div>
-          <ol className="flex flex-wrap list-decimal w-full m-4">
+          <ol className="flex flex-wrap justify-center list-decimal w-full m-4">
             {frontmatter.references.links.map((link, index) => (
-              <li key={index} className="w-full md:w-1/2 lg:w-1/4 my-1">
+              <li key={index} className="w-full md:w-1/2 lg:w-1/3 my-1">
                 <a
                   href={link.link}
                   className="text-green"
