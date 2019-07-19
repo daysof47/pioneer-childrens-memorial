@@ -37,7 +37,7 @@ sections:
       Memorial. It is humbling to bring our skills and hearts to bear on such
       touching and sacred historical events which are so meaningful to us
       all.”</p>
-    heading: 'Artists and Sculptors Roger and Stefanie Hunt '
+    heading: "Artists and Sculptors Roger and Stefanie Hunt "
     hugetext: Artists
     image: /img/about-the-memorial-making-of-1.jpg
   - description: >-
@@ -78,17 +78,17 @@ references:
   heading: References
   hugetext: Learn
   links:
-    - link: 'https://www.familysearch.org/campaign/pioneers/'
+    - link: "https://www.familysearch.org/campaign/pioneers/"
       linktext: Family Search - Pioneers
-    - link: 'http://www.mormontrails.org/Trails/Summary/trailsum.htm'
+    - link: "http://www.mormontrails.org/Trails/Summary/trailsum.htm"
       linktext: History of the Mormon Trail
-    - link: 'https://history.churchofjesuschrist.org/overlandtravel/'
-      linktext: Mormon Pioneer Overland Travel Database
+    - link: "https://www.history.com/topics/westward-expansion/oregon-trail"
+      linktext: Oregon Trail History
     - link: >-
         http://files.lib.byu.edu/mormonmigration/articles/MormonPioneerTrailMTA1997OfficialGuide.PDF
       linktext: The Mormon Pioneer Trail - Official Guide
-    - link: 'https://www.history.com/topics/westward-expansion/oregon-trail'
-      linktext: Oregon Trail History
+    - link: "https://history.churchofjesuschrist.org/overlandtravel/"
+      linktext: Mormon Pioneer Overland Travel Database
   subheading: Want to learn more?
 gallery:
   - alt: Photo of the site
@@ -106,4 +106,3 @@ gallery:
   - alt: Photo of the site
     image: /img/about-the-memorial-gallery-7.jpg
 ---
-
