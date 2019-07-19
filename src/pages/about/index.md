@@ -87,8 +87,8 @@ references:
     - link: >-
         http://files.lib.byu.edu/mormonmigration/articles/MormonPioneerTrailMTA1997OfficialGuide.PDF
       linktext: The Mormon Pioneer Trail - Official Guide
-    - link: 'https://www.redolive.com'
-      linktext: Placeholder
+    - link: 'https://www.history.com/topics/westward-expansion/oregon-trail'
+      linktext: Oregon Trail History
   subheading: Want to learn more?
 gallery:
   - alt: Photo of the site
