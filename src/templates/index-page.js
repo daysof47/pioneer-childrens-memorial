@@ -116,7 +116,7 @@ export const IndexPageTemplate = ({ frontmatter }) => (
           <FeaturedStoryHome />
         </div>
       </section>
-      <section className="py-4 mt-48">
+      <section className="py-4 mt-48" id="tell-a-story">
         <TellStory content={frontmatter.submitStoryCta} />
       </section>
       <BodyBackgroundSection>
@@ -160,7 +160,10 @@ export const IndexPageTemplate = ({ frontmatter }) => (
                     {frontmatter.visit.heading}
                   </h2>
                   <div className="mb-8">{frontmatter.visit.description}</div>
-                  <Link to={frontmatter.visit.link} className="inline-block py-4 px-8 bg-green text-white uppercase tracking-widest text-sm">
+                  <Link
+                    to={frontmatter.visit.link}
+                    className="inline-block py-4 px-8 bg-green text-white uppercase tracking-widest text-sm"
+                  >
                     {frontmatter.visit.linkText}
                   </Link>
                 </div>
