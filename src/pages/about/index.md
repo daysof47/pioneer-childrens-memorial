@@ -80,12 +80,13 @@ references:
   links:
     - link: 'https://www.familysearch.org/campaign/pioneers/'
       linktext: Family Search - Pioneers
-    - link: 'https://www.redolive.com'
-      linktext: Placeholder
-    - link: 'https://www.redolive.com'
-      linktext: Placeholder
-    - link: 'https://www.redolive.com'
-      linktext: Placeholder
+    - link: 'http://www.mormontrails.org/Trails/Summary/trailsum.htm'
+      linktext: History of the Mormon Trail
+    - link: 'https://history.churchofjesuschrist.org/overlandtravel/'
+      linktext: Mormon Pioneer Overland Travel Database
+    - link: >-
+        http://files.lib.byu.edu/mormonmigration/articles/MormonPioneerTrailMTA1997OfficialGuide.PDF
+      linktext: The Mormon Pioneer Trail - Official Guide
     - link: 'https://www.redolive.com'
       linktext: Placeholder
   subheading: Want to learn more?
