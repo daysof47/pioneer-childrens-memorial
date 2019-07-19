@@ -78,6 +78,8 @@ references:
   heading: References
   hugetext: Learn
   links:
+    - link: 'https://www.familysearch.org/campaign/pioneers/'
+      linktext: Family Search - Pioneers
     - link: 'https://www.redolive.com'
       linktext: Placeholder
     - link: 'https://www.redolive.com'
@@ -86,13 +88,7 @@ references:
       linktext: Placeholder
     - link: 'https://www.redolive.com'
       linktext: Placeholder
-    - link: 'https://www.redolive.com'
-      linktext: Placeholder
-    - link: 'https://www.redolive.com'
-      linktext: Placeholder
-    - link: 'https://www.redolive.com'
-      linktext: Placeholder
-  subheading: Subheadline Goes Here
+  subheading: Want to learn more?
 gallery:
   - alt: Photo of the site
     image: /img/about-the-memorial-gallery-1.jpg
