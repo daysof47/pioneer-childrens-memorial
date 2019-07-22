@@ -41,7 +41,7 @@ export const IndexPageTemplate = ({ frontmatter }) => (
       <IntroBackgroundSection>
         <section>
           <Fade>
-            <div className="text-center mx-auto max-w-3xl px-8">
+            <div className="text-center mx-auto max-w-3xl px-8 relative z-10">
               <h4 className="uppercase tracking-widest text-green mb-4 max-w-lg mx-auto">
                 {frontmatter.intro.subheading}
               </h4>
@@ -231,13 +231,13 @@ export const IndexPageTemplate = ({ frontmatter }) => (
 // };
 
 const LeafEl1 = () => (
-  <div className="hidden lg:block relative">
+  <div className="leaf-image">
     <div
       style={{
         position: "absolute",
         left: "5%",
         top: "-80px",
-        zIndex: "100",
+        zIndex: "7",
         pointerEvents: "none"
       }}
     >
@@ -248,13 +248,13 @@ const LeafEl1 = () => (
   </div>
 );
 const LeafEl2 = () => (
-  <div className="hidden lg:block relative">
+  <div className="leaf-image">
     <div
       style={{
         position: "absolute",
         left: "30%",
         top: "0px",
-        zIndex: "99",
+        zIndex: "6",
         pointerEvents: "none"
       }}
     >
@@ -265,7 +265,7 @@ const LeafEl2 = () => (
   </div>
 );
 const LeafEl3 = () => (
-  <div className="hidden lg:block relative">
+  <div className="leaf-image">
     <div
       style={{
         position: "absolute",
