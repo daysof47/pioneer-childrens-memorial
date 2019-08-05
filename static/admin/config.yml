@@ -71,6 +71,8 @@ collections:
                   { label: Subheading, name: subheading, widget: string },
                   { label: Heading, name: heading, widget: string },
                   { label: Description, name: description, widget: markdown },
+                  { label: Link Text, name: linkText, widget: string },
+                  { label: Link, name: link, widget: string },
                 ],
             }
           - {
@@ -284,4 +286,14 @@ collections:
                   { label: Description, name: description, widget: markdown },
                   { label: Image, name: image, widget: image },
                 ],
+            }
+      - file: "src/pages/privacy-policy/index.md"
+        label: "Privicy Policy"
+        name: "privacy-policy"
+        fields:
+          - {
+              label: "Template Key",
+              name: "templateKey",
+              widget: "hidden",
+              default: "privacy-policy-page",
             }
