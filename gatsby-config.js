@@ -2,11 +2,13 @@ var proxy = require("http-proxy-middleware");
 
 module.exports = {
   siteMetadata: {
+    siteUrl: "https://pioneerchildrensmemorial.com",
     title: "Pioneer Childrens Memorial",
     description:
       "The Pioneer Childrens Memorial honors the fallen children who died along the pioneer trail."
   },
   plugins: [
+    "gatsby-plugin-sitemap",
     "gatsby-plugin-react-helmet",
     {
       // keep as first gatsby-source-filesystem plugin for gatsby image support
