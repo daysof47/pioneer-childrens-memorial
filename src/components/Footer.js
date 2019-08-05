@@ -19,51 +19,75 @@ const Footer = class extends React.Component {
             </div>
             <div className="m-2 hidden lg:block">|</div>
             <div className="m-2 w-auto">All Rights Reserved</div>
-            {/* <div className="m-2 w-auto">|</div>
+            <div className="m-2 w-auto">|</div>
             <div className="m-2 w-auto">
-              <Link to="/">Terms of Service</Link>
-            </div> */}
+              <Link to="/privacy-policy" className="text-gray-200">
+                Privacy Policy
+              </Link>
+            </div>
           </div>
           <div>
             <ul className="footer-nav lg:flex lg:justify-center my-8 font-bold text-center tracking-wide">
               <li className="my-2">
-                <Link className="text-gray-200" to="/stories">The Stories</Link>
+                <Link className="text-gray-200" to="/stories">
+                  The Stories
+                </Link>
               </li>
               <li className="my-2">
-                <Link className="text-gray-200" to="/the-children">The Children</Link>
+                <Link className="text-gray-200" to="/the-children">
+                  The Children
+                </Link>
               </li>
               <li className="my-2">
-                <Link className="text-gray-200" to="/tour">Tour The Memorial</Link>
+                <Link className="text-gray-200" to="/tour">
+                  Tour The Memorial
+                </Link>
               </li>
               <li className="my-2">
-                <Link className="text-gray-200" to="/about">About The Memorial</Link>
+                <Link className="text-gray-200" to="/about">
+                  About The Memorial
+                </Link>
               </li>
               <li className="my-2">
-                <Link className="text-gray-200" to="/visit">Visit The Memorial</Link>
+                <Link className="text-gray-200" to="/visit">
+                  Visit The Memorial
+                </Link>
               </li>
             </ul>
           </div>
           <div className="lg:flex lg:justify-center lg:items-center text-center">
-          <a href="https://www.thisistheplace.org/" target="_blank" rel="noopener noreferrer">
-            <img
-              src={logo1}
-              alt="This Is The Place"
-              className="my-8 mx-auto lg:mx-4"
-            />
+            <a
+              href="https://www.thisistheplace.org/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img
+                src={logo1}
+                alt="This Is The Place"
+                className="my-8 mx-auto lg:mx-4"
+              />
             </a>
-            <a href="https://www.familysearch.org/en/" target="_blank" rel="noopener noreferrer">
-            <img
-              src={logo2}
-              alt="Family Search"
-              className="my-8 mx-auto lg:mx-4"
-            />
+            <a
+              href="https://www.familysearch.org/en/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img
+                src={logo2}
+                alt="Family Search"
+                className="my-8 mx-auto lg:mx-4"
+              />
             </a>
-            <a href="https://www.daysof47.com/" target="_blank" rel="noopener noreferrer">
-            <img
-              src={logo3}
-              alt="Days of 47"
-              className="my-8 mx-auto lg:mx-4"
-            />
+            <a
+              href="https://www.daysof47.com/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img
+                src={logo3}
+                alt="Days of 47"
+                className="my-8 mx-auto lg:mx-4"
+              />
             </a>
           </div>
         </div>
