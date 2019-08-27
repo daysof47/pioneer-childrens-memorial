@@ -5,7 +5,7 @@ import Navbar from "../components/Navbar";
 // import "./base.css";
 import useSiteMetadata from "./SiteMetadata";
 
-const TemplateWrapper = ({ children }) => {
+const TemplateWrapper = ({ children, pagetype }) => {
   const { title, description } = useSiteMetadata();
   return (
     <div>
@@ -44,7 +44,7 @@ const TemplateWrapper = ({ children }) => {
         <meta property="og:url" content="/" />
         <meta property="og:image" content="/img/og-image.jpg" />
       </Helmet>
-      <Navbar />
+      <Navbar pagetype={pagetype} />
       <div>{children}</div>
       <Footer />
     </div>

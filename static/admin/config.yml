@@ -49,6 +49,12 @@ collections:
     folder: "src/pages/secondaries"
     create: true
     fields:
+      - {
+          label: "Template Key",
+          name: "templateKey",
+          widget: "hidden",
+          default: "default-page",
+        }
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
   - name: "pages"

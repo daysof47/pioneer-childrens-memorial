@@ -21,8 +21,14 @@ const Footer = class extends React.Component {
             <div className="m-2 w-auto">All Rights Reserved</div>
             <div className="m-2 w-auto">|</div>
             <div className="m-2 w-auto">
-              <Link to="/privacy-policy" className="text-gray-200">
+              <Link to="/secondaries/privacy-policy" className="text-gray-200">
                 Privacy Policy
+              </Link>
+            </div>
+            <div className="m-2 w-auto">|</div>
+            <div className="m-2 w-auto">
+              <Link to="/secondaries/terms-of-use" className="text-gray-200">
+                Terms of Use
               </Link>
             </div>
           </div>

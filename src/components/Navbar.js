@@ -33,6 +33,7 @@ const Navbar = class extends React.Component {
   };
 
   render() {
+    const { pagetype } = this.props;
     return (
       <nav
         className="absolute pin-t w-full z-50 p-4"
@@ -46,13 +47,13 @@ const Navbar = class extends React.Component {
                 src={logo}
                 alt="Days of 47"
                 className="mx-2"
-                style={{width: "45%"}}
+                style={{ width: "45%" }}
               />
               <img
                 src={thePlacelogo}
                 alt="This Is The Place"
                 className="mx-2"
-                style={{width: "45%"}}
+                style={{ width: "45%" }}
               />
             </Link>
             <button
@@ -68,25 +69,33 @@ const Navbar = class extends React.Component {
             >
               <Link
                 to="/stories"
-                className="lg:text-white uppercase tracking-widest text-sm block font-bold p-3"
+                className={`${
+                  pagetype !== "default-page" ? "lg:text-white" : null
+                } uppercase tracking-widest text-sm block font-bold p-3`}
               >
                 The Stories
               </Link>
               <Link
                 to="/the-children"
-                className="lg:text-white uppercase tracking-widest text-sm block font-bold p-3"
+                className={`${
+                  pagetype !== "default-page" ? "lg:text-white" : null
+                } uppercase tracking-widest text-sm block font-bold p-3`}
               >
                 The Children
               </Link>
               <Link
                 to="/tour"
-                className="lg:text-white uppercase tracking-widest text-sm block font-bold p-3"
+                className={`${
+                  pagetype !== "default-page" ? "lg:text-white" : null
+                } uppercase tracking-widest text-sm block font-bold p-3`}
               >
                 Tour the Memorial
               </Link>
               <Link
                 to="/about"
-                className="lg:text-white uppercase tracking-widest text-sm block font-bold p-3"
+                className={`${
+                  pagetype !== "default-page" ? "lg:text-white" : null
+                } uppercase tracking-widest text-sm block font-bold p-3`}
               >
                 About the Memorial
               </Link>
