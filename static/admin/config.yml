@@ -44,7 +44,13 @@ collections:
           widget: "string",
           required: false,
         }
-
+  - label: "Secondary Pages"
+    name: "secondaries"
+    folder: "src/pages/secondaries"
+    create: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
   - name: "pages"
     label: "Pages"
     files:
@@ -286,14 +292,4 @@ collections:
                   { label: Description, name: description, widget: markdown },
                   { label: Image, name: image, widget: image },
                 ],
-            }
-      - file: "src/pages/privacy-policy/index.md"
-        label: "Privicy Policy"
-        name: "privacy-policy"
-        fields:
-          - {
-              label: "Template Key",
-              name: "templateKey",
-              widget: "hidden",
-              default: "privacy-policy-page",
             }
