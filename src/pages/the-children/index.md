@@ -434,7 +434,7 @@ stones:
       - Lois Gedge
     years: 1861-1862
   - heading: Stone 11
-    image: /img/stone-1.jpg
+    image: /img/stone-12.jpg
     names:
       - Mary Gedge
       - Ephraim Joseph Hall
