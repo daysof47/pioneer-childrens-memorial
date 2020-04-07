@@ -540,7 +540,7 @@ stones:
       - Mary Ann Moss
     years: '1863'
   - heading: Stone 13
-    image: /img/stone-1.jpg
+    image: /img/stone-14.jpg
     names:
       - Sine Katrine Nilsson
       - Anne Marie Olsen
