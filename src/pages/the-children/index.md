@@ -485,7 +485,7 @@ stones:
       - Mercy Ann Virgin
     years: 1862 cont
   - heading: Stone 12
-    image: /img/stone-1.jpg
+    image: /img/stone-13.jpg
     names:
       - Isaac Cynosure Abel
       - Pol Jensen Andersen
