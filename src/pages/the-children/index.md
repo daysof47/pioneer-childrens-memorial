@@ -626,7 +626,7 @@ stones:
       - Mary Orgill
     years: 1863-1865
   - heading: Stone 14
-    image: /img/stone-1.jpg
+    image: /img/stone-15.jpg
     names:
       - Charlotta Christina Warnick Arlekulen
       - Carl Otto Edwin Backman
@@ -696,7 +696,7 @@ stones:
       - William Isaac Withers
     years: '1866'
   - heading: Stone 15
-    image: /img/stone-1.jpg
+    image: /img/stone-16.jpg
     names:
       - Valentina Elizabeth Dyer
       - Lonnie Iversen
