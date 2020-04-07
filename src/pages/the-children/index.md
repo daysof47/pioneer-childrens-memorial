@@ -384,7 +384,7 @@ stones:
       - Elizabeth Ann Nutter Stanworth
     years: 1859-1860
   - heading: Stone 10
-    image: /img/stone-1.jpg
+    image: /img/stone-11.jpg
     names:
       - Andrew Jackson Allred
       - Sarah Jane Backhouse
@@ -434,7 +434,7 @@ stones:
       - Lois Gedge
     years: 1861-1862
   - heading: Stone 11
-    image: /img/stone-11.jpg
+    image: /img/stone-12.jpg
     names:
       - Mary Gedge
       - Ephraim Joseph Hall
@@ -735,7 +735,7 @@ stones:
       - Anna Nilson
     years: 1867-1868
   - heading: Stone 16
-    image: /img/stone-1.jpg
+    image: /img/stone-17.jpg
     names:
       - Ane Christinen Olsen
       - Charlotte Audrey Payne Oswald
