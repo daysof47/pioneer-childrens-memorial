@@ -347,7 +347,7 @@ stones:
       - NN Muller
       - Mariah  Louise Nebeker
       - Rasmina Matilda Rasmussen
-      - Rasmus Rasumssen
+      - Rasmus Rasmussen
       - Tunis Harriet Rich
       - NN Rollins
       - Iowa Sorenson
@@ -753,4 +753,3 @@ stones:
       - Sarah Ann Williams
     years: 1868 cont
 ---
-
