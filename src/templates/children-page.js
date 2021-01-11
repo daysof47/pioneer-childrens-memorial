@@ -108,7 +108,10 @@ export const pageQuery = graphql`
         stones {
           heading
           years
-          names
+          names {
+            name
+            link
+          }
           image {
             childImageSharp {
               fluid(maxWidth: 800, quality: 100) {

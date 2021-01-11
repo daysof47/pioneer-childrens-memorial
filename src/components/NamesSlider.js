@@ -2,14 +2,42 @@ import React, { Component } from "react";
 import { FaChevronLeft } from "react-icons/fa";
 import { FaChevronRight } from "react-icons/fa";
 
-const chunk = (arr, size) =>
-  arr.reduce(
-    (chunks, el, i) =>
-      (i % size ? chunks[chunks.length - 1].push(el) : chunks.push([el])) &&
-      chunks,
+/**
+ * Normalize Entry
+ *
+ * @param      {<type>}  entry   The entry
+ * @return     {Object}  { description_of_the_return_value }
+ */
+function toEntry(entry = {}) {
+  return {
+    ...entry,
+    link: entry.link
+      ? `https://history.churchofjesuschrist.org/overlandtravel/pioneers/${entry.link}`
+      : "https://history.churchofjesuschrist.org/overlandtravel/"
+  };
+}
+
+/**
+ * Divide the entries into chunks
+ *
+ * @param      {<type>}  entries  The entries
+ * @param      {number}  size     The size
+ * @return     {<type>}  { description_of_the_return_value }
+ */
+function toChunks(entries, size) {
+  return entries.reduce((chunks, entry, i) => ((i % size)
+    ? chunks[chunks.length - 1].push(toEntry(entry))
+    : chunks.push([toEntry(entry)]))
+    && chunks,
     []
   );
+}
 
+/**
+ * NameSlider Component
+ *
+ * @class      NamesSlider (name)
+ */
 class NamesSlider extends Component {
   constructor(props) {
     super(props);
@@ -69,7 +97,7 @@ class NamesSlider extends Component {
   }
 
   render() {
-    this.chunks = chunk(this.props.names, 25);
+    this.chunks = toChunks(this.props.names, 25);
     return (
       <div>
         <div>
@@ -81,10 +109,12 @@ class NamesSlider extends Component {
                 display: index === this.state.visibleSlide ? "block" : "none"
               }}
             >
-              {chunk.map(name => (
-                <span key={this.getKey()} className="inline-block mx-3">
-                  {name}
-                </span>
+              {chunk.map(entry => (
+                <a target="_" href={entry.link}>
+                  <span key={this.getKey()} className="inline-block mx-3">
+                    {entry.name}
+                  </span>
+                </a>
               ))}
             </div>
           ))}
