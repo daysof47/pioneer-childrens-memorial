@@ -2,6 +2,28 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b654c94e-08a6-4b79-b443-7837581b1d8d/deploy-status)](https://app.netlify.com/sites/gatsby-starter-netlify-cms-ci/deploys)
 
+## Making Code Changes
+
+1. Run the server with 'yarn start'
+
+## Importing Children's Names
+
+Emily Marie Crumpton (Liba@churchofjesuschrist.org) is maintaining an Excel spreadsheet of the names and metadata of all the children that appear on the stones. She is also maintaining a sub-sheet that contains a list of additional children that do not currently appear on any the stones. Whenever she updates the stones she will email us a copy of the updated spreadsheet.
+
+This is the process to import the spreadsheet names into the website:
+
+1. Download the spreadsheet from the email and save it as a local file.
+2. Open the spreadsheet in Excel and export the first and second page.
+3. Save the first page as a CSV file to /sources/stones_list.csv
+4. Save the second page as a CSV file to /sources/missing_list.csv
+5. Edit both files in a text editor and remove the first line (extraneous metadata).
+6. From the command-line, run the import script: "yarn build:stones"
+7. Add changes to Git staging: "git add ."
+8. Commit changes to Git: "git commit -m 'Updated Stones'"
+9. Push Git commit to GitHub "git push"
+
+Pushing the changes to Git will trigger the site to be re-deployed on Netlify. It takes a few minutes for the changes to propagate, but within several minutes the public website should show the changes.
+
 ## Features
 
 - A simple landing page with blog functionality built with Netlify CMS

@@ -66,6 +66,8 @@ familysearch: >
   bridge to the future. We invite you to bring your ancestors to life and tell
   their stories on the Pioneer Children’s Memorial website. For more information
   on how to find them, follow the link below.
+submitname: >
+  We're always looking to add names and stories to the memorial. If you have information about a pioneer child that passed in the trek to Utah, we'd love to hear about it. Click the link below to submit a name and share your story. 
 gallery:
   - alt: Photo of the site
     image: /img/home-gallery-4.jpg

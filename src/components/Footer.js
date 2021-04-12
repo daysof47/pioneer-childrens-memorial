@@ -61,6 +61,20 @@ const Footer = class extends React.Component {
               </li>
             </ul>
           </div>
+          <div>
+            <ul className="footer-nav lg:flex lg:justify-center my-4 font-bold text-center tracking-wide">
+              <li className="my-2">
+                <a
+                  href="https://daysof47.formstack.com/forms/pioneer_children_story"
+                  target="_blank"
+                  className="font-bold text-green uppercase tracking-wider"
+                  rel="noopener noreferrer"
+                >
+                  Submit a Child's Name or Story
+                </a>
+              </li>
+            </ul>
+          </div>
           <div className="lg:flex lg:justify-center lg:items-center text-center">
             <a
               href="https://www.thisistheplace.org/"

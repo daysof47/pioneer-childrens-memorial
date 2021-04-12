@@ -12,6 +12,8 @@ intro:
   heading: A Plea for Your Help
   hugetext: Honor the Children
   subheading: The Children We Honor
+submitname: >
+  We're always looking to add names and stories to the memorial. If you have information about a pioneer child that passed in the trek to Utah, we'd love to hear about it. Click the link below to submit a name and share your story. 
 stones:
   - heading: Stone 1
     image: /img/stone-1.jpg
