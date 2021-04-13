@@ -215,24 +215,6 @@ export const IndexPageTemplate = ({ frontmatter }) => (
           </div>
           <div className="clearfix"></div>
         </section>
-        <section id="submitname" style={{ clear: "both" }}>
-          <div className="container bg-tan p-8 mt-12 py-24 lg:py-24 mb-12 relative">
-            <div className="max-w-2xl mx-auto text-center">
-              <h2 className="text-3xl lg:text-4xl mb-6">Submit a Child's Name</h2>
-              <p className="mb-4">{frontmatter.submitname}</p>
-              <p>
-                <a
-                  href="https://daysof47.formstack.com/forms/pioneer_children_story"
-                  target="_blank"
-                  className="font-bold text-green uppercase tracking-wider"
-                  rel="noopener noreferrer"
-                >
-                  Submit a Name →
-                </a>
-              </p>
-            </div>
-          </div>
-        </section>
       </BodyBackgroundSection>
     </ParallaxProvider>
   </div>
@@ -373,7 +355,6 @@ export const pageQuery = graphql`
           link
         }
         familysearch
-        submitname
         gallery {
           image {
             childImageSharp {

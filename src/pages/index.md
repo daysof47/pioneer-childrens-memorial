@@ -47,27 +47,19 @@ submitStoryCta:
     <p>There are many stories hiding in attics, old trunks and on computer
     drives waiting to be told. Search your own ancestry. Do you descend from
     ancestors who lost children along the trail? You can add their stories to
-    the website too.</p><p><em> Notice: Our submissions database is currently
-    being built. But we are anxious to receive your stories. You can subscribe
-    to our email newsletter and we will let you know when it is live, or you can
-    directly email your stories to <a
-    href='mailto:daysof47@gmail.com'>daysof47@gmail.com</a>. </p>
-
-
+    the website too.</p>
     <p><em>In addition to your story, please include such things as Birth Date,
     Family Search ID number, Parents' Names, etc. Anything that will aid in our
     verification process. Thank you for your stories.</em></p>
   heading: Have a fascinating story to tell?
   link: /
-  linkText: Subscribe
+  linkText: Share your Story
 familysearch: >
   Learning about your ancestors will help you better understand who you are. It
   will create a family bond linking the present to the past, and will build a
   bridge to the future. We invite you to bring your ancestors to life and tell
   their stories on the Pioneer Children’s Memorial website. For more information
   on how to find them, follow the link below.
-submitname: >
-  We're always looking to add names and stories to the memorial. If you have information about a pioneer child that passed in the trek to Utah, we'd love to hear about it. Click the link below to submit a name and share your story. 
 gallery:
   - alt: Photo of the site
     image: /img/home-gallery-4.jpg

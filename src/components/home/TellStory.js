@@ -43,7 +43,8 @@ const TellStory = ({ content }) => (
                     ></div>
                     <p className="text-center lg:text-left">
                       <a
-                        href="#subscribe"
+                        target="_blank"
+                        href="https://daysof47.formstack.com/forms/pioneer_children_story"
                         className="inline-block py-4 px-12 text-white bg-green uppercase tracking-widest text-sm"
                       >
                         {content.linkText}
