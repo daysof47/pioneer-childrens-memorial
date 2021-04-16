@@ -50,7 +50,7 @@ sections:
       cooked for dinner. That act and other miracles saved the lives of many
       that night and on the rest of the trek to Salt Lake.</p>
     heading: Ephraim Hanks Rescue
-    image: /img/ephraim.jpg
+    image: /img/hanks.jpg
     top: "37%"
     left: "44%"
     audio: /audio/ephraim-hanks.mp3
