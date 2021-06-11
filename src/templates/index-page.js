@@ -203,7 +203,7 @@ export const IndexPageTemplate = ({ frontmatter }) => (
               <p className="mb-4">{frontmatter.familysearch}</p>
               <p>
                 <a
-                  href="https://www.familysearch.org/en/"
+                  href="https://www.familysearch.org/campaign/pioneerchildrensmemorial/"
                   target="_blank"
                   className="font-bold text-green uppercase tracking-wider"
                   rel="noopener noreferrer"
