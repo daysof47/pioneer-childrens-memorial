@@ -13,1492 +13,1504 @@ intro:
   hugetext: Honor the Children
   subheading: The Children We Honor
 submitname: >
-  We're always looking to add names and stories to the memorial. If you have information about a pioneer child that passed in the trek to Utah, we'd love to hear about it. Click the link below to submit a name and share your story. 
+  We're always looking to add names and stories to the memorial. If you have
+  information about a pioneer child that passed in the trek to Utah, we'd love
+  to hear about it. Click the link below to submit a name and share your story. 
 stones:
   - heading: Stone 1
     image: /img/stone-1.jpg
     years: 1847-1850
     names:
-      - name: Mary Louisa Fordham
-        link: ""
-      - name: Jane Green
-        link: 6668/jane-green
-      - name: Joseph Nephi Green
-        link: 6669/joseph-nephi-green
-      - name: Caroline Mathilda Hardy
-        link: 6675/caroline-matilda-hardy
-      - name: Adelia Hart
-        link: 6319/adelia-hart
-      - name: Joel Judd
-        link: 39232/joel-judd
-      - name: Zenas Keyes
-        link: 5866/zenas-keyes
-      - name: Ruth Ann Kington
-        link: 38530/ruth-ann-kington
-      - name: Abigail Ann Lamoreaux
-        link: 43974/abigail-ann-lamoreaux
-      - name: Jacob Edward Lee
-        link: 5870/jacob-edward-lee
-      - name: Truman Milton Leonard
-        link: ""
-      - name: Levi Cyril Loveland
-        link: 6371/levi-cyril-loveland
-      - name: Peter Weston Maughan
-        link: 6391/peter-weston-maughan
-      - name: James Traves McClellan
-        link: 6935/james-travers-mc-clellan
-      - name: Llewellyn Emery Petty
-        link: 59782/llewellyn-emery-petty
-      - name: Charles Daniel Pierson
-        link: 6980/charles-daniel-pierson
-      - name: NN Price
-        link: 54082/child-price
-      - name: Catherine Elizabeth Radford
-        link: 14775249107419427257/catherine-elizabeth-radford
-      - name: Adelaide Sophia Redfield
-        link: 38531/adelaide-sophia-redfield
-      - name: Horace Bradley Rust
-        link: 7010/horace-bradley-rust
-      - name: Thomas Sargent
-        link: "5241"
-      - name: NN Smith
-        link: 7046/child-smith
-      - name: Rhoda Lucene Smith
-        link: 39885/rhoda-lucene-smith
-      - name: Horace Spafford
-        link: 6510/horace-spafford
-      - name: Minerva Spafford
-        link: 6514/minerva-spafford
-      - name: Moroni Spafford
-        link: 6511/moroni-spafford
-      - name: Rhoda Ann Spafford
-        link: 6516/rhoda-ann-spafford
-      - name: Lydia Priscilla Webb
-        link: 6581/lydia-priscilla-webb
-      - name: Phoebe Arabella Webb
-        link: 5929/phoebe-arabella-webb
-      - name: Elmira Charlotte Wilcox
-        link: 5932/elmira-charlotte-wilcox
-      - name: Lyman Van Wright
-        link: 5714/lyman-van-wright
-      - name: Ann Bennion
-        link: 1178/ann-bennion
-      - name: Robert Rierson Gardner
-        link: 1240/robert-rierson-gardner
-      - name: Margaret S. Grant
-        link: 1603/margaret-s-grant
-      - name: NN Holmes
-        link: 53690/child-holmes
-      - name: Elijah Horace Shockley
-        link: 38440/elijah-horace-shockley
-      - name: Milton Howard Threlkel
-        link: "43178"
-      - name: NN Williams
-        link: "40650"
-      - name: NN Williams
-        link: "40650"
-      - name: Lucretia Cox
-        link: 2815/lucretia-cox
-      - name: Joseph Gordon
-        link: 54955/joseph-gordon
-      - name: Oliver Bar Jacob
-        link: 2963/oliver-bar-jacob
-      - name: Mary Johnson
-        link: 2213/mary-johnson
-      - name: Sara Johnson
-        link: 2214/sarah-johnson
-      - name: Maria Kay
-        link: 2225/maria-kay
-      - name: Sidney C. Tanner
-        link: 3810/sidney-c-tanner
-      - name: William Howard Whitney
-        link: 3264/william-howard-whitney
-      - name: Winona Jane Bull
-        link: 3911/winona-jane-bull
-      - name: Joseph Orson Egbert
-        link: 3949/joseph-orson-egbert
-      - name: Ruth Farnham
-        link: 4973/ruth-farnham
-      - name: Samuel Jones
-        link: 4591/samuel-jones
-      - name: Sally Wilcox
-        link: 4336/sally-wilcox
-      - name: Phebe Ann Wilson
-        link: "39553"
-      - name: James Marion Young
-        link: 4892/james-marion-young
       - name: Fanny Ester Barnum
-        link: 6756/fanny-esther-barnum
+        link: https://history.churchofjesuschrist.org/chd/individual/fanny-esther-barnum-1849
       - name: John McBride Belnap
-        link: 6192/john-mc-bride-belnap
+        link: https://history.churchofjesuschrist.org/chd/individual/john-mcbride-belnap-1849
+      - name: Ann Bennion
+        link: https://history.churchofjesuschrist.org/chd/individual/ann-bennion-1845
       - name: Julia Ann Bird
-        link: 52309/julia-ann-bird
+        link: https://history.churchofjesuschrist.org/chd/individual/julia-ann-bird-1850
+      - name: Winona Jane Bull
+        link: https://history.churchofjesuschrist.org/chd/individual/winona-jane-bull-1849
       - name: Franklin Burns
-        link: 41607/franklin-burns
+        link: https://history.churchofjesuschrist.org/chd/individual/franklin-burns-1845
       - name: Eliza Rebecca Burton
-        link: ""
+        link: Removed from BioDB
       - name: Emma Burton
-        link: ""
+        link: Removed from BioDB
       - name: Emma Eliza Camp
-        link: 6133/emma-eliza-camp
+        link: https://history.churchofjesuschrist.org/chd/individual/emma-eliza-camp-1844
       - name: Heber Kimball Campbell
-        link: 6151/heber-kimball-campbell
+        link: https://history.churchofjesuschrist.org/chd/individual/heber-kimball-campbell-1845
       - name: Lorenzo Carter
-        link: 40156/lorenzo-carter
+        link: https://history.churchofjesuschrist.org/chd/individual/lorenzo-carter-1844
       - name: Sarah Altana Catlin
-        link: 6799/sarah-altana-catlin
+        link: https://history.churchofjesuschrist.org/chd/individual/sarah-altana-catlin-1846
+      - name: Lucretia Cox
+        link: https://history.churchofjesuschrist.org/chd/individual/lucretia-cox-1841
       - name: Rodolphus Cravath
-        link: 6266/rodolphus-cravath
+        link: https://history.churchofjesuschrist.org/chd/individual/rodolphus-cravath-1833
       - name: George William Dart
-        link: "6275"
+        link: https://history.churchofjesuschrist.org/chd/individual/george-william-dart-1842
       - name: Harriet Paulina Dart
-        link: 6276/harriet-paulina-dart
+        link: https://history.churchofjesuschrist.org/chd/individual/harriet-paulina-dart-1836
       - name: Celestia Ann Durfee
-        link: 5296/celestia-ann-durfee
+        link: https://history.churchofjesuschrist.org/chd/individual/celestia-ann-durfee-1847
+      - name: Joseph Orson Egbert
+        link: https://history.churchofjesuschrist.org/chd/individual/joseph-orson-egbert-1848
+      - name: Ruth Farnham
+        link: https://history.churchofjesuschrist.org/chd/individual/ruth-farnham-1849
       - name: Jonathan Ford
-        link: 5151/johnathan-ford
+        link: https://history.churchofjesuschrist.org/chd/individual/johnathan-ford-1847
+      - name: Mary Louisa Fordham
+        link: Not in BioDB
+      - name: Robert Rierson Gardner
+        link: https://history.churchofjesuschrist.org/chd/individual/robert-rierson-gardner-1841
+      - name: Joseph Gordon
+        link: https://history.churchofjesuschrist.org/chd/individual/joseph-gordon-1846
+      - name: Margaret S. Grant
+        link: https://history.churchofjesuschrist.org/chd/individual/margaret-s-grant-1847
+      - name: Jane Green
+        link: https://history.churchofjesuschrist.org/chd/individual/jane-green-1834
+      - name: Joseph Nephi Green
+        link: https://history.churchofjesuschrist.org/chd/individual/joseph-nephi-green-1849
+      - name: Caroline Mathilda Hardy
+        link: https://history.churchofjesuschrist.org/chd/individual/caroline-matilda-hardy-1848
+      - name: Adelia Hart
+        link: https://history.churchofjesuschrist.org/chd/individual/adelia-hart-1839
+      - name: NN Holmes
+        link: https://history.churchofjesuschrist.org/chd/individual/child-holmes
+      - name: Oliver Bar Jacob
+        link: https://history.churchofjesuschrist.org/chd/individual/oliver-bar-jacob-1834
+      - name: Mary Johnson
+        link: https://history.churchofjesuschrist.org/chd/individual/mary-johnson-1848
+      - name: Sara Johnson
+        link: https://history.churchofjesuschrist.org/chd/individual/sarah-johnson-1848
+      - name: Samuel Jones
+        link: https://history.churchofjesuschrist.org/chd/individual/samuel-jones-1849
+      - name: Joel Judd
+        link: https://history.churchofjesuschrist.org/chd/individual/joel-judd-1835
+      - name: Maria Kay
+        link: https://history.churchofjesuschrist.org/chd/individual/maria-kay-1839
+      - name: Zenas Keyes
+        link: https://history.churchofjesuschrist.org/chd/individual/zenas-keyes-1838
+      - name: Ruth Ann Kington
+        link: https://history.churchofjesuschrist.org/chd/individual/ruth-ann-kington-1844
+      - name: Abigail Ann Lamoreaux
+        link: https://history.churchofjesuschrist.org/chd/individual/abigail-ann-lamoreaux-1842
+      - name: Jacob Edward Lee
+        link: https://history.churchofjesuschrist.org/chd/individual/jacob-edward-lee-1848
+      - name: Truman Milton Leonard
+        link: Not in BioDB.
+      - name: Levi Cyril Loveland
+        link: https://history.churchofjesuschrist.org/chd/individual/levi-cyril-loveland-1846
+      - name: Peter Weston Maughan
+        link: https://history.churchofjesuschrist.org/chd/individual/peter-weston-maughan-1847
+      - name: James Traves McClellan
+        link: https://history.churchofjesuschrist.org/chd/individual/james-travers-mcclellan-1848
+      - name: Llewellyn Emery Petty
+        link: https://history.churchofjesuschrist.org/chd/individual/llewellyn-emery-petty-1850
+      - name: Charles Daniel Pierson
+        link: https://history.churchofjesuschrist.org/chd/individual/charles-daniel-pierson-1849
+      - name: NN Price
+        link: https://history.churchofjesuschrist.org/chd/individual/child-price-1848
+      - name: Catherine Elizabeth Radford
+        link: https://history.churchofjesuschrist.org/chd/individual/catherine-elizabeth-radford-1848
+      - name: Adelaide Sophia Redfield
+        link: https://history.churchofjesuschrist.org/chd/individual/adelaide-sophia-redfield-1843
+      - name: Horace Bradley Rust
+        link: https://history.churchofjesuschrist.org/chd/individual/horace-bradley-rust-1836
+      - name: Thomas Sargent
+        link: https://history.churchofjesuschrist.org/chd/individual/thomas-sargent-1837
+      - name: Elijah Horace Shockley
+        link: https://history.churchofjesuschrist.org/chd/individual/elijah-h-shockley-1846
+      - name: NN Smith
+        link: https://history.churchofjesuschrist.org/chd/individual/child-smith
+      - name: Rhoda Lucene Smith
+        link: https://history.churchofjesuschrist.org/chd/individual/rhoda-lucene-smith-1848
+      - name: Horace Spafford
+        link: https://history.churchofjesuschrist.org/chd/individual/horace-spafford-1847
+      - name: Minerva Spafford
+        link: https://history.churchofjesuschrist.org/chd/individual/minerva-spafford-1835
+      - name: Moroni Spafford
+        link: https://history.churchofjesuschrist.org/chd/individual/moroni-spafford-1849
+      - name: Rhoda Ann Spafford
+        link: https://history.churchofjesuschrist.org/chd/individual/rhoda-ann-spafford-1838
+      - name: Sidney C. Tanner
+        link: https://history.churchofjesuschrist.org/chd/individual/sidney-c-tanner-1842
+      - name: Milton Howard Threlkel
+        link: https://history.churchofjesuschrist.org/chd/individual/milton-howard-threlkel-1844
+      - name: Lydia Priscilla Webb
+        link: https://history.churchofjesuschrist.org/chd/individual/lydia-priscilla-webb-1847
+      - name: Phoebe Arabella Webb
+        link: https://history.churchofjesuschrist.org/chd/individual/phoebe-arabella-webb-1848
+      - name: William Howard Whitney
+        link: https://history.churchofjesuschrist.org/chd/individual/william-howard-whitney-1848
+      - name: Elmira Charlotte Wilcox
+        link: https://history.churchofjesuschrist.org/chd/individual/elmira-charlotte-wilcox-1848
+      - name: Sally Wilcox
+        link: https://history.churchofjesuschrist.org/chd/individual/sally-wilcox-1845
+      - name: NN Williams
+        link: https://history.churchofjesuschrist.org/chd/individual/infant-williams-1847
+      - name: NN Williams
+        link: https://history.churchofjesuschrist.org/chd/individual/infant-williams-1847
+      - name: Phebe Ann Wilson
+        link: https://history.churchofjesuschrist.org/chd/individual/phebe-ann-wilson
+      - name: Lyman Van Wright
+        link: https://history.churchofjesuschrist.org/chd/individual/lyman-van-wright-1850
+      - name: James Marion Young
+        link: https://history.churchofjesuschrist.org/chd/individual/james-marion-young-1846
   - heading: Stone 2
     image: /img/stone-2.jpg
     years: 1851-1852
     names:
-      - name: Amelia Lorinda Allred
-        link: 10440729704221423555/amelia-lorinda-allred
-      - name: Robert Platt Needham
-        link: 44892/robert-platt-needham
-      - name: Thomas A. Orton
-        link: "7636"
-      - name: George Gamaliel Vail
-        link: "54140"
-      - name: George Walton
-        link: "7457"
       - name: Martha Ann Elizabeth Adams
-        link: "8287"
+        link: https://history.churchofjesuschrist.org/chd/individual/martha-ann-elizabeth-adams-1850?
       - name: Jude Allen
-        link: 41120/jude-allen
+        link: https://history.churchofjesuschrist.org/chd/individual/jude-allen-jr-1851?
+      - name: Amelia Lorinda Allred
+        link: https://history.churchofjesuschrist.org/chd/individual/amelia-lorinda-allred-1851
       - name: Sarah Ann Andrews
-        link: 9253/sarah-ann-andrews
+        link: https://history.churchofjesuschrist.org/chd/individual/sarah-ann-andrews-1850
       - name: William Francis Beal
-        link: 41613/william-francis-beal
+        link: https://history.churchofjesuschrist.org/chd/individual/william-francis-beal-1850
       - name: Hosea Berian Boren
-        link: 41729/hosea-berian-boren
+        link: https://history.churchofjesuschrist.org/chd/individual/hosea-berian-boren-1839
       - name: Lucretia Jane Boren
-        link: 41727/lucretia-jane-boren
+        link: https://history.churchofjesuschrist.org/chd/individual/lucretia-jane-boren-1850
       - name: Isaac Busenbark
-        link: 8581/isaac-busenbark
+        link: https://history.churchofjesuschrist.org/chd/individual/isaac-busenbark-1851
       - name: Lucy Elizabeth Callaway
-        link: 9567/lucy-elizabeth-callaway
+        link: https://history.churchofjesuschrist.org/chd/individual/lucy-elizabeth-callaway-1851
       - name: Sarah Clark
-        link: 9140/sarah-clark
+        link: https://history.churchofjesuschrist.org/chd/individual/sarah-clark-1844
       - name: Elmira Zalotta Clinger
-        link: 11304/elmira-zallotta-clinger
+        link: https://history.churchofjesuschrist.org/chd/individual/elmira-zallotta-clinger-1851
       - name: Sarah Jane Colvin
-        link: 10928/sarah-jane-colvin
+        link: https://history.churchofjesuschrist.org/chd/individual/sarah-jane-colvin-1851
+      - name: Robert Platt Needham
+        link: https://history.churchofjesuschrist.org/chd/individual/robert-platt-needham-1851
+      - name: Thomas A. Orton
+        link: https://history.churchofjesuschrist.org/chd/individual/thomas-a-orton-1850
+      - name: George Gamaliel Vail
+        link: https://history.churchofjesuschrist.org/chd/individual/george-gamaliel-vail-1850
+      - name: George Walton
+        link: https://history.churchofjesuschrist.org/chd/individual/george-walton-1850
   - heading: Stone 3
     image: /img/stone-3.jpg
     years: 1852 cont
     names:
-      - name: NN Osborn
-        link: 40823/child-osborn
-      - name: Nancy Clark Pearce
-        link: 9668/nancy-clark-pearce
-      - name: Henry Peck
-        link: 59279/henry-peck
-      - name: Amelia Jane Pond
-        link: 8387/amelia-jane-pond
-      - name: Joseph Smith Presley
-        link: 42765/joseph-smith-presley
-      - name: Walter Read
-        link: 10832/walter-read
-      - name: William Moroni Reeves
-        link: 8232/william-moroni-reeves
-      - name: Violetta P. Robinson
-        link: 8399/violetta-p-robinson
-      - name: Eliza Smith
-        link: 8246/eliza-smith
-      - name: Mary Frances Smith
-        link: 11780/mary-frances-smith
-      - name: Charles Echo Stewart
-        link: 9699/charles-echo-stewart
-      - name: Martha Ann Vickers
-        link: 45102/martha-ann-vickers
-      - name: Mary Wheeler
-        link: "10104"
-      - name: Joseph D. Wilbur
-        link: 8439/joseph-d-wilbur
-      - name: Henry Wilde
-        link: 40440/henry-wilde
-      - name: Catherine Wilson
-        link: 8503/catherine-wilson
-      - name: Ann Wiltshire
-        link: "10874"
-      - name: Samuel Smith Young
-        link: 10896/samuel-smith-young
       - name: Thomas David
-        link: 11915/thomas-david
+        link: https://history.churchofjesuschrist.org/chd/individual/thomas-david-1838
       - name: Emma Dunn
-        link: 8122/emma-dunn
+        link: https://history.churchofjesuschrist.org/chd/individual/emma-dunn-1839
       - name: Sarah Ann Dunn
-        link: 30994025592669089320/sarah-ann-dunn
-      - name: Edmond Thomas
-        link: 38857/thomas-edmond
+        link: https://history.churchofjesuschrist.org/chd/individual/sarah-ann-dunn-1850
       - name: George Alma Gardner
-        link: 9296/george-alma-gardner
+        link: https://history.churchofjesuschrist.org/chd/individual/george-alma-gardner-1840
       - name: George Harrison Goddard
-        link: 44414/george-harrison-goddard
+        link: https://history.churchofjesuschrist.org/chd/individual/george-harrison-goddard-1840
       - name: Henry Goddard
-        link: 10727/henry-goddard
+        link: https://history.churchofjesuschrist.org/chd/individual/henry-goddard-1849
       - name: Eliza Melissa Hall
-        link: 8466/eliza-melissa-hall
+        link: https://history.churchofjesuschrist.org/chd/individual/eliza-melissa-hall-1852
       - name: Harriet Moriah Howell
-        link: 8618/harriet-moriah-howell
+        link: https://history.churchofjesuschrist.org/chd/individual/harriet-moriah-howell-1839
       - name: William Howell
-        link: 11933/william-howell
+        link: https://history.churchofjesuschrist.org/chd/individual/william-howell-1843
       - name: Alfred Hunt
-        link: 8478/alfred-hunt
+        link: https://history.churchofjesuschrist.org/chd/individual/alfred-hunt-1847
       - name: Huldah Jackson
-        link: 9625/huldah-jackson
+        link: https://history.churchofjesuschrist.org/chd/individual/huldah-jackson-1840
       - name: Emily Miranda Johnson
-        link: 40303/emily-miranda-johnson
+        link: https://history.churchofjesuschrist.org/chd/individual/emily-miranda-johnson-1849
       - name: Henry Charles Sylvester Kebbell
-        link: 10118367983001232463/henry-charles-sylvester-kebbell
+        link: https://history.churchofjesuschrist.org/chd/individual/henry-charles-sylvester-kebbell-1852
       - name: Mary Ann Lavender
-        link: 8178/mary-ann-lavender
+        link: https://history.churchofjesuschrist.org/chd/individual/mary-ann-lavender-1850
       - name: Sarah Louise Little
-        link: 8339/sarah-louise-little
+        link: https://history.churchofjesuschrist.org/chd/individual/sarah-louise-little-1852
       - name: NN Lund
-        link: 44717/infant-lund
+        link: https://history.churchofjesuschrist.org/chd/individual/-infant-lund-1852
       - name: Agnes Christina Malcolm
-        link: 42222/agnes-malcolm
+        link: https://history.churchofjesuschrist.org/chd/individual/agnes-malcolm-1846
       - name: Marinda Elizabeth Mangum
-        link: 41608/marinda-elizabeth-mangum
+        link: https://history.churchofjesuschrist.org/chd/individual/marinda-elizabeth-mangum-1850
       - name: Joseph Clements McMichael
-        link: ""
+        link: Not in BioDB
       - name: Jenett Morris
-        link: "11963"
+        link: https://history.churchofjesuschrist.org/chd/individual/jennett-morris-1849
       - name: Ann Jenett Odell
-        link: 34427452320701758780/ann-jenett-odell
+        link: https://history.churchofjesuschrist.org/chd/individual/ann-jenett-odell-1846
       - name: Elizabeth Jane Odell
-        link: 12396667653686870392/elizabeth-jane-odell
+        link: https://history.churchofjesuschrist.org/chd/individual/elizabeth-jane-odell-1840
+      - name: NN Osborn
+        link: https://history.churchofjesuschrist.org/chd/individual/child-osborn-1852
+      - name: Nancy Clark Pearce
+        link: https://history.churchofjesuschrist.org/chd/individual/nancy-clark-pearce-1842
+      - name: Henry Peck
+        link: https://history.churchofjesuschrist.org/chd/individual/henry-peck-1837
+      - name: Amelia Jane Pond
+        link: https://history.churchofjesuschrist.org/chd/individual/amelia-jane-ninde-1852
+      - name: Joseph Smith Presley
+        link: https://history.churchofjesuschrist.org/chd/individual/joseph-smith-presley-1839
+      - name: Walter Read
+        link: https://history.churchofjesuschrist.org/chd/individual/walter-read-1841
+      - name: William Moroni Reeves
+        link: https://history.churchofjesuschrist.org/chd/individual/william-moroni-reeves-1852
+      - name: Violetta P. Robinson
+        link: https://history.churchofjesuschrist.org/chd/individual/violetta-p-robinson-1850
+      - name: Eliza Smith
+        link: https://history.churchofjesuschrist.org/chd/individual/eliza-smith-1850
+      - name: Mary Frances Smith
+        link: https://history.churchofjesuschrist.org/chd/individual/mary-frances-smith-1842
+      - name: Charles Echo Stewart
+        link: https://history.churchofjesuschrist.org/chd/individual/charles-echo-stewart-1852
+      - name: Edmond Thomas
+        link: https://history.churchofjesuschrist.org/chd/individual/thomas-edmond-1843
+      - name: Martha Ann Vickers
+        link: https://history.churchofjesuschrist.org/chd/individual/martha-ann-vickers-1852
+      - name: Mary Wheeler
+        link: https://history.churchofjesuschrist.org/chd/individual/mary-bradley-1837
+      - name: Joseph D. Wilbur
+        link: https://history.churchofjesuschrist.org/chd/individual/joseph-d-wilbur-1851
+      - name: Henry Wilde
+        link: https://history.churchofjesuschrist.org/chd/individual/henry-wilde-1846
+      - name: Catherine Wilson
+        link: https://history.churchofjesuschrist.org/chd/individual/catherine-wilson-1849
+      - name: Ann Wiltshire
+        link: https://history.churchofjesuschrist.org/chd/individual/ann-wiltshire-1848
+      - name: Samuel Smith Young
+        link: https://history.churchofjesuschrist.org/chd/individual/samuel-smith-young-1844
   - heading: Stone 4
     image: /img/stone-4.jpg
     years: 1853-1854
     names:
-      - name: Eliza Burton
-        link: 39362/eliza-burton
-      - name: Emma Burton
-        link: "39357"
-      - name: Jane Burton
-        link: 39363/jane-burton
-      - name: Mary Butterworth
-        link: 15649/mary-butterworth
-      - name: George Carroll
-        link: 15291/george-carroll
-      - name: Jane Mary Du Fresne
-        link: 48074/jane-mary-du-fresne
-      - name: Richard Duffin
-        link: 39342/richard-duffin
-      - name: Roger Eatough
-        link: 39369/roger-eatough
-      - name: Emma Fechser
-        link: 39607/emma-fechser
-      - name: Georgina Fisher
-        link: 15481/georgina-fisher
-      - name: Sarah "Sally" Ford
-        link: "15360"
-      - name: NN Gardiner
-        link: 62412366622573229820/infant-gardiner
-      - name: Mette Maria Jensen
-        link: 15148/mette-maria-jensen
-      - name: Francis Laidlaw
-        link: 14958/francis-laidlaw
-      - name: Israelus McMaster
-        link: 14961/israelus-mc-master
-      - name: Louisa Shelton Obray
-        link: 15315/louisa-obray
-      - name: Margaret Pinney
-        link: 50792/margaret-pinney
-      - name: Mary Proctor
-        link: 57011/mary-proctor
-      - name: Hannah Louisa Richins
-        link: 39354/hannah-louisa-richins
-      - name: Ann Sharples
-        link: "51954"
-      - name: Charles Edwin Shelton
-        link: 15324/charles-edwin-shelton
-      - name: Evelina Shelton
-        link: 15327/evelina-shelton
-      - name: William S. Shelton
-        link: 15333/william-slauson-shelton
-      - name: Anna Elisa Snowball
-        link: 15048/anne-elisa-snowball
-      - name: Mary Ann Thornock
-        link: "15380340013995286270"
-      - name: William Thornock
-        link: 50438/william-thornock
-      - name: Clara Malinda Tuttle
-        link: 15717/clara-malinda-tuttle
       - name: Ellen Perryman Barnes
-        link: 12529/ellen-perryman-barnes
+        link: https://history.churchofjesuschrist.org/chd/individual/ellen-perryman-barnes-1846
       - name: Frances Hannah Bickington
-        link: 51113/frances-hannah-bickington
+        link: https://history.churchofjesuschrist.org/chd/individual/frances-hannah-bickington-1846
+      - name: Eliza Burton
+        link: https://history.churchofjesuschrist.org/chd/individual/eliza-burton-1837
+      - name: Emma Burton
+        link: https://history.churchofjesuschrist.org/chd/individual/emma-burton-1843
+      - name: Jane Burton
+        link: https://history.churchofjesuschrist.org/chd/individual/jane-burton-1840
+      - name: Mary Butterworth
+        link: https://history.churchofjesuschrist.org/chd/individual/mary-butterworth-1854
+      - name: George Carroll
+        link: https://history.churchofjesuschrist.org/chd/individual/george-carroll-1849
       - name: Elvira Ann Cole
-        link: 12593/elvira-ann-cole
+        link: https://history.churchofjesuschrist.org/chd/individual/elvira-ann-cole-1853
       - name: Samuel William Cooley
-        link: 13047/samuel-william-cooley
+        link: https://history.churchofjesuschrist.org/chd/individual/samuel-william-cooley-1852
       - name: John Calder Crabb
-        link: 14564/john-calder-crabb
+        link: https://history.churchofjesuschrist.org/chd/individual/john-calder-crabb-1845
       - name: William Davies
-        link: 13497/william-davies
+        link: https://history.churchofjesuschrist.org/chd/individual/william-davies-1851
+      - name: Jane Mary Du Fresne
+        link: https://history.churchofjesuschrist.org/chd/individual/jane-mary-du-fresne-1845
+      - name: Richard Duffin
+        link: https://history.churchofjesuschrist.org/chd/individual/richard-duffin-1849
       - name: Julia Duncan
-        link: 13314/julia-duncan
+        link: https://history.churchofjesuschrist.org/chd/individual/julia-duncan-1853
+      - name: Roger Eatough
+        link: https://history.churchofjesuschrist.org/chd/individual/roger-eatough-1838
       - name: Henry William Joseph Evans
-        link: 12075/henry-william-joseph-evans
+        link: https://history.churchofjesuschrist.org/chd/individual/henry-william-joseph-evans-1836
+      - name: Emma Fechser
+        link: https://history.churchofjesuschrist.org/chd/individual/emma-fechser-1853
+      - name: Georgina Fisher
+        link: https://history.churchofjesuschrist.org/chd/individual/georgina-fisher-1846
+      - name: Sarah "Sally" Ford
+        link: https://history.churchofjesuschrist.org/chd/individual/sarah-sally-ford-1846
+      - name: NN Gardiner
+        link: https://history.churchofjesuschrist.org/chd/individual/infant-gardiner-1854
       - name: Catherine McFarlane Gibson
-        link: 14573/catherine-mc-farlane-gibson
+        link: https://history.churchofjesuschrist.org/chd/individual/catherine-mcfarlane-gibson-1851
       - name: Louis Handley
-        link: 79206936486055101930/louis-handley
+        link: https://history.churchofjesuschrist.org/chd/individual/louis-handley-1853
       - name: Rachael Imlay
-        link: 56009/racheal-imlay
+        link: https://history.churchofjesuschrist.org/chd/individual/rachel-imlay-1851
+      - name: Mette Maria Jensen
+        link: https://history.churchofjesuschrist.org/chd/individual/mette-maria-jensen-1838
+      - name: Francis Laidlaw
+        link: https://history.churchofjesuschrist.org/chd/individual/francis-laidlaw-1854
       - name: Anne Larsen
-        link: "13962"
+        link: https://history.churchofjesuschrist.org/chd/individual/anne-larsen-1843
       - name: Phoebe Louisa Mason
-        link: 12142/phoebe-louisa-mason
+        link: https://history.churchofjesuschrist.org/chd/individual/phoebe-louisa-mason-1853
       - name: Emma Matthews
-        link: 12791/emma-matthews
+        link: https://history.churchofjesuschrist.org/chd/individual/emma-matthews-1851
       - name: Sarah Ann Matthews
-        link: "34756"
+        link: https://history.churchofjesuschrist.org/chd/individual/sarah-ann-matthews-1843
+      - name: Israelus McMaster
+        link: https://history.churchofjesuschrist.org/chd/individual/israelus-mcmaster-1852
       - name: Sarah Elizabeth Nalder
-        link: 14313/sarah-elizabeth-nalder
+        link: https://history.churchofjesuschrist.org/chd/individual/sarah-elizabeth-nalder-1852
+      - name: Louisa Shelton Obray
+        link: https://history.churchofjesuschrist.org/chd/individual/louisa-shelton-1837
       - name: John Thomas Openshaw
-        link: 12825/john-thomas-openshaw
+        link: https://history.churchofjesuschrist.org/chd/individual/john-thomas-openshaw-1848
       - name: Rowena Allen Piggott
-        link: 12839/rowena-allen-piggott
+        link: https://history.churchofjesuschrist.org/chd/individual/rowena-allen-piggott-1848
+      - name: Margaret Pinney
+        link: https://history.churchofjesuschrist.org/chd/individual/margaret-pinney-1850
+      - name: Mary Proctor
+        link: https://history.churchofjesuschrist.org/chd/individual/mary-proctor-1852
+      - name: Hannah Louisa Richins
+        link: https://history.churchofjesuschrist.org/chd/individual/hannah-louisa-richins-1852
+      - name: Ann Sharples
+        link: https://history.churchofjesuschrist.org/chd/individual/ann-sharples-1853
+      - name: Charles Edwin Shelton
+        link: https://history.churchofjesuschrist.org/chd/individual/charles-edwin-shelton-1848
+      - name: Evelina Shelton
+        link: https://history.churchofjesuschrist.org/chd/individual/evelina-shelton-1847
+      - name: William S. Shelton
+        link: https://history.churchofjesuschrist.org/chd/individual/william-slauson-shelton-1852
+      - name: Anna Elisa Snowball
+        link: https://history.churchofjesuschrist.org/chd/individual/anne-elisa-snowball-1837
       - name: Richard Fell Squires
-        link: 13654/richard-fell-squires
+        link: https://history.churchofjesuschrist.org/chd/individual/richard-fell-squires-1848
       - name: Mary Agnes Thirkell
-        link: 13670/mary-agnes-thirkell
+        link: https://history.churchofjesuschrist.org/chd/individual/mary-agnes-thirkell-1847
       - name: Rebecca Thirkell
-        link: 13671/rebecca-thirkell
+        link: https://history.churchofjesuschrist.org/chd/individual/rebecca-thirkell-1852
+      - name: Mary Ann Thornock
+        link: https://history.churchofjesuschrist.org/chd/individual/mary-ann-thornock-1850
+      - name: William Thornock
+        link: https://history.churchofjesuschrist.org/chd/individual/william-thornock-1846
+      - name: Clara Malinda Tuttle
+        link: https://history.churchofjesuschrist.org/chd/individual/clara-malinda-tuttle-1849
   - heading: Stone 5
     image: /img/stone-5.jpg
     years: "1855"
     names:
-      - name: Emma Sharlotte Middlemass
-        link: 17804/emma-charlotte-middlemass
-      - name: William Mark Middlemass
-        link: 17805/william-mark-middlemass
-      - name: Thomas Morgan
-        link: 16348/thomas-morgan
-      - name: Sarah Platte Neel
-        link: 16605/sarah-platte-neel
-      - name: Birgethe Ottesen
-        link: 16379/birgethe-ottesen
-      - name: Francis Helen Phillips
-        link: 17808/francis-helen-phillips
-      - name: Hugh Gordon Phillips
-        link: 17809/hugh-gordon-phillips
-      - name: Morten Poulsen
-        link: 16413/morten-poulsen
-      - name: Walter Simmons
-        link: 17617/walter-simmons
-      - name: NN Stevenson
-        link: "40285"
-      - name: Mary Ann Vest
-        link: ""
-      - name: Stephen Walsh
-        link: "16492"
-      - name: Charles Henry Wilkins
-        link: 42643/charles-henry-wilkins
-      - name: James Cyrus Worlton
-        link: 17710/james-cyrus-worlton
       - name: Cyrenius Bagley
-        link: 17726/cyrenius-bagley
+        link: https://history.churchofjesuschrist.org/chd/individual/cyrenius-bagley-1843
       - name: Mary Birch
-        link: 17336/mary-birch
+        link: https://history.churchofjesuschrist.org/chd/individual/mary-birch-1854
       - name: Joseph Bush
-        link: "17355"
+        link: https://history.churchofjesuschrist.org/chd/individual/joseph-bush-1853
       - name: Mette Marie Christensen
-        link: 16174/mette-marie-christensen
+        link: https://history.churchofjesuschrist.org/chd/individual/mette-marie-christensen-1853
       - name: Alice Cockle
-        link: 16777/alice-cockle
+        link: https://history.churchofjesuschrist.org/chd/individual/alice-cockle-1837
       - name: Mary East
-        link: 44018/mary-east
+        link: https://history.churchofjesuschrist.org/chd/individual/mary-east-1850
       - name: Nancy East
-        link: 17742/nancy-east
+        link: https://history.churchofjesuschrist.org/chd/individual/nancy-east-1848
       - name: William H. East
-        link: 17744/william-h-east
+        link: https://history.churchofjesuschrist.org/chd/individual/william-h-east-1842
       - name: Burke Faulkner
-        link: 16213/burke-faulkner
+        link: https://history.churchofjesuschrist.org/chd/individual/burke-faulkner-1851
       - name: John Faulkner
-        link: 16210/john-faulkner
+        link: https://history.churchofjesuschrist.org/chd/individual/john-faulkner-1853
       - name: Stephen Faulkner
-        link: 16215/stephen-faulkner
+        link: https://history.churchofjesuschrist.org/chd/individual/stephen-faulkner-1841
       - name: Orrin Foster
-        link: 16824/orrin-foster
+        link: https://history.churchofjesuschrist.org/chd/individual/orrin-foster-1854
       - name: Sarah Elizabeth Graves
-        link: 15816/elizabeth-sarah-graves
+        link: https://history.churchofjesuschrist.org/chd/individual/elizabeth-sarah-graves-1843
       - name: Ira Abner Greer
-        link: 17756/ira-abner-greer
+        link: https://history.churchofjesuschrist.org/chd/individual/ira-abner-greer-1840
       - name: John Irvine Greer
-        link: "17757"
+        link: https://history.churchofjesuschrist.org/chd/individual/john-irvine-greer-1844
       - name: Joseph Hutchison
-        link: 17467/joseph-hutchison
+        link: https://history.churchofjesuschrist.org/chd/individual/joseph-hutchison-1855
       - name: Lorenzo Irvine
-        link: 16878/lorenzo-irvine
+        link: https://history.churchofjesuschrist.org/chd/individual/lorenzo-irvine-1852
       - name: James Jones
-        link: 17782/james-b-jones
+        link: https://history.churchofjesuschrist.org/chd/individual/james-b-jones
       - name: Margaret C. Jones
-        link: 17786/margaret-c-jones
+        link: https://history.churchofjesuschrist.org/chd/individual/margaret-c-jones-1841
       - name: Mary A. Jones
-        link: 17783/mary-a-jones
+        link: https://history.churchofjesuschrist.org/chd/individual/mary-a-jones-1843
       - name: Sarah Jones
-        link: 17788/sarah-jones
+        link: https://history.churchofjesuschrist.org/chd/individual/sarah-jones-1847
       - name: Eliza Ann Jost
-        link: 17790/eliza-ann-jost
+        link: https://history.churchofjesuschrist.org/chd/individual/eliza-ann-jost-1837
       - name: Alfred Heber Kilbourn
-        link: 51262/alfred-heber-kilbourn
+        link: https://history.churchofjesuschrist.org/chd/individual/alfred-heber-kilbourn-1854
       - name: Jacob Peter Kjar
-        link: 16306/jacob-peter-kjar
+        link: https://history.churchofjesuschrist.org/chd/individual/jacob-peter-kjar-1853
       - name: Elizabeth Langford
-        link: "17791"
+        link: https://history.churchofjesuschrist.org/chd/individual/elizabeth-langford-1846
       - name: Alice Mather
-        link: 16335/alice-mather
+        link: https://history.churchofjesuschrist.org/chd/individual/alice-mather-1842
       - name: Edward Robert Middlemas
-        link: 39976/edward-robert-middlemass
+        link: https://history.churchofjesuschrist.org/chd/individual/edward-robert-middlemass-1848
+      - name: Emma Sharlotte Middlemass
+        link: https://history.churchofjesuschrist.org/chd/individual/emma-charlotte-middlemass-1845
+      - name: William Mark Middlemass
+        link: https://history.churchofjesuschrist.org/chd/individual/william-mark-middlemass-1849
+      - name: Thomas Morgan
+        link: https://history.churchofjesuschrist.org/chd/individual/thomas-morgan-1843
+      - name: Sarah Platte Neel
+        link: https://history.churchofjesuschrist.org/chd/individual/sarah-platte-neel-1855
+      - name: Birgethe Ottesen
+        link: https://history.churchofjesuschrist.org/chd/individual/birgethe-ottesen-1837
+      - name: Francis Helen Phillips
+        link: https://history.churchofjesuschrist.org/chd/individual/francis-helen-phillips-1847
+      - name: Hugh Gordon Phillips
+        link: https://history.churchofjesuschrist.org/chd/individual/hugh-gordon-phillips-1850
+      - name: Morten Poulsen
+        link: https://history.churchofjesuschrist.org/chd/individual/morten-poulsen-1854
+      - name: Walter Simmons
+        link: https://history.churchofjesuschrist.org/chd/individual/walter-simmons-1855
+      - name: NN Stevenson
+        link: https://history.churchofjesuschrist.org/chd/individual/joseph-stevenson-1855
+      - name: Mary Ann Vest
+        link: Not in the BioDB
+      - name: Stephen Walsh
+        link: https://history.churchofjesuschrist.org/chd/individual/stephen-walsh-1837
+      - name: Charles Henry Wilkins
+        link: https://history.churchofjesuschrist.org/chd/individual/charles-henry-wilkins-1854
+      - name: James Cyrus Worlton
+        link: https://history.churchofjesuschrist.org/chd/individual/james-cyrus-worlton-1855
   - heading: Stone 6
     image: /img/stone-6.jpg
     years: "1856"
     names:
-      - name: James Goble
-        link: 38219/james-goble
-      - name: Margaret Glass Gourley
-        link: 19024/margaret-glass-gourley
-      - name: Herbert Lorenzo Griffiths
-        link: 19037/herbert-lorenzo-griffiths
-      - name: John Griffiths
-        link: 19039/john-jr-griffiths
-      - name: Rasmus Peter Hansen
-        link: 19588/rasmus-peter-hansen
-      - name: Ephraim Hartle
-        link: 39076/ephraim-hartle
-      - name: Samuel Hartle
-        link: 39074/samuel-hartle
-      - name: James Hawkey
-        link: 19069/james-hawkey
-      - name: William McDonald Heaton
-        link: 18210/william-mc-donald-heaton
-      - name: Selena Hurren
-        link: 39093/selena-hurren
-      - name: Flora Loader Jaques
-        link: 19114/flora-loader-jaques
-      - name: Maren Sophia Jorgensen
-        link: 19650/maren-sophia-jorgensen
-      - name: William Keetch
-        link: 59989/william-keetch
-      - name: Peter Kirkman
-        link: 39063/peter-kirkman
-      - name: Alexander Kirkpatrick
-        link: 39170/alexander-kirkpatrick
-      - name: James Kirkwood
-        link: 39174/james-kirkwood
-      - name: Hanna Sophie Larsen
-        link: 19669/hanna-sophie-larsen
-      - name: Joseph Larsen
-        link: 17232220069879198125/joseph-larsen
-      - name: Lars Julius Larsen
-        link: 39177/lars-julius-larsen
-      - name: William N. Leason
-        link: 39184/william-n-leason
-      - name: William Lee
-        link: "18496"
-      - name: William Morgan Miles
-        link: 39914/william-morgan-miles
-      - name: Bodil Mortensen
-        link: 39189/bodil-maline-mortensen
-      - name: Hannah Newman
-        link: 38297/hannah-newman
-      - name: Niels Nielsen
-        link: 19723/niels-nielsen
       - name: Anders Nielson Andersen
-        link: 38648/anders-nielson-andersen
+        link: https://history.churchofjesuschrist.org/chd/individual/anders-nielson-andersen-1847
       - name: Betsy Ashton
-        link: 18878/betsy-ashton
+        link: https://history.churchofjesuschrist.org/chd/individual/betsy-ashton-1844
       - name: Sarah Ann Ashton
-        link: 41257/sarah-ann-ashton
+        link: https://history.churchofjesuschrist.org/chd/individual/sarah-ann-ashton-1856
       - name: David Brigham Major Blair
-        link: 18924/david-brigham-major-blair
+        link: https://history.churchofjesuschrist.org/chd/individual/david-brigham-major-blair-1855
       - name: Mary Hannah Briggs
-        link: 39134/mary-hannah-briggs
+        link: https://history.churchofjesuschrist.org/chd/individual/mary-hannah-briggs-1849
       - name: Thomas Briggs
-        link: 39132/thomas-briggs
+        link: https://history.churchofjesuschrist.org/chd/individual/thomas-briggs-1843
       - name: Lorenzo Daw Burton
-        link: 20149/lorenzo-daw-burton
+        link: https://history.churchofjesuschrist.org/chd/individual/lorenzo-daw-burton-1844
       - name: Polly Caroline Card
-        link: 18406/polly-caroline-card
+        link: https://history.churchofjesuschrist.org/chd/individual/polly-caroline-card-1841
       - name: William Douglass
-        link: 19001/william-douglass
+        link: https://history.churchofjesuschrist.org/chd/individual/william-douglass-1840
       - name: Susannna Elliker
-        link: 18155/susanna-elliker
+        link: https://history.churchofjesuschrist.org/chd/individual/susanna-elliker-1841
       - name: William Empey
-        link: 19615/william-empey
+        link: https://history.churchofjesuschrist.org/chd/individual/william-empey-1846
       - name: Daniel Chapman Gadd
-        link: 19550/daniel-chapman-gadd
+        link: https://history.churchofjesuschrist.org/chd/individual/daniel-chapman-gadd-1854
       - name: Elizabeth Giles
-        link: 18695/elizabeth-giles
+        link: https://history.churchofjesuschrist.org/chd/individual/elizabeth-giles-1856
       - name: Edith Goble
-        link: 38313/edith-goble
+        link: https://history.churchofjesuschrist.org/chd/individual/edith-goble-1856
+      - name: James Goble
+        link: https://history.churchofjesuschrist.org/chd/individual/james-goble-1852
+      - name: Margaret Glass Gourley
+        link: https://history.churchofjesuschrist.org/chd/individual/margaret-glass-gourley-1856
+      - name: Herbert Lorenzo Griffiths
+        link: https://history.churchofjesuschrist.org/chd/individual/herbert-lorenzo-griffiths-1851
+      - name: John Griffiths
+        link: https://history.churchofjesuschrist.org/chd/individual/john-griffiths-jr-1845
+      - name: Rasmus Peter Hansen
+        link: https://history.churchofjesuschrist.org/chd/individual/rasmus-peter-hansen-1839
+      - name: Ephraim Hartle
+        link: https://history.churchofjesuschrist.org/chd/individual/ephraim-hartle-1856
+      - name: Samuel Hartle
+        link: https://history.churchofjesuschrist.org/chd/individual/samuel-hartle-1850
+      - name: James Hawkey
+        link: https://history.churchofjesuschrist.org/chd/individual/james-hawkey-1841
+      - name: William McDonald Heaton
+        link: https://history.churchofjesuschrist.org/chd/individual/william-mcdonald-heaton-1855
+      - name: Selena Hurren
+        link: https://history.churchofjesuschrist.org/chd/individual/selena-hurren-1856
+      - name: Flora Loader Jaques
+        link: https://history.churchofjesuschrist.org/chd/individual/flora-loader-jaques-1854
+      - name: Maren Sophia Jorgensen
+        link: https://history.churchofjesuschrist.org/chd/individual/maren-sophia-jorgensen-1847
+      - name: William Keetch
+        link: https://history.churchofjesuschrist.org/chd/individual/william-keetch-1848
+      - name: Peter Kirkman
+        link: https://history.churchofjesuschrist.org/chd/individual/peter-kirkman-1856
+      - name: Alexander Kirkpatrick
+        link: https://history.churchofjesuschrist.org/chd/individual/alexander-kirkpatrick-1850
+      - name: James Kirkwood
+        link: https://history.churchofjesuschrist.org/chd/individual/james-kirkwood-1845
+      - name: Hanna Sophie Larsen
+        link: https://history.churchofjesuschrist.org/chd/individual/hanna-sophie-larsen-1845
+      - name: Joseph Larsen
+        link: https://history.churchofjesuschrist.org/chd/individual/joseph-larsen-1856
+      - name: Lars Julius Larsen
+        link: https://history.churchofjesuschrist.org/chd/individual/lars-julius-larsen-1856
+      - name: William N. Leason
+        link: https://history.churchofjesuschrist.org/chd/individual/william-n-leason-1854
+      - name: William Lee
+        link: https://history.churchofjesuschrist.org/chd/individual/william-lee-1844
+      - name: William Morgan Miles
+        link: https://history.churchofjesuschrist.org/chd/individual/william-morgan-miles-1840
+      - name: Bodil Mortensen
+        link: https://history.churchofjesuschrist.org/chd/individual/bodil-maline-mortensen-1846
+      - name: Hannah Newman
+        link: https://history.churchofjesuschrist.org/chd/individual/hannah-newman-1856
+      - name: Niels Nielsen
+        link: https://history.churchofjesuschrist.org/chd/individual/niels-nielsen-1850
   - heading: Stone 7
     image: /img/stone-7.jpg
     years: 1856 cont
     names:
-      - name: NN Normington
-        link: 43376303720990550570/infant-normington
       - name: Daniel Normington
-        link: 19204/daniel-normington
+        link: https://history.churchofjesuschrist.org/chd/individual/daniel-normington-1854
       - name: Ephraim Normington
-        link: 19209/ephraim-robert-normington
+        link: https://history.churchofjesuschrist.org/chd/individual/ephraim-robert-normington-1851
+      - name: NN Normington
+        link: https://history.churchofjesuschrist.org/chd/individual/infant-normington-1856
       - name: Rhoda Rebecca Oakey
-        link: 19734/rhoda-rebecca-oakey
+        link: https://history.churchofjesuschrist.org/chd/individual/rhoda-rebecca-oakey-1845
       - name: Daniel Osborne
-        link: 19747/daniel-osborne
+        link: https://history.churchofjesuschrist.org/chd/individual/daniel-osborne-1848
       - name: Esther Parkinson
-        link: 19237/esther-parkinson
+        link: https://history.churchofjesuschrist.org/chd/individual/esther-parkinson-1854
       - name: Joseph Parkinson
-        link: 19241/joseph-parkinson
+        link: https://history.churchofjesuschrist.org/chd/individual/joseph-parkinson-1840
       - name: Marinda Nancy Pay
-        link: 38351/marinda-nancy-pay
+        link: https://history.churchofjesuschrist.org/chd/individual/marinda-nancy-pay-1856
       - name: Loran Isabella Preator
-        link: 18550/loran-isabella-preator
+        link: https://history.churchofjesuschrist.org/chd/individual/loran-isabella-preator-1854
       - name: Elizabeth Edwards Price
-        link: 38295/elizabeth-edwards-price
+        link: https://history.churchofjesuschrist.org/chd/individual/elizabeth-edwards-price-1856
       - name: Joseph Smith Ramsay
-        link: 18297/joseph-smith-ramsay
+        link: https://history.churchofjesuschrist.org/chd/individual/john-smith-ramsay-1854
       - name: Caroline Reeder
-        link: 19785/caroline-reeder
+        link: https://history.churchofjesuschrist.org/chd/individual/caroline-reeder-1839
       - name: NN Richardson
-        link: 59225/child-richardson
+        link: https://history.churchofjesuschrist.org/chd/individual/infant-richardson-1856
       - name: Jean Michel Rochon
-        link: 18573/jean-michel-rochon
+        link: https://history.churchofjesuschrist.org/chd/individual/jean-michel-rochon-1855
       - name: Emma Sheen
-        link: 18584/emma-sheen
+        link: https://history.churchofjesuschrist.org/chd/individual/emma-sheen-1854
       - name: Sidney Sheen
-        link: 18592/sidney-sheen
+        link: https://history.churchofjesuschrist.org/chd/individual/sidney-sheen-1856
       - name: Elizabeth Stewart
-        link: 20690/elizabeth-stewart
+        link: https://history.churchofjesuschrist.org/chd/individual/elizabeth-stewart-1856
       - name: NN Stimpson
-        link: 42352/child-stimpson
+        link: https://history.churchofjesuschrist.org/chd/individual/child-stimpson-1856
       - name: William B. Stimpson
-        link: 39086/william-b-stimpson
+        link: https://history.churchofjesuschrist.org/chd/individual/william-b-stimpson-1854
       - name: James Phillip Taylor
-        link: "17847"
+        link: Not in BioDB
       - name: John Turner
-        link: 38184/john-turner
+        link: https://history.churchofjesuschrist.org/chd/individual/john-turner-1844
       - name: Sophia Turner
-        link: 38180/sophia-turner
+        link: https://history.churchofjesuschrist.org/chd/individual/sophia-turner-1842
       - name: Brigham Twelves
-        link: 19356/brigham-twelves
+        link: https://history.churchofjesuschrist.org/chd/individual/brigham-twelves-1853
       - name: Charles Samuel Twelves
-        link: 19358/charles-samuel-twelves
+        link: https://history.churchofjesuschrist.org/chd/individual/charles-samuel-twelves-1842
       - name: Mary Jane Twelves
-        link: 39108/mary-jane-twelves
+        link: https://history.churchofjesuschrist.org/chd/individual/mary-jane-twelves-1856
       - name: Robert Walsh
-        link: "19368"
+        link: https://history.churchofjesuschrist.org/chd/individual/robert-walsh-1851
       - name: Jane Walters
-        link: 38321/jane-walters
+        link: https://history.churchofjesuschrist.org/chd/individual/jane-walters-1856
       - name: Job Welling
-        link: 18636/job-welling
+        link: https://history.churchofjesuschrist.org/chd/individual/job-welling-1855
       - name: NN Wilson
-        link: 52067094303770701060/baby-wilson
+        link: https://history.churchofjesuschrist.org/chd/individual/baby-wilson-1856
       - name: Henry H. Wiseman
-        link: 38317/henry-h-wiseman
+        link: https://history.churchofjesuschrist.org/chd/individual/henry-h-wiseman-1854
       - name: John Joseph Wiseman
-        link: 38204/john-joseph-wiseman
+        link: https://history.churchofjesuschrist.org/chd/individual/john-joseph-wiseman-1851
   - heading: Stone 8
     image: /img/stone-8.jpg
     years: "1857"
     names:
       - name: John Banford
-        link: 20960/john-banford
+        link: https://history.churchofjesuschrist.org/chd/individual/john-banford-1852
       - name: Richard George Banford
-        link: 20963/richard-banford
+        link: https://history.churchofjesuschrist.org/chd/individual/richard-banford-1853
       - name: Johannes Peter Bertelsen
-        link: 58134/johannes-peter-bertelsen
+        link: https://history.churchofjesuschrist.org/chd/individual/johannes-peter-bertelsen-1842
       - name: Marion Billings
-        link: 46449/marion-billings
+        link: https://history.churchofjesuschrist.org/chd/individual/marion-billings-1857
       - name: Andrea Christensen
-        link: 20716/andrea-christensen
+        link: https://history.churchofjesuschrist.org/chd/individual/andrea-christensen-1855
       - name: William Henry Harrison Coldiron
-        link: 47241/william-henry-harrison-coldiron
+        link: https://history.churchofjesuschrist.org/chd/individual/william-henry-harrison-coldiron-1851
       - name: Josephine Patrine Garff
-        link: 20746/josephine-patrine-garff
+        link: https://history.churchofjesuschrist.org/chd/individual/josephine-patrine-garff-1855
       - name: Platine Plattina Gottfredson
-        link: 41819/platine-plattina-gottfredson
+        link: https://history.churchofjesuschrist.org/chd/individual/platine-plattina-gottfredson-1857
       - name: Emmaretta Eliza Green
-        link: 57222/emmaretta-eliza-green
+        link: https://history.churchofjesuschrist.org/chd/individual/emmaretta-eliza-green-1855
       - name: Hans Jensen
-        link: 39508713509291493720/hans-jensen
+        link: https://history.churchofjesuschrist.org/chd/individual/hans-jensen-1848
       - name: Maria Sophia Jensen
-        link: 20785/sophie-maren-jensen
+        link: https://history.churchofjesuschrist.org/chd/individual/sophie-maren-jensen-1856
       - name: Joseph Petersen Just
-        link: "41960"
+        link: https://history.churchofjesuschrist.org/chd/individual/joseph-pedersen-just-1854
       - name: Franklin Madsen
-        link: 49707/franklin-madsen
+        link: https://history.churchofjesuschrist.org/chd/individual/franklin-madsen-1856
       - name: NN Muller
-        link: 20850/child-muller
+        link: https://history.churchofjesuschrist.org/chd/individual/child-muller-1857
       - name: Mariah Louise Nebeker
-        link: 46454/mariah-louise-nebeker
+        link: https://history.churchofjesuschrist.org/chd/individual/mariah-louise-nebeker-1856
       - name: Ramina Matilda Rasmussen
-        link: 15014697117416062550/rasmina-matilda-rasmussen
+        link: https://history.churchofjesuschrist.org/chd/individual/rasmina-matilda-rasmussen-1845
       - name: Rasmus Rasmussen
-        link: 41962/rasmus-rasmussen
+        link: https://history.churchofjesuschrist.org/chd/individual/rasmus-rasmussen-1848
       - name: Tunis Harriet Rich
-        link: 44305/tunis-harriet-rich
+        link: https://history.churchofjesuschrist.org/chd/individual/tunis-harriet-rich-1855
       - name: NN Rollins
-        link: 82348515494092792130/baby-rollins
+        link: https://history.churchofjesuschrist.org/chd/individual/baby-rollins-1857
       - name: Iowa Sorensen
-        link: 42531/iowa-sorenson
+        link: https://history.churchofjesuschrist.org/chd/individual/iowa-sorensen-1857
   - heading: Stone 9
     image: /img/stone-9.jpg
     years: 1859-1860
     names:
       - name: Elizabeth Christiana Allen
-        link: 19964806325357396140/elizabeth-christiana-allen
-      - name: Josephine Griffiths
-        link: 21380/josephine-griffiths
-      - name: Joseph Edwards Hopla
-        link: 21406/joseph-edwards-hopla
-      - name: Maren Jensen
-        link: "21562"
-      - name: Anna Johnson
-        link: "46327"
-      - name: Lauritz Larsen
-        link: 22376/lauritz-larsen
-      - name: Moroni Lee
-        link: 48185/moroni-lee
-      - name: Jens Peter Rasmussen
-        link: "51704"
+        link: https://history.churchofjesuschrist.org/chd/individual/elizabeth-christiana-allen-1844
       - name: Emilie Blackner
-        link: 23530/emilie-blackner
+        link: https://history.churchofjesuschrist.org/chd/individual/emilie-blackner-1860
       - name: William Scott Budge
-        link: 24253/william-scott-jr-budge
+        link: https://history.churchofjesuschrist.org/chd/individual/william-scott-budge-1859
       - name: Esther Cherrington
-        link: 23550/esther-cherrington
+        link: https://history.churchofjesuschrist.org/chd/individual/esther-cherrington-1857
       - name: Hyrum Cherrington
-        link: 23551/hyrum-cherrington
+        link: https://history.churchofjesuschrist.org/chd/individual/hyrum-cherrington-1854
       - name: John Cartwright Cherrington
-        link: 23553/john-cartwright-cherrington
+        link: https://history.churchofjesuschrist.org/chd/individual/john-cartwright-cherrington-1859
       - name: Eunice Ann Colledge
-        link: 24283/eunice-ann-colledge
+        link: https://history.churchofjesuschrist.org/chd/individual/eunice-ann-colledge-1858
       - name: Catherine Deseret Dean
-        link: 24054/catherine-deseret-dean
+        link: https://history.churchofjesuschrist.org/chd/individual/catherine-deseret-dean-1860
       - name: Sarah Fillmore
-        link: "23587"
+        link: https://history.churchofjesuschrist.org/chd/individual/sarah-fillmore-1860
       - name: Nephi Gaarder
-        link: "39567"
+        link: https://history.churchofjesuschrist.org/chd/individual/infant-gunder
+      - name: Josephine Griffiths
+        link: https://history.churchofjesuschrist.org/chd/individual/josephine-griffiths-1859
       - name: Amelia Mary Ann Gunn
-        link: 23591/amelia-mary-ann-gunn
+        link: https://history.churchofjesuschrist.org/chd/individual/amelia-mary-ann-gunn-1858
+      - name: Joseph Edwards Hopla
+        link: https://history.churchofjesuschrist.org/chd/individual/joseph-edwards-hopla-1859
       - name: Thomas John Isaac
-        link: 23640/thomas-john-isaac
+        link: https://history.churchofjesuschrist.org/chd/individual/thomas-john-isaac-1860
       - name: Ane Christine Jensen
-        link: 24365/ane-christine-jensen
+        link: https://history.churchofjesuschrist.org/chd/individual/ane-christine-jensen-1859
+      - name: Maren Jensen
+        link: https://history.churchofjesuschrist.org/chd/individual/maren-jensen-1846
+      - name: Anna Johnson
+        link: https://history.churchofjesuschrist.org/chd/individual/anna-johnson-1858
+      - name: Lauritz Larsen
+        link: https://history.churchofjesuschrist.org/chd/individual/lauritz-larsen-1858
+      - name: Moroni Lee
+        link: https://history.churchofjesuschrist.org/chd/individual/moroni-lee-1859
       - name: William Edwin Morris
-        link: 24114/william-edwin-morris
+        link: https://history.churchofjesuschrist.org/chd/individual/william-edwin-morris-1857
       - name: Wita Petrine Amelia Nicolaisen
-        link: ""
+        link: Not in BioDB
       - name: Anthon Petersen
-        link: ""
+        link: Not in BioDB
+      - name: Jens Peter Rasmussen
+        link: https://history.churchofjesuschrist.org/chd/individual/jens-peter-rasmussen-1850
       - name: David Cannon Robison
-        link: 22778/david-cannon-robison
+        link: https://history.churchofjesuschrist.org/chd/individual/david-cannon-robison-1858
       - name: Lucy Sandall
-        link: 51833/lucy-sandall
+        link: https://history.churchofjesuschrist.org/chd/individual/lucy-sandall-1858
       - name: Harriet Martha Shirley
-        link: 24564/harriet-martha-shirley
+        link: https://history.churchofjesuschrist.org/chd/individual/harriet-martha-shirley-1859
       - name: Elizabeth Ann Nutter Stanworth
-        link: 23756/elizabeth-ann-nutter-stanworth
+        link: https://history.churchofjesuschrist.org/chd/individual/elizabeth-ann-nutter-stanworth-1860
   - heading: Stone 10
     image: /img/stone-10.jpg
     years: 1861-1862
     names:
       - name: Andrew Jackson Allred
-        link: 24632/andrew-jackson-allred
-      - name: Sarah Jane Backhouse
-        link: 25119/sarah-jane-backhouse
-      - name: Abraham Barlow
-        link: 44444/abraham-barlow
-      - name: Fannie Burdett
-        link: 25317/fannie-burdett
-      - name: Sarah Elizabeth Clayton
-        link: 53664/sarah-elizabeth-clayton
-      - name: Howard B. Conk
-        link: 25136/howard-b-conk
-      - name: Leah M. Edwards
-        link: "44029"
-      - name: William Franklin Glade
-        link: 47114/william-franklin-glade
-      - name: Marie Hansen
-        link: "54604"
-      - name: Emma Hill
-        link: 25148/emma-hill
-      - name: Heber Jesse Hill
-        link: 41124/heber-jesse-hill
-      - name: Elizabeth Holroyd
-        link: 25339/elizabeth-holroyd
-      - name: James Horrox
-        link: "25154"
-      - name: Annie Lloyd Hughes
-        link: 42155/annie-lloyd-hughes
-      - name: Lorenzo Isaacson
-        link: 48494/lorenzo-isaacson
-      - name: Petra Annetta Isaacson
-        link: 48492/petra-annetta-isaacson
-      - name: Annie Jane John
-        link: 24971/annie-jane-john
-      - name: Arnold Looser
-        link: 25920/arnold-looser
-      - name: Mary Eliza Marsden
-        link: 25162/mary-eliza-marsden
-      - name: David M. Memmott
-        link: 25434/david-m-gammit
-      - name: Eliza Ann Helena Michie
-        link: 40796/eliza-ann-helena-michie
-      - name: Esther Mary Moulding
-        link: 39965/esther-mary-moulding
-      - name: Hannie Lovise Pedersen
-        link: "41154"
-      - name: Frances Ann Reed
-        link: 25178/frances-ann-reed
-      - name: Marius Rose
-        link: 25812/marius-rose
-      - name: Robert Russell
-        link: 11178563610303379583/robert-russell
-      - name: Joseph Stanford
-        link: 25368/joseph-stanford
-      - name: Sarah Thomas
-        link: 24826/sarah-thomas
-      - name: Inger Marie Thomassen
-        link: "25839"
-      - name: Mouritz Christian Thompson
-        link: "47010"
-      - name: Anne Williams
-        link: 45025/anne-williams
+        link: https://history.churchofjesuschrist.org/chd/individual/andrew-jackson-allred-1860
       - name: Sarah Bachman
-        link: 44122/sarah-bachman
+        link: https://history.churchofjesuschrist.org/chd/individual/sarah-bachman-1862
+      - name: Sarah Jane Backhouse
+        link: https://history.churchofjesuschrist.org/chd/individual/sarah-jane-backhouse-1861
+      - name: Abraham Barlow
+        link: https://history.churchofjesuschrist.org/chd/individual/abraham-barlow-1861
       - name: Amanda Biddle
-        link: 26480/amanda-biddle
+        link: https://history.churchofjesuschrist.org/chd/individual/amanda-biddle-1860
       - name: Elizabeth Platt Bullock
-        link: 25999/elizabeth-platt-bullock
+        link: https://history.churchofjesuschrist.org/chd/individual/elizabeth-platt-bullock-1862
+      - name: Fannie Burdett
+        link: https://history.churchofjesuschrist.org/chd/individual/fannie-burdett-1860
       - name: James Burtenshaw
-        link: 26006/james-burtenshaw
+        link: https://history.churchofjesuschrist.org/chd/individual/james-burtenshaw-1859
+      - name: Sarah Elizabeth Clayton
+        link: https://history.churchofjesuschrist.org/chd/individual/sarah-elizabeth-clayton-1860
+      - name: Howard B. Conk
+        link: https://history.churchofjesuschrist.org/chd/individual/howard-b-conk-1860
       - name: Ruth Cooper
-        link: 27495/ruth-cooper
+        link: https://history.churchofjesuschrist.org/chd/individual/ruth-cooper-1862
       - name: Anne Eliza Crabbe
-        link: 26031/annie-eliza-crabb
+        link: https://history.churchofjesuschrist.org/chd/individual/annie-eliza-crabb-1860
       - name: Joseph Dansie
-        link: 26038/joseph-dansie
+        link: https://history.churchofjesuschrist.org/chd/individual/joseph-dansie-1862
       - name: John Thomas Daynes
-        link: 27036/john-thomas-daynes
+        link: https://history.churchofjesuschrist.org/chd/individual/john-thomas-daynes-1862
       - name: Edward Hirum Downard
-        link: 27516/edward-hirum-downard
+        link: https://history.churchofjesuschrist.org/chd/individual/edward-hirum-downard-1861
       - name: Richard Thomas Dye
-        link: 26557/richard-thomas-dye
+        link: https://history.churchofjesuschrist.org/chd/individual/richard-thomas-dye-1861
+      - name: Leah M. Edwards
+        link: https://history.churchofjesuschrist.org/chd/individual/leah-matilda-edwards-1857
       - name: Clara Hannah Evans
-        link: 26065/clara-hannah-evans
+        link: https://history.churchofjesuschrist.org/chd/individual/clara-hannah-evans-1860
       - name: John Evans
-        link: 26072/john-jr-evans
+        link: https://history.churchofjesuschrist.org/chd/individual/john-evans-jr-1862
       - name: Elizabeth Anna Freeman
-        link: 26574/elizabeth-anna-freeman
+        link: https://history.churchofjesuschrist.org/chd/individual/elizabeth-anna-freeman-1862
       - name: Leah Gedge
-        link: 39654/leah-gedge
+        link: https://history.churchofjesuschrist.org/chd/individual/leah-gedge-1860
       - name: Lois Gedge
-        link: 39652/lois-gedge
+        link: https://history.churchofjesuschrist.org/chd/individual/lois-gedge-1862
+      - name: William Franklin Glade
+        link: https://history.churchofjesuschrist.org/chd/individual/william-franklin-glade-1861
+      - name: Marie Hansen
+        link: https://history.churchofjesuschrist.org/chd/individual/marie-hansen-1860
+      - name: Emma Hill
+        link: https://history.churchofjesuschrist.org/chd/individual/emma-hill-1861
+      - name: Heber Jesse Hill
+        link: https://history.churchofjesuschrist.org/chd/individual/heber-jesse-hill-1859
+      - name: Elizabeth Holroyd
+        link: https://history.churchofjesuschrist.org/chd/individual/elizabeth-holroyd-1859
+      - name: James Horrox
+        link: https://history.churchofjesuschrist.org/chd/individual/james-horrox
+      - name: Annie Lloyd Hughes
+        link: https://history.churchofjesuschrist.org/chd/individual/annie-lloyd-hughes-1859
+      - name: Lorenzo Isaacson
+        link: https://history.churchofjesuschrist.org/chd/individual/lorenzo-isaacson-1859
+      - name: Petra Annetta Isaacson
+        link: https://history.churchofjesuschrist.org/chd/individual/petra-annetta-isaacson-1854
+      - name: Annie Jane John
+        link: https://history.churchofjesuschrist.org/chd/individual/annie-jane-john-1860
+      - name: Arnold Looser
+        link: https://history.churchofjesuschrist.org/chd/individual/arnold-losser-1860
+      - name: Mary Eliza Marsden
+        link: https://history.churchofjesuschrist.org/chd/individual/mary-eliza-marsden-1860
+      - name: David M. Memmott
+        link: https://history.churchofjesuschrist.org/chd/individual/david-m-gammit-1858
+      - name: Eliza Ann Helena Michie
+        link: https://history.churchofjesuschrist.org/chd/individual/eliza-ann-helena-michie-1860
+      - name: Esther Mary Moulding
+        link: https://history.churchofjesuschrist.org/chd/individual/esther-mary-moulding-1859
+      - name: Hannie Lovise Pedersen
+        link: https://history.churchofjesuschrist.org/chd/individual/hanne-lovise-pedersen-1856
+      - name: Frances Ann Reed
+        link: https://history.churchofjesuschrist.org/chd/individual/frances-ann-reed-1855
+      - name: Marius Rose
+        link: https://history.churchofjesuschrist.org/chd/individual/marius-rose-1858
+      - name: Robert Russell
+        link: https://history.churchofjesuschrist.org/chd/individual/robert-russell-1854
+      - name: Joseph Stanford
+        link: https://history.churchofjesuschrist.org/chd/individual/joseph-stanford-1860
+      - name: Sarah Thomas
+        link: https://history.churchofjesuschrist.org/chd/individual/sarah-thomas-1848
+      - name: Inger Marie Thomassen
+        link: https://history.churchofjesuschrist.org/chd/individual/inger-marie-thomasen-1843
+      - name: Mouritz Christian Thompson
+        link: https://history.churchofjesuschrist.org/chd/individual/mouritz-christian-thompson-1858
+      - name: Anne Williams
+        link: https://history.churchofjesuschrist.org/chd/individual/anne-williams-1859
   - heading: Stone 11
     image: /img/stone-11.jpg
     years: 1862 cont
     names:
-      - name: Esther Jane Martin
-        link: 42315/esther-jane-martin
-      - name: Ann Snell Maw
-        link: "27703"
-      - name: Hannah Mary Mitchell
-        link: "28734"
-      - name: Martha Mitchell
-        link: 26237/martha-mitchell
-      - name: Joseph Hyrum Morris
-        link: 52204/joseph-hyrum-morris
-      - name: Sarah Ann Morris
-        link: 52205/sarah-ann-morris
-      - name: Sarah Jane Morris
-        link: 28748/sarah-jane-morris
-      - name: Frederick Crane Nichols
-        link: 27721/frederick-crane-nichols
-      - name: Albertine Nielsen
-        link: 29333/albertine-nielsen
-      - name: Lucy Oakey
-        link: 29371/lucy-oakey
-      - name: Joseph Hyrum Owen
-        link: 26740/joseph-hyrum-owen
-      - name: Elmer Edward Ellsworth Palmer
-        link: 26745/elmer-edward-ellsworth-palmer
-      - name: Mette Marie Peterson
-        link: "26264"
-      - name: Martha Ann Priest
-        link: 26279/martha-ann-priest
-      - name: Thomas Roberts
-        link: 27771/thomas-roberts
-      - name: Eliza Sheppard
-        link: "27309"
-      - name: Annie Riley Smith
-        link: 26318/annie-riley-smith
-      - name: George Thomas Smith
-        link: 26322/george-thomas-smith
-      - name: Mary Elizabeth Statham
-        link: 26345/mary-elizabeth-statham
-      - name: Phillip Todd
-        link: 26364/phillip-todd
-      - name: Annie Louise Tucker
-        link: "26366"
-      - name: Mercy Ann Virgin
-        link: 27859/mercy-ann-virgin
       - name: Mary Gedge
-        link: 39653/mary-gedge
+        link: https://history.churchofjesuschrist.org/chd/individual/mary-gedge-1862
       - name: Ephraim Joseph Hall
-        link: 27582/ephraim-joseph-hall
+        link: https://history.churchofjesuschrist.org/chd/individual/ephraim-joseph-hall-1848
       - name: David Hammond
-        link: 26109/david-hammond
+        link: https://history.churchofjesuschrist.org/chd/individual/david-hammond-1862
       - name: Sarah Hammond
-        link: 26113/sarah-hammond
+        link: https://history.churchofjesuschrist.org/chd/individual/sarah-hammond-1860
       - name: Hans Peder Hansen
-        link: ""
+        link: Not in BioDB
       - name: Hans Peter Brigham Hansen
-        link: 31274047513852228870/hans-peter-brigham-hansen
+        link: https://history.churchofjesuschrist.org/chd/individual/hans-peter-brigham-hansen-1861
       - name: Josephine Marie Hansen
-        link: 29131/josephine-marie-hansen
+        link: https://history.churchofjesuschrist.org/chd/individual/josephine-marie-hansen-1859
       - name: Peter Hansen
-        link: 42217/peter-hansen
+        link: https://history.churchofjesuschrist.org/chd/individual/peter-hansen-1862
       - name: Elizabeth Ann Healey
-        link: 28603/elizabeth-ann-healey
+        link: https://history.churchofjesuschrist.org/chd/individual/elizabeth-ann-healey-1861
       - name: Amelia Emma Hulse
-        link: 26658/amelia-emma-hulse
+        link: https://history.churchofjesuschrist.org/chd/individual/amelia-emma-hulse-1860
       - name: Surge Louie Jacob
-        link: 29847/surge-louie-jacob
+        link: https://history.churchofjesuschrist.org/chd/individual/surge-louie-jacob-1862
       - name: John Jolley
-        link: 27629/john-jolley
+        link: https://history.churchofjesuschrist.org/chd/individual/john-jolley-1862
       - name: Elizabeth Jones
-        link: 29212/elizabeth-jones
+        link: https://history.churchofjesuschrist.org/chd/individual/elizabeth-jones-1854
       - name: Heber Jones
-        link: 29214/heber-jones
+        link: https://history.churchofjesuschrist.org/chd/individual/heber-jones-1858
       - name: Jacob Jones
-        link: 29216/jacob-jones
+        link: https://history.churchofjesuschrist.org/chd/individual/jacob-jones-1852
       - name: Alice Rosemary Kemp
-        link: 27649/alice-rosemary-kemp
+        link: https://history.churchofjesuschrist.org/chd/individual/alice-rosemary-kemp-1861
       - name: Henry Kelsey Kemp
-        link: 27177/henry-kelsey-kemp
+        link: https://history.churchofjesuschrist.org/chd/individual/henry-kelsey-kemp-1860
       - name: William Heber Kemp
-        link: 27654/william-heber-kemp
+        link: https://history.churchofjesuschrist.org/chd/individual/william-heber-kemp-1853
       - name: Barbara Grange Kidman
-        link: "46692"
+        link: https://history.churchofjesuschrist.org/chd/individual/barbara-grange-kidman-1861
       - name: Jacobine Marie Larsen
-        link: 26192/jacobine-marie-larsen
+        link: https://history.churchofjesuschrist.org/chd/individual/jacobine-marie-larsen-1862
       - name: Jensine Larsen
-        link: 26193/jensine-larsen
+        link: https://history.churchofjesuschrist.org/chd/individual/jensine-larsen-1851
       - name: Eliza Le Clerg
-        link: 26198/eliza-le-clercq
+        link: https://history.churchofjesuschrist.org/chd/individual/eliza-le-clercq-1856?
       - name: Elisha John Luker
-        link: 26206/elisha-john-luker
+        link: https://history.churchofjesuschrist.org/chd/individual/elisha-john-luker-1861
       - name: Mary Matilda Luker
-        link: 26207/mary-matilda-luker
+        link: https://history.churchofjesuschrist.org/chd/individual/mary-matilda-luker-1860
       - name: William Washington Mail
-        link: 29671/william-washington-mail
+        link: https://history.churchofjesuschrist.org/chd/individual/william-washington-mail-1845
+      - name: Esther Jane Martin
+        link: https://history.churchofjesuschrist.org/chd/individual/esther-jane-martin-1861
+      - name: Ann Snell Maw
+        link: https://history.churchofjesuschrist.org/chd/individual/annie-snell-maw-1861
+      - name: Hannah Mary Mitchell
+        link: https://history.churchofjesuschrist.org/chd/individual/hannah-mary-mitchell-1862
+      - name: Martha Mitchell
+        link: https://history.churchofjesuschrist.org/chd/individual/martha-mitchell-1861
+      - name: Joseph Hyrum Morris
+        link: https://history.churchofjesuschrist.org/chd/individual/joseph-hyrum-morris-1855
+      - name: Sarah Ann Morris
+        link: https://history.churchofjesuschrist.org/chd/individual/sarah-ann-morris-1861
+      - name: Sarah Jane Morris
+        link: https://history.churchofjesuschrist.org/chd/individual/sarah-jane-morris-1852
+      - name: Frederick Crane Nichols
+        link: https://history.churchofjesuschrist.org/chd/individual/frederick-crane-nichols-1861
+      - name: Albertine Nielsen
+        link: https://history.churchofjesuschrist.org/chd/individual/albertine-nielsen-1860
+      - name: Lucy Oakey
+        link: https://history.churchofjesuschrist.org/chd/individual/lucy-oakey-1845
+      - name: Joseph Hyrum Owen
+        link: https://history.churchofjesuschrist.org/chd/individual/joseph-hyrum-owen-1861
+      - name: Elmer Edward Ellsworth Palmer
+        link: https://history.churchofjesuschrist.org/chd/individual/elmer-edward-ellsworth-palmer-1861
+      - name: Mette Marie Peterson
+        link: https://history.churchofjesuschrist.org/chd/individual/mette-marie-peterson-1856
+      - name: Martha Ann Priest
+        link: https://history.churchofjesuschrist.org/chd/individual/martha-ann-priest-1861
+      - name: Thomas Roberts
+        link: https://history.churchofjesuschrist.org/chd/individual/thomas-roberts-1860
+      - name: Eliza Sheppard
+        link: https://history.churchofjesuschrist.org/chd/individual/eliza-sheppard-1861
+      - name: Annie Riley Smith
+        link: https://history.churchofjesuschrist.org/chd/individual/annie-riley-smith-1862
+      - name: George Thomas Smith
+        link: https://history.churchofjesuschrist.org/chd/individual/george-thomas-smith-1856
+      - name: Mary Elizabeth Statham
+        link: https://history.churchofjesuschrist.org/chd/individual/mary-elizabeth-statham-1859
+      - name: Phillip Todd
+        link: https://history.churchofjesuschrist.org/chd/individual/phillip-todd-1856
+      - name: Annie Louise Tucker
+        link: https://history.churchofjesuschrist.org/chd/individual/annie-louise-tucker-1862
+      - name: Mercy Ann Virgin
+        link: https://history.churchofjesuschrist.org/chd/individual/mercy-ann-virgin-1861
   - heading: Stone 12
     image: /img/stone-12.jpg
     years: "1863"
     names:
-      - name: Kate Fowler
-        link: 39282/kate-fowler
-      - name: John Glenn
-        link: 47400/john-glenn
-      - name: Elizabeth Gordon
-        link: 47456/elizabeth-gordon
-      - name: Alice Jackson Graham
-        link: 47782/alice-jackson-graham
-      - name: Bernhard Gulbrandsen
-        link: 30445/bernhardt-gulbrandsen
-      - name: Johannes Hansen
-        link: 30334/johannes-hansen
-      - name: Ellen Haynes
-        link: 49060/ellen-haynes
-      - name: Rosa Ann Holt
-        link: "47914"
-      - name: Everine Lorena Jacobsen
-        link: 47802/everine-lorena-jacobsen
-      - name: Agnes Jenkins
-        link: 48919/agnes-jenkins
-      - name: Hans Peter Jensen
-        link: 50924/hans-peter-jensen
-      - name: Johanna Maria Jensen
-        link: 39325/johanna-maria-jensen
-      - name: Josephine Jensen
-        link: "47899"
-      - name: Mette Marie Jensen
-        link: 29295/mette-marie-lydesen
-      - name: Ida Charlotte Johnson
-        link: 51003/ida-charlotte-johnson
-      - name: Bengta Jonasson
-        link: 50372/bengta-johnson
-      - name: Rosina King
-        link: 30204/rosina-king
-      - name: Lars Peter Larsen
-        link: "94741191897481923310"
-      - name: Mette Marie Larsen
-        link: "48596"
-      - name: Abraham Lamb Lea
-        link: "50147"
-      - name: Hannah Toplin Lock
-        link: 30216/hannah-toplin-lock
-      - name: Samuel Lock
-        link: 30220/samuel-lock
-      - name: Margaret Mathie
-        link: "51034"
-      - name: Amelia Mitchell
-        link: 30075/amelia-mitchell
-      - name: Camilla Thyra Mortensen
-        link: 45221/camilla-thyra-mortensen
-      - name: Willard Pratt Mortensen
-        link: 45220/willard-pratt-mortensen
-      - name: Mary Ann Moss
-        link: 49787/mary-ann-moss
       - name: Isaac Cynosure Abel
-        link: 45457/isaac-cynosure-abel
+        link: https://history.churchofjesuschrist.org/chd/individual/isaac-cynosure-abel-1863
       - name: Poul Jensen Andersen
-        link: 48617/poul-jensen-andersen
+        link: https://history.churchofjesuschrist.org/chd/individual/poul-jensen-andersen-1861
       - name: Johanna Marie Anderson
-        link: 48301/johanna-marie-anderson
+        link: https://history.churchofjesuschrist.org/chd/individual/johanna-marie-anderson-1857
       - name: John Alfred Anderson
-        link: 48302/john-alfred-anderson
+        link: https://history.churchofjesuschrist.org/chd/individual/john-alfred-anderson-1859
       - name: Fanny Eliza Atkinson
-        link: 45514/fanny-eliza-atkinson
+        link: https://history.churchofjesuschrist.org/chd/individual/fanny-eliza-atkinson-1862
       - name: Jane Barton
-        link: 46905/jane-barton
+        link: https://history.churchofjesuschrist.org/chd/individual/jane-barton-1860
       - name: Edward James Bell
-        link: 30151/edward-james-bell
+        link: https://history.churchofjesuschrist.org/chd/individual/edward-james-bell-1861
       - name: Kersti Bondesson
-        link: 30316/kersti-bondesson
+        link: https://history.churchofjesuschrist.org/chd/individual/kersti-bondesson-1860
       - name: Thomas Dury Bowman
-        link: 41597/thomas-dury-bowman
+        link: https://history.churchofjesuschrist.org/chd/individual/thomas-dury-bowman-1862
       - name: NN Brown
-        link: 30404/baby-boy-brown
+        link: https://history.churchofjesuschrist.org/chd/individual/baby-boy-brown-1863
       - name: Georgianna Hoagland Cannon
-        link: 30431/georgiana-hoagland-cannon
+        link: https://history.churchofjesuschrist.org/chd/individual/georgiana-hoagland-cannon-1861
       - name: Willard Oliver Clark
-        link: 40177/willard-oliver-clark
+        link: https://history.churchofjesuschrist.org/chd/individual/willard-oliver-clark-1862
       - name: Lydia Courts
-        link: 30163/lydia-courts
+        link: https://history.churchofjesuschrist.org/chd/individual/lydia-courts-1859
       - name: William Crystal
-        link: "45397"
+        link: https://history.churchofjesuschrist.org/chd/individual/william-crystal-1862
       - name: Robert Cartwright Cunningham
-        link: 46673/robert-cartwright-cunningham
+        link: https://history.churchofjesuschrist.org/chd/individual/robert-cartwright-cunningham-1856
       - name: Jane Duncan
-        link: 45400/jane-duncan
+        link: https://history.churchofjesuschrist.org/chd/individual/jane-duncan-1862
       - name: Oscar Joseph James Eliason
-        link: 30324/oscar-joseph-james-eliason
+        link: https://history.churchofjesuschrist.org/chd/individual/oscar-joseph-james-eliason-1862
       - name: Beata Eliasson
-        link: 46180/beata-eliasson
+        link: https://history.churchofjesuschrist.org/chd/individual/beata-eliasson-1846
       - name: Samuel Ellingford
-        link: 39673/samuel-ellingford
+        link: https://history.churchofjesuschrist.org/chd/individual/samuel-ellingford-1853
       - name: Hulda Margana Erickson
-        link: 55516/hulda-mariana-erickson
+        link: https://history.churchofjesuschrist.org/chd/individual/hulda-mariana-erickson-1862
       - name: Jensine Eskelsen
-        link: "87390843355649101490"
+        link: https://history.churchofjesuschrist.org/chd/individual/jensine-eskelsen-1862
       - name: Dale Willard Eynon
-        link: "11670652578395538180"
+        link: https://history.churchofjesuschrist.org/chd/individual/dale-willard-eynon-1863
+      - name: Kate Fowler
+        link: https://history.churchofjesuschrist.org/chd/individual/kate-fowler-1862
+      - name: John Glenn
+        link: https://history.churchofjesuschrist.org/chd/individual/john-glenn-1860
+      - name: Elizabeth Gordon
+        link: https://history.churchofjesuschrist.org/chd/individual/elizabeth-gordon-1861
+      - name: Alice Jackson Graham
+        link: https://history.churchofjesuschrist.org/chd/individual/alice-jackson-graham-1862
+      - name: Bernhard Gulbrandsen
+        link: https://history.churchofjesuschrist.org/chd/individual/bernhardt-gulbrandsen-1857
+      - name: Johannes Hansen
+        link: https://history.churchofjesuschrist.org/chd/individual/johannes-hansen-1862
+      - name: Ellen Haynes
+        link: https://history.churchofjesuschrist.org/chd/individual/ellen-haynes-1862
+      - name: Rosa Ann Holt
+        link: https://history.churchofjesuschrist.org/chd/individual/rosa-ann-holt-1863
+      - name: Everine Lorena Jacobsen
+        link: https://history.churchofjesuschrist.org/chd/individual/everine-lorena-jacobsen-1862
+      - name: Agnes Jenkins
+        link: https://history.churchofjesuschrist.org/chd/individual/agnes-jenkins-1862
+      - name: Hans Peter Jensen
+        link: https://history.churchofjesuschrist.org/chd/individual/hans-peter-jensen-1860
+      - name: Johanna Maria Jensen
+        link: https://history.churchofjesuschrist.org/chd/individual/johanna-maria-jensen-1860
+      - name: Josephine Jensen
+        link: https://history.churchofjesuschrist.org/chd/individual/josephine-jensen-1862
+      - name: Mette Marie Jensen
+        link: https://history.churchofjesuschrist.org/chd/individual/mette-marie-lydesen-1858
+      - name: Ida Charlotte Johnson
+        link: https://history.churchofjesuschrist.org/chd/individual/ida-charlotte-johnson-1859
+      - name: Bengta Jonasson
+        link: https://history.churchofjesuschrist.org/chd/individual/bengta-johnson-1858
+      - name: Rosina King
+        link: https://history.churchofjesuschrist.org/chd/individual/rosina-king-1862
+      - name: Lars Peter Larsen
+        link: https://history.churchofjesuschrist.org/chd/individual/lars-peter-larsen-1855
+      - name: Mette Marie Larsen
+        link: https://history.churchofjesuschrist.org/chd/individual/mette-marie-larsen-1855
+      - name: Abraham Lamb Lea
+        link: https://history.churchofjesuschrist.org/chd/individual/abraham-lamb-lea-1861
+      - name: Hannah Toplin Lock
+        link: https://history.churchofjesuschrist.org/chd/individual/hannah-toplin-lock-1860
+      - name: Samuel Lock
+        link: https://history.churchofjesuschrist.org/chd/individual/samuel-lock-1863
+      - name: Margaret Mathie
+        link: https://history.churchofjesuschrist.org/chd/individual/margaret-baird-mathie-1861
+      - name: Amelia Mitchell
+        link: https://history.churchofjesuschrist.org/chd/individual/amelia-mitchell-1862
+      - name: Camilla Thyra Mortensen
+        link: https://history.churchofjesuschrist.org/chd/individual/camilla-thyra-mortensen-1862
+      - name: Willard Pratt Mortensen
+        link: https://history.churchofjesuschrist.org/chd/individual/willard-pratt-mortensen-1860
+      - name: Mary Ann Moss
+        link: https://history.churchofjesuschrist.org/chd/individual/ann-moss-1829
   - heading: Stone 13
     image: /img/stone-13.jpg
     years: 1863-1865
     names:
-      - name: Eli Davis
-        link: 50304/eli-davis
-      - name: Moroni Davis
-        link: 31817/moroni-davis
-      - name: John Baptist Droubay
-        link: 31822/john-baptist-droubay
-      - name: George Cannon Edlefsen
-        link: 30988/george-cannon-edlefsen
-      - name: George Knighton Flint
-        link: 32220/george-knighton-flint
-      - name: Nephi Aaron Folland
-        link: 52703/nephi-aaron-folland
-      - name: Jesse Galliers
-        link: 31146/jesse-galliers-or-gallers
-      - name: Edward Lorenzo Gange
-        link: 64377913081410208330/edward-lorenzo-gange
-      - name: William Henry Gange
-        link: 54512903987160847160/william-henry-gange
-      - name: George Peder Geertsen
-        link: 47082/george-peder-geertsen
-      - name: John H. George
-        link: 31857/john-h-george
-      - name: Gjertrud Catherine Groneman
-        link: 30998/gjertrud-catherine-groneman
-      - name: Edwin Haynes
-        link: 31875/edwin-haynes
-      - name: Anna Johansson Hellstrom
-        link: 38963/anna-johansson-hellstrom
-      - name: Matilda Howard
-        link: 31899/matilda-howard
-      - name: Tamar Howard
-        link: 31901/tamar-howard
-      - name: George Hutchison
-        link: 32288/george-b-mc-clellan-hutchison
-      - name: Israel Israelson
-        link: 31305/israel-israelsen
-      - name: Nils Jenson
-        link: 56620/nils-jenson
-      - name: Eline Knudsen
-        link: 31028/eline-knudsen
-      - name: Hans Johan Lauritzen
-        link: 31549/hans-johan-lauritzen
-      - name: John Hyrum Lines
-        link: 31936/john-hyrum-lines
-      - name: Joseph Edwin Lines
-        link: 31935/joseph-edwin-lines
-      - name: Lucy Lines
-        link: 31937/lucy-lines
-      - name: Lars Peter Lundgren
-        link: 30669/lars-peter-lundgren
-      - name: Robert McCulloch
-        link: 55546/robert-mc-culloch
-      - name: William McNeil
-        link: 31944/william-mc-neil
-      - name: Godfried Nieffenegger
-        link: 31964/godfried-nieffenegger
-      - name: Johannes Nieffenegger
-        link: 31965/johannes-nieffenegger
-      - name: Lissette Nieffenegger
-        link: 31966/lissette-nieffenegger
-      - name: Anna Sophia Nielsen
-        link: "30691"
-      - name: Jens Michael Nielsen
-        link: 30695/jens-michael-nielsen
-      - name: Neeltje Olivier
-        link: 55732/neeltje-olivier
-      - name: NN Ollerton
-        link: 56762/baby-ollerton
-      - name: Thomas Payne
-        link: 34196/thomas-payne
-      - name: Mary Ann Phillips
-        link: 54885/mary-ann-phillips
-      - name: James William Price
-        link: 34243/james-william-price
-      - name: Leopold Singleton
-        link: 39635/leopold-singleton
-      - name: Charles Slade
-        link: 31357/charles-slade
-      - name: Edward Slade
-        link: 31358/edward-slade
-      - name: Zilah M. Smith
-        link: "32047"
-      - name: William Burnhope Spens
-        link: 34315/william-burnhope-spens
-      - name: Fanny Wilson
-        link: 32328/fanny-wilson
-      - name: Lavina Wilson
-        link: "32332"
-      - name: Martha Wilson
-        link: 32329/martha-wilson
-      - name: Jacob Winkler
-        link: "32089"
-      - name: Clara Lucas
-        link: 60189/clara-lucas
-      - name: Lovisa Nielsen
-        link: 32817/lovisa-nielsen
-      - name: Justina Nilsson
-        link: 34167/justina-s-nilsson
-      - name: Mary Orgill
-        link: 56363/mary-orgill
-      - name: Sine Katrine Nilsson
-        link: 44358/sine-katrine-nielson
-      - name: Anne Marie Olsen
-        link: "48632"
-      - name: Elijah Orme
-        link: 46978/elijah-orme
-      - name: Eliza Orme
-        link: 46979/eliza-orme
-      - name: George Orme
-        link: 46983/george-orme
-      - name: Samuel Orme
-        link: 46981/samuel-orme
-      - name: Caroline Maria Pedersen
-        link: 22690194296884721170/caroline-maria-pedersen
-      - name: Ida Christine Peterson
-        link: 51425/ida-christine-peterson
-      - name: Nicoline Johanna Peterson
-        link: "52290"
-      - name: Kittie Bell Ryan
-        link: 55095/kittie-bell-ryan
-      - name: Elizabeth Nelson Stuart
-        link: 54326/elizabeth-nelson-stuart
-      - name: Mary Annemma Taylor
-        link: 50554/mary-annemma-taylor
-      - name: Parley George Taylor
-        link: 50556/parley-george-taylor
-      - name: Ane Marie Thomsen
-        link: "39614"
-      - name: Hans Ephraim Thoresen
-        link: 44329/hans-ephraim-thoresen
-      - name: Frederick Torgersen
-        link: 49900/frederick-torgersen
-      - name: Mary Elizabeth Tullidge
-        link: 30425/mary-elizabeth-tullidge
-      - name: Sarah Louise Webb
-        link: "41999"
-      - name: NN Weeks
-        link: "41999"
-      - name: Mary Ann West
-        link: 52328/mary-ann-west
-      - name: Thomas Winsby
-        link: 52466/thomas-winsby
       - name: Hyrum Briggs
-        link: 30886/hyrum-briggs
+        link: https://history.churchofjesuschrist.org/chd/individual/hyrum-briggs-1864
       - name: Jacob Burgener
-        link: 31783/jacob-burgener
+        link: https://history.churchofjesuschrist.org/chd/individual/jacob-burgener-1853
       - name: James Carlin
-        link: 32146/james-carlin
+        link: https://history.churchofjesuschrist.org/chd/individual/james-carlin-1863
       - name: Angelina Arthelia Chappell
-        link: "32151"
+        link: https://history.churchofjesuschrist.org/chd/individual/angelina-arthelia-chappell-1862
       - name: Emily Ann Chappell
-        link: 32154/emily-ann-chappell
+        link: https://history.churchofjesuschrist.org/chd/individual/emily-ann-chappell-1849
       - name: Jemima Elizabeth Chappell
-        link: 32156/jemima-elizabeth-chappell
+        link: https://history.churchofjesuschrist.org/chd/individual/jemima-elizabeth-chappell-1863
       - name: Phoebe Cockerhill
-        link: 31803/phoebe-cockerhill
+        link: https://history.churchofjesuschrist.org/chd/individual/phoebe-cockerhill-1859
       - name: Janet Crawford
-        link: 44343/janet-crawford
+        link: https://history.churchofjesuschrist.org/chd/individual/janet-crawford-1863
       - name: Henry Crowther
-        link: 47306/henry-crowther
+        link: https://history.churchofjesuschrist.org/chd/individual/henry-crowther-1859
       - name: John Crowther
-        link: 47303/john-crowther
+        link: https://history.churchofjesuschrist.org/chd/individual/john-crowther-1862
+      - name: Eli Davis
+        link: https://history.churchofjesuschrist.org/chd/individual/eli-davis-1859
+      - name: Moroni Davis
+        link: https://history.churchofjesuschrist.org/chd/individual/moroni-davis-1858
+      - name: John Baptist Droubay
+        link: https://history.churchofjesuschrist.org/chd/individual/john-baptist-droubay-1857
+      - name: George Cannon Edlefsen
+        link: https://history.churchofjesuschrist.org/chd/individual/george-cannon-edlefsen-1862
+      - name: George Knighton Flint
+        link: https://history.churchofjesuschrist.org/chd/individual/george-knighton-flint-1861
+      - name: Nephi Aaron Folland
+        link: https://history.churchofjesuschrist.org/chd/individual/nephi-aaron-folland-1861
+      - name: Jesse Galliers
+        link: https://history.churchofjesuschrist.org/chd/individual/jesse-galliers-1862
+      - name: Edward Lorenzo Gange
+        link: https://history.churchofjesuschrist.org/chd/individual/edward-lorenzo-gange-1862
+      - name: William Henry Gange
+        link: https://history.churchofjesuschrist.org/chd/individual/william-henry-gange-1855
+      - name: George Peder Geertsen
+        link: https://history.churchofjesuschrist.org/chd/individual/george-peder-geertsen-1863
+      - name: John H. George
+        link: https://history.churchofjesuschrist.org/chd/individual/john-h-george-1864
+      - name: Gjertrud Catherine Groneman
+        link: https://history.churchofjesuschrist.org/chd/individual/gjertrud-catherine-groneman-1863
+      - name: Edwin Haynes
+        link: https://history.churchofjesuschrist.org/chd/individual/edwin-haynes-1863
+      - name: Anna Johansson Hellstrom
+        link: https://history.churchofjesuschrist.org/chd/individual/anna-johansson-hellstrom-1861
+      - name: Matilda Howard
+        link: https://history.churchofjesuschrist.org/chd/individual/matilda-howard-1859
+      - name: Tamar Howard
+        link: https://history.churchofjesuschrist.org/chd/individual/tamar-howard-1861
+      - name: George Hutchison
+        link: https://history.churchofjesuschrist.org/chd/individual/george-b-mcclellan-hutchison-1864
+      - name: Israel Israelson
+        link: https://history.churchofjesuschrist.org/chd/individual/israel-israelsen-1862
+      - name: Nils Jenson
+        link: https://history.churchofjesuschrist.org/chd/individual/nils-jenson-1862
+      - name: Eline Knudsen
+        link: https://history.churchofjesuschrist.org/chd/individual/eline-knudsen-1861
+      - name: Hans Johan Lauritzen
+        link: https://history.churchofjesuschrist.org/chd/individual/hans-johan-lauritzen-1863
+      - name: John Hyrum Lines
+        link: https://history.churchofjesuschrist.org/chd/individual/john-hyrum-lines-1850
+      - name: Joseph Edwin Lines
+        link: https://history.churchofjesuschrist.org/chd/individual/joseph-edwin-lines-1855
+      - name: Lucy Lines
+        link: https://history.churchofjesuschrist.org/chd/individual/lucy-lines-1847
+      - name: Clara Lucas
+        link: https://history.churchofjesuschrist.org/chd/individual/clara-lucas-1863
+      - name: Lars Peter Lundgren
+        link: https://history.churchofjesuschrist.org/chd/individual/lars-peter-lundgren-1847
+      - name: Robert McCulloch
+        link: https://history.churchofjesuschrist.org/chd/individual/robert-mcculloch-1860
+      - name: William McNeil
+        link: https://history.churchofjesuschrist.org/chd/individual/william-mcneil-1864
+      - name: Godfried Nieffenegger
+        link: https://history.churchofjesuschrist.org/chd/individual/godfried-nieffenegger-1860
+      - name: Johannes Nieffenegger
+        link: https://history.churchofjesuschrist.org/chd/individual/johannes-nieffenegger-1864
+      - name: Lissette Nieffenegger
+        link: https://history.churchofjesuschrist.org/chd/individual/lissette-nieffenegger-1861
+      - name: Anna Sophia Nielsen
+        link: https://history.churchofjesuschrist.org/chd/individual/anna-sophie-nielsen-1862
+      - name: Jens Michael Nielsen
+        link: https://history.churchofjesuschrist.org/chd/individual/jens-michael-nielsen-1862
+      - name: Lovisa Nielsen
+        link: https://history.churchofjesuschrist.org/chd/individual/lovisa-nielsen-1848
+      - name: Justina Nilsson
+        link: https://history.churchofjesuschrist.org/chd/individual/justina-s-nilsson-1857
+      - name: Sine Katrine Nilsson
+        link: https://history.churchofjesuschrist.org/chd/individual/sine-katrine-nielson-1859
+      - name: Neeltje Olivier
+        link: https://history.churchofjesuschrist.org/chd/individual/neeltje-olivier-1862
+      - name: NN Ollerton
+        link: https://history.churchofjesuschrist.org/chd/individual/baby-ollerton-1864
+      - name: Anne Marie Olsen
+        link: https://history.churchofjesuschrist.org/chd/individual/anne-marie-olsen-1861
+      - name: Mary Orgill
+        link: https://history.churchofjesuschrist.org/chd/individual/mary-orgill-1864
+      - name: Elijah Orme
+        link: https://history.churchofjesuschrist.org/chd/individual/elijah-orme-1859
+      - name: Eliza Orme
+        link: https://history.churchofjesuschrist.org/chd/individual/eliza-orme-1863
+      - name: George Orme
+        link: https://history.churchofjesuschrist.org/chd/individual/george-orme-1854
+      - name: Samuel Orme
+        link: https://history.churchofjesuschrist.org/chd/individual/samuel-orme-1861
+      - name: Thomas Payne
+        link: https://history.churchofjesuschrist.org/chd/individual/thomas-payne-1862
+      - name: Caroline Maria Pedersen
+        link: https://history.churchofjesuschrist.org/chd/individual/caroline-maria-pedersen-1862
+      - name: Ida Christine Peterson
+        link: https://history.churchofjesuschrist.org/chd/individual/ida-christine-peterson-1862
+      - name: Nicoline Johanna Peterson
+        link: https://history.churchofjesuschrist.org/chd/individual/nicoline-johana-peterson-1863
+      - name: Mary Ann Phillips
+        link: https://history.churchofjesuschrist.org/chd/individual/mary-ann-phillips-1862
+      - name: James William Price
+        link: https://history.churchofjesuschrist.org/chd/individual/james-william-price-1863
+      - name: Kittie Bell Ryan
+        link: https://history.churchofjesuschrist.org/chd/individual/kittie-bell-ryan-1861
+      - name: Leopold Singleton
+        link: https://history.churchofjesuschrist.org/chd/individual/leopold-singleton-1861
+      - name: Charles Slade
+        link: https://history.churchofjesuschrist.org/chd/individual/charles-slade-1864
+      - name: Edward Slade
+        link: https://history.churchofjesuschrist.org/chd/individual/edward-slade-1862
+      - name: Zilah M. Smith
+        link: https://history.churchofjesuschrist.org/chd/individual/zillah-may-smith-1848
+      - name: William Burnhope Spens
+        link: https://history.churchofjesuschrist.org/chd/individual/william-burnhope-spens-1864
+      - name: Elizabeth Nelson Stuart
+        link: https://history.churchofjesuschrist.org/chd/individual/elizabeth-nelson-stuart-1848
+      - name: Mary Annemma Taylor
+        link: https://history.churchofjesuschrist.org/chd/individual/mary-annemma-taylor-1860
+      - name: Parley George Taylor
+        link: https://history.churchofjesuschrist.org/chd/individual/parley-george-taylor-1862
+      - name: Ane Marie Thomsen
+        link: https://history.churchofjesuschrist.org/chd/individual/ane-marie-thomsen-1859
+      - name: Hans Ephraim Thoresen
+        link: https://history.churchofjesuschrist.org/chd/individual/hans-ephraim-thoresen-1862
+      - name: Frederick Torgersen
+        link: https://history.churchofjesuschrist.org/chd/individual/frederick-torgersen-1863
+      - name: Mary Elizabeth Tullidge
+        link: https://history.churchofjesuschrist.org/chd/individual/mary-elizabeth-tullidge-1861
+      - name: Sarah Louise Webb
+        link: https://history.churchofjesuschrist.org/chd/individual/sarah-louise-webb-1863
+      - name: NN Weeks
+        link: https://history.churchofjesuschrist.org/chd/individual/sarah-louise-webb-1863
+      - name: Mary Ann West
+        link: https://history.churchofjesuschrist.org/chd/individual/mary-ann-west-1860
+      - name: Fanny Wilson
+        link: https://history.churchofjesuschrist.org/chd/individual/fanny-knapp-1860
+      - name: Lavina Wilson
+        link: https://history.churchofjesuschrist.org/chd/individual/lavina-wilson-1861
+      - name: Martha Wilson
+        link: https://history.churchofjesuschrist.org/chd/individual/martha-knapp-1852
+      - name: Jacob Winkler
+        link: https://history.churchofjesuschrist.org/chd/individual/jacob-winkler-1862
+      - name: Thomas Winsby
+        link: https://history.churchofjesuschrist.org/chd/individual/thomas-winsby-1861
   - heading: Stone 14
     image: /img/stone-14.jpg
     years: "1866"
     names:
-      - name: Amanda Josephine Lundberg
-        link: 34503/amanda-josephine-lundberg
-      - name: Bola Christine Mortensen
-        link: 34510/bola-christine-mortensen
-      - name: Josephine Christine Mortensen
-        link: 34513/josephine-christine-mortensen
-      - name: Agnes Neil
-        link: 58871/agnes-neil
-      - name: Lauritz Alma Nielsen
-        link: 33262/lauritz-alma-nielsen
-      - name: Marie Josephine Nielsen
-        link: 33265/marie-josephine-nielsen
-      - name: Niels Ditlov Nielsen
-        link: 33381/niels-ditlov-nielsen
-      - name: Elizabeth Oliver
-        link: 33651/elizabeth-oliver
-      - name: Carl Olsen
-        link: 33276/carl-olsen
-      - name: Severin Olsen
-        link: "33287"
-      - name: Bine Pedersen
-        link: 34559/bine-pedersen
-      - name: Ida Pedersen
-        link: 34561/ida-pedersen
-      - name: Peter Pedersen
-        link: 34563/peter-pedersen
-      - name: Parley Pratt Petersen
-        link: 33303/parley-pratt-petersen
-      - name: Augustina Wilhelmina Albertina Peterson
-        link: 42384/augustina-wilhelmina-albertina-peterson
-      - name: Inger Kathrine Plowman
-        link: 34571/inger-kathrine-plowman
-      - name: Frank Loader Rozsa
-        link: 45073/frank-loader-rozsa
-      - name: Niels Jakob Sandersen
-        link: 33342/niels-jakob-sandersen
-      - name: Tomina Elizabeth Swensen
-        link: 33385/tomina-elizabeth-swensen
-      - name: Daniel Arkwright Taylor
-        link: 33446/daniel-arkwright-taylor
-      - name: Richard Taylor
-        link: 33449/richard-taylor
-      - name: Jane Sarah Walters
-        link: 35102/jane-sarah-walters
-      - name: NN Warnick
-        link: "33350"
-      - name: Augusta Warnick
-        link: "33350"
-      - name: John Gustav Warnick
-        link: "33358"
-      - name: Sina Dina Williamson
-        link: 54145/sina-dina-williamson
       - name: Charlotta Christina Warnick Arlekulen
-        link: "11562945530011978580"
+        link: https://history.churchofjesuschrist.org/chd/individual/charlotta-christina-arlekulen-1865
       - name: Carl Otto Edwin Backman
-        link: 43846/carl-otto-edwin-backman
+        link: https://history.churchofjesuschrist.org/chd/individual/carl-otto-edwin-backman-1861
       - name: George Edward Bell
-        link: 34625/george-edward-bell
+        link: https://history.churchofjesuschrist.org/chd/individual/george-edward-bell-1865
       - name: Charlotte Bengtson
-        link: "33087"
+        link: https://history.churchofjesuschrist.org/chd/individual/charlotta-bengtson-1848
       - name: Adolphus Ethelbert Orson Blackey
-        link: 35138/adolphus-ethelbert-orson-blackley
+        link: https://history.churchofjesuschrist.org/chd/individual/adolphus-ethelbert-orson-blackley-1865
       - name: Elizabeth Boneham
-        link: 33396/elizabeth-boneham
+        link: https://history.churchofjesuschrist.org/chd/individual/elizabeth-boneham-1859
       - name: Christian Carlsen
-        link: 33844/christian-carlsen
+        link: https://history.churchofjesuschrist.org/chd/individual/christian-carlsen-1852
       - name: Jeanette Chambers
-        link: 35181/jeanett-chambers
+        link: https://history.churchofjesuschrist.org/chd/individual/jeanett-chambers-1866
       - name: Susannah Cook
-        link: "34879"
+        link: https://history.churchofjesuschrist.org/chd/individual/susannah-cook-1865
       - name: George Cottle
-        link: 12135744775615854036/george-cottle
+        link: https://history.churchofjesuschrist.org/chd/individual/george-cottle-1854
       - name: Joseph Cottle
-        link: 33538/joseph-cottle
+        link: https://history.churchofjesuschrist.org/chd/individual/joseph-cottle-1858
       - name: Samuel Crane
-        link: 33407/samuel-crane
+        link: https://history.churchofjesuschrist.org/chd/individual/samuel-crane-1862
       - name: Carl Ephraim Frandsen
-        link: 33117/carl-ephraim-frandsen
+        link: https://history.churchofjesuschrist.org/chd/individual/carl-ephraim-frandsen-1861
       - name: Amalie Fredriksen
-        link: 34428/amalie-fredriksen
+        link: https://history.churchofjesuschrist.org/chd/individual/amalie-fredriksen-1866
       - name: Elizabeth Garner
-        link: 35272/elizabeth-garner
+        link: https://history.churchofjesuschrist.org/chd/individual/elizabeth-garner-1852
       - name: Lizzie Grant
-        link: 34703/lizzie-grant
+        link: https://history.churchofjesuschrist.org/chd/individual/lizzie-b-grant-1863
       - name: Anna Haderlie
-        link: 34959/anna-haderlie
+        link: https://history.churchofjesuschrist.org/chd/individual/anna-haderlie-1860
       - name: Caroline Haderlie
-        link: "34961"
+        link: https://history.churchofjesuschrist.org/chd/individual/caroline-haderlie-1866
       - name: Alfred Leonard Hansen
-        link: ""
+        link: Not in BioDB
       - name: Andreas Marius Smith Hansen
-        link: "33124"
+        link: https://history.churchofjesuschrist.org/chd/individual/andreas-marius-smith-hansen-1864
       - name: Hans Johan Hansen
-        link: "34455"
+        link: https://history.churchofjesuschrist.org/chd/individual/hans-johan-hansen-1855
       - name: Mads Jorgen Hansen
-        link: 33143/mads-jorgen-hansen
+        link: https://history.churchofjesuschrist.org/chd/individual/mads-jorgen-hansen-1860
       - name: Niels Anthon Hansen
-        link: 33149/niels-anthon-hansen
+        link: https://history.churchofjesuschrist.org/chd/individual/niels-anthon-hansen-1857
       - name: Niels Peter William Hansen
-        link: 33150/niels-peter-william-hansen
+        link: https://history.churchofjesuschrist.org/chd/individual/niels-peter-william-hansen-1863
       - name: Annice Hubaldina Hodgson
-        link: 33413/annice-hubaldina-hodgson
+        link: https://history.churchofjesuschrist.org/chd/individual/annice-hubaldina-hodgson-1866
       - name: John Arkwright Hodgson
-        link: 33417/john-arkwright-hodgson
+        link: https://history.churchofjesuschrist.org/chd/individual/john-arkwright-hodgson-1866
       - name: Mary Agnes Holt
-        link: 33426/mary-agnes-holt
+        link: https://history.churchofjesuschrist.org/chd/individual/mary-agnes-holt-1859
       - name: Axel Hyrum Husted
-        link: 33998/axel-hyrum-husted
+        link: https://history.churchofjesuschrist.org/chd/individual/axel-hyrum-husted-1865
       - name: Ragna Olivia Iversen
-        link: "34020"
+        link: https://history.churchofjesuschrist.org/chd/individual/ragna-olivia-iversen-1849
       - name: Elizabeth Jensen
-        link: 33172/elizabeth-jensen
+        link: https://history.churchofjesuschrist.org/chd/individual/elizabeth-jensen-1853
       - name: Jens Severin Jenson
-        link: 34027/jens-severin-jenson
+        link: https://history.churchofjesuschrist.org/chd/individual/jens-severin-jensen-1860
       - name: Charles Frederick Kelly
-        link: 33369/charles-frederick-kelly
+        link: https://history.churchofjesuschrist.org/chd/individual/charles-frederick-kelly-1862
       - name: Mary Emma Kelly
-        link: 33373/mary-emma-kelly
+        link: https://history.churchofjesuschrist.org/chd/individual/mary-emma-kelly-1865
       - name: Lily Jane Lambourne
-        link: 33623/lily-jane-lambourne
+        link: https://history.churchofjesuschrist.org/chd/individual/lily-jane-lambourne-1865
       - name: Karoline Bertha Larsen
-        link: 69522714891272275980/karoline-bertha-larsen
+        link: https://history.churchofjesuschrist.org/chd/individual/karoline-bertha-larsen-1865
       - name: Lars Peter Larsen
-        link: "33222"
+        link: https://history.churchofjesuschrist.org/chd/individual/lars-peter-larsen-1853
       - name: Thora Marie Larsen
-        link: 11474566243510976979/thora-marie-larsen
+        link: https://history.churchofjesuschrist.org/chd/individual/thora-marie-larsen-1857
       - name: Joseph Willard Lehmberg
-        link: 34496/joseph-willard-lehmberg
+        link: https://history.churchofjesuschrist.org/chd/individual/joseph-willard-lehmberg-1866
+      - name: Amanda Josephine Lundberg
+        link: https://history.churchofjesuschrist.org/chd/individual/amanda-josephine-lundberg-1865
+      - name: Bola Christine Mortensen
+        link: https://history.churchofjesuschrist.org/chd/individual/bola-christine-mortensen-1865
+      - name: Josephine Christine Mortensen
+        link: https://history.churchofjesuschrist.org/chd/individual/josephine-christine-mortensen-1862
+      - name: Agnes Neil
+        link: https://history.churchofjesuschrist.org/chd/individual/agnes-neil-1865
+      - name: Lauritz Alma Nielsen
+        link: https://history.churchofjesuschrist.org/chd/individual/lauritz-alma-nielsen-1866
+      - name: Marie Josephine Nielsen
+        link: https://history.churchofjesuschrist.org/chd/individual/marie-josephine-nielsen-1866
+      - name: Niels Ditlov Nielsen
+        link: https://history.churchofjesuschrist.org/chd/individual/niels-ditlov-nielsen-1855
+      - name: Elizabeth Oliver
+        link: https://history.churchofjesuschrist.org/chd/individual/elizabeth-oliver-1849
+      - name: Carl Olsen
+        link: https://history.churchofjesuschrist.org/chd/individual/carl-olsen-1865
+      - name: Severin Olsen
+        link: https://history.churchofjesuschrist.org/chd/individual/severin-olsen-1854
+      - name: Bine Pedersen
+        link: https://history.churchofjesuschrist.org/chd/individual/bine-pedersen-1857
+      - name: Ida Pedersen
+        link: https://history.churchofjesuschrist.org/chd/individual/ida-pedersen-1865
+      - name: Peter Pedersen
+        link: https://history.churchofjesuschrist.org/chd/individual/peter-pedersen-1862
+      - name: Parley Pratt Petersen
+        link: https://history.churchofjesuschrist.org/chd/individual/parley-pratt-petersen-1864
+      - name: Augustina Wilhelmina Albertina Peterson
+        link: https://history.churchofjesuschrist.org/chd/individual/augustina-wilhelmina-albertina-peterson-1866
+      - name: Inger Kathrine Plowman
+        link: https://history.churchofjesuschrist.org/chd/individual/inger-kathrine-plowman-1866
+      - name: Frank Loader Rozsa
+        link: https://history.churchofjesuschrist.org/chd/individual/frank-loader-rozsa-1862
+      - name: Niels Jakob Sandersen
+        link: https://history.churchofjesuschrist.org/chd/individual/niels-jakob-sandersen-1857
+      - name: Tomina Elizabeth Swensen
+        link: https://history.churchofjesuschrist.org/chd/individual/tomina-elizabeth-swensen-1866
+      - name: Daniel Arkwright Taylor
+        link: https://history.churchofjesuschrist.org/chd/individual/daniel-arkwright-taylor-1866
+      - name: Richard Taylor
+        link: https://history.churchofjesuschrist.org/chd/individual/richard-taylor-1862
+      - name: Jane Sarah Walters
+        link: https://history.churchofjesuschrist.org/chd/individual/jane-sarah-walters-1864
+      - name: Augusta Warnick
+        link: https://history.churchofjesuschrist.org/chd/individual/child-warnick-1866
+      - name: John Gustav Warnick
+        link: Not in BioDB
+      - name: NN Warnick
+        link: https://history.churchofjesuschrist.org/chd/individual/child-warnick-1866
+      - name: Sina Dina Williamson
+        link: https://history.churchofjesuschrist.org/chd/individual/sina-dina-williamson-1865
   - heading: Stone 15
     image: /img/stone-15.jpg
     years: 1867-1868
     names:
-      - name: Karen Jensen
-        link: 36584/karen-jensen
-      - name: Margaret Jensen
-        link: 36587/margaret-jensen
-      - name: Lars Johansen
-        link: 36592/lars-johansen
-      - name: Alia Herman Kramer
-        link: 36746/alla-herman-kramer
-      - name: Mary Ann Elizabeth Lance
-        link: 36081/mary-ann-elizabeth-lance
-      - name: Emma Constance Lund
-        link: 58722/emma-constance-lund
-      - name: William Charles Mallet
-        link: 58006/william-charles-mallet
-      - name: Ane Sophia Nielsen
-        link: 28202538817131697520/ane-sophia-nielsen
-      - name: Christian Peder Edvard Nielsen
-        link: "92022457568132163590"
-      - name: Karen Marie Nielsen
-        link: "37052"
-      - name: Anna Nilson
-        link: 39024/anna-nilson
-      - name: Valentina Elizabeth Dyer
-        link: 40863/valentina-elizabeth-dyer
-      - name: Lonnie Iversen
-        link: 39316/lonnie-iverson
-      - name: Jensine Jensen
-        link: 40425/jensina-jensen
-      - name: Annie Ball Marie Johansen
-        link: 35558/annie-ball-marie-johansen
-      - name: Jorgen Sophus Jorgensen
-        link: 36652002526474731800/jorgen-sophus-jorgensen
-      - name: Trine Olsen
-        link: 74834029246592048050/trine-olsen
-      - name: Edel Marie Sandersen
-        link: 11467483203112400106/edel-marie-sandersen
       - name: Jens Peter Andersen
-        link: "36571"
+        link: https://history.churchofjesuschrist.org/chd/individual/jens-peter-andersen-1856
       - name: Joseph Hyrum Barrett
-        link: 55296/joseph-hyrum-barrett
+        link: https://history.churchofjesuschrist.org/chd/individual/joseph-hyrum-barrett-1866
       - name: John Boden
-        link: 35929/john-boden
+        link: https://history.churchofjesuschrist.org/chd/individual/john-boden-1868
       - name: Berthe Katrine Christiansen
-        link: "53089"
+        link: https://history.churchofjesuschrist.org/chd/individual/bertha-katrina-christiansen-1854
       - name: Henry Davies
-        link: 39240/henry-davies
+        link: https://history.churchofjesuschrist.org/chd/individual/henry-davies-1866
       - name: Sarah Dearden
-        link: 39243/sarah-dearden
+        link: https://history.churchofjesuschrist.org/chd/individual/sarah-dearden-1867
       - name: Joseph Doman
-        link: 57620/joseph-doman
+        link: https://history.churchofjesuschrist.org/chd/individual/joseph-doman-1867
       - name: Charlotte Dunn
-        link: "36343"
+        link: https://history.churchofjesuschrist.org/chd/individual/charlotte-pheobe-dunne-1859
+      - name: Valentina Elizabeth Dyer
+        link: https://history.churchofjesuschrist.org/chd/individual/valentina-elizabeth-dyer-1866
       - name: John Easthope
-        link: 43748/john-easthope
+        link: https://history.churchofjesuschrist.org/chd/individual/robert-john-easthope-1868
       - name: Hans Hansen
-        link: 36797/hans-hansen
+        link: https://history.churchofjesuschrist.org/chd/individual/hans-hansen-1861
       - name: Maren Hansen
-        link: 36812/maren-hansen
+        link: https://history.churchofjesuschrist.org/chd/individual/maren-hansen-1864
       - name: Alice Howarth
-        link: 36048/alice-howarth
+        link: https://history.churchofjesuschrist.org/chd/individual/alice-howarth-1865
+      - name: Lonnie Iversen
+        link: https://history.churchofjesuschrist.org/chd/individual/lonnie-iverson-1867
       - name: Jane Jackson
-        link: 43725/jane-jackson
+        link: https://history.churchofjesuschrist.org/chd/individual/jane-jackson-1868
       - name: Mary Jackson
-        link: 43724/mary-jackson
+        link: https://history.churchofjesuschrist.org/chd/individual/mary-jackson-1868
       - name: John Christian Jacobsen
-        link: 36851/john-christian-jacobsen
+        link: https://history.churchofjesuschrist.org/chd/individual/john-christian-jacobsen-1865
+      - name: Jensine Jensen
+        link: https://history.churchofjesuschrist.org/chd/individual/jensina-jensen-1863
+      - name: Karen Jensen
+        link: https://history.churchofjesuschrist.org/chd/individual/karen-jensen-1852
+      - name: Margaret Jensen
+        link: https://history.churchofjesuschrist.org/chd/individual/margaret-jensen-1852
+      - name: Annie Ball Marie Johansen
+        link: https://history.churchofjesuschrist.org/chd/individual/annie-ball-marie-johansen-1862
+      - name: Lars Johansen
+        link: https://history.churchofjesuschrist.org/chd/individual/lars-johansen-1858
+      - name: Jorgen Sophus Jorgensen
+        link: https://history.churchofjesuschrist.org/chd/individual/jorgen-sophus-jorgensen-1867
+      - name: Alia Herman Kramer
+        link: https://history.churchofjesuschrist.org/chd/individual/alla-herman-kramer-1856
+      - name: Mary Ann Elizabeth Lance
+        link: https://history.churchofjesuschrist.org/chd/individual/mary-ann-elizabeth-lance-1867
+      - name: Emma Constance Lund
+        link: https://history.churchofjesuschrist.org/chd/individual/emma-constance-lund-1866
+      - name: William Charles Mallet
+        link: https://history.churchofjesuschrist.org/chd/individual/william-charles-mallet-1865
+      - name: Ane Sophia Nielsen
+        link: https://history.churchofjesuschrist.org/chd/individual/ane-sophia-nielsen-1867
+      - name: Christian Peder Edvard Nielsen
+        link: https://history.churchofjesuschrist.org/chd/individual/christian-nielsen-1864
+      - name: Karen Marie Nielsen
+        link: https://history.churchofjesuschrist.org/chd/individual/karen-marie-nielsen-1856
+      - name: Anna Nilson
+        link: https://history.churchofjesuschrist.org/chd/individual/anna-nilson-1861
+      - name: Trine Olsen
+        link: https://history.churchofjesuschrist.org/chd/individual/trine-olsen-1866
+      - name: Edel Marie Sandersen
+        link: https://history.churchofjesuschrist.org/chd/individual/edel-marie-sandersen-1850
   - heading: Stone 16
     image: /img/stone-16.jpg
     years: 1868 cont
     names:
       - name: Ane Christine Olsen
-        link: 37101/ane-christine-olsen
+        link: https://history.churchofjesuschrist.org/chd/individual/ane-christine-oleson-1859
       - name: Charlotte Audrey Payne Oswald
-        link: 36130/charlotte-audrey-payne-oswald
+        link: https://history.churchofjesuschrist.org/chd/individual/charlotte-audrey-payne-oswald-1867
       - name: James Powell
-        link: 37874/james-powell
+        link: https://history.churchofjesuschrist.org/chd/individual/james-powell-1851
+      - name: John Adalf Rose
+        link: https://history.churchofjesuschrist.org/chd/individual/john-adalf-rose-1863
       - name: Charles Oscar Rose
-        link: 57695/charles-oscar-rose
-      - name: " Rose John Adalf"
-        link: 57694/john-adalf-rose
+        link: https://history.churchofjesuschrist.org/chd/individual/charles-oscar-rose-1866
       - name: Ida Johannah Sandin
-        link: 50471/ida-johannah-sandin
+        link: https://history.churchofjesuschrist.org/chd/individual/ida-johannah-sandin-1865
       - name: John Ludvig Sandin
-        link: 50466/john-ludvig-sandin
+        link: https://history.churchofjesuschrist.org/chd/individual/john-ludvig-sandin-1867
       - name: Maren Sophie Sorensen
-        link: 36615/sophia-sorensen
+        link: https://history.churchofjesuschrist.org/chd/individual/sophia-sorensen-1852
       - name: Elizabeth Thomas
-        link: 38038/elizabeth-thomas
+        link: https://history.churchofjesuschrist.org/chd/individual/elizabeth-thomas-1863
       - name: Alvida Marie Helena Jensen Thorsen
-        link: ""
+        link: Not in BioDB
       - name: Dorsine Thorsted
-        link: 36620/dorsine-thorsted
+        link: https://history.churchofjesuschrist.org/chd/individual/dorsine-thorsted-1866
       - name: Petter Toolson
-        link: 37241/petter-toolson
+        link: https://history.churchofjesuschrist.org/chd/individual/petter-toolson-1868
       - name: Alfred Hezekiah Wade
-        link: 36545/alfred-hezekiah-wade
+        link: https://history.churchofjesuschrist.org/chd/individual/alfred-hezekiah-wade-1853
       - name: Sarah Ann Williams
-        link: 56299/sarah-ann-williams
+        link: https://history.churchofjesuschrist.org/chd/individual/sarah-ann-williams-1862
   - heading: Virtual Stone 17
     image: /img/stone-17.jpg
     years: additional
     names:
-      - name: Jane McKown
-        link: 3050/jane-mc-kown
-      - name: Cyrenus Van Fleet
-        link: 87162157062955788480/cyrenus-van-fleet
-      - name: Cyrus Van Fleet
-        link: 73633773972149000750/cyrus-van-fleet
-      - name: Sally Wilcox
-        link: 4336/sally-wilcox
-      - name: NN Borum
-        link: 5286/child-borum-or-brown
-      - name: Lydia Ann Burns
-        link: 90492953166610693150/lydia-ann-burns
-      - name: Emma Burton
-        link: 13578497343192520482/eliza-rebecca-burton
-      - name: Samuel Carter
-        link: 40158/samuel-carter
-      - name: Josephine Crandall
-        link: "11531239675719963036"
-      - name: Alice Hoopes
-        link: 43099/alice-hoopes
-      - name: NN Pond
-        link: 50658/son-pond
-      - name: Elmira Charlotte Wilcox
-        link: 5932/elmira-charlotte-wilcox
-      - name: Martha Matilda Busenbark
-        link: 8584/martha-matilda-busenbark
-      - name: Thomas Cummings
-        link: 11625/thomas-cummings
-      - name: Sarah Ann Galliher
-        link: 56071616256281565880/sarah-ann-galliher
       - name: Profinda Atkinson
-        link: "10852141568954450004"
+        link: https://history.churchofjesuschrist.org/chd/individual/profinda-atkinson-1850
+      - name: NN Borum
+        link: https://history.churchofjesuschrist.org/chd/individual/child-borum
       - name: Norman Bowen
-        link: 4967/norman-bowen
+        link: https://history.churchofjesuschrist.org/chd/individual/norman-bowen-1838
+      - name: Lydia Ann Burns
+        link: https://history.churchofjesuschrist.org/chd/individual/lydia-ann-porter-1833
+      - name: Emma Burton
+        link: Not in BioDB
+      - name: Martha Matilda Busenbark
+        link: https://history.churchofjesuschrist.org/chd/individual/martha-matilda-busenbark-1843
+      - name: Samuel Carter
+        link: https://history.churchofjesuschrist.org/chd/individual/samuel-carter-1840
+      - name: Josephine Crandall
+        link: https://history.churchofjesuschrist.org/chd/individual/josephine-crandall-1850
+      - name: Thomas Cummings
+        link: https://history.churchofjesuschrist.org/chd/individual/thomas-cummings-1852
       - name: Margaret Davis
-        link: "15652"
-      - name: Samuel Gadd
-        link: 19555/samuel-gadd
-      - name: Ephraim Robert Normington
-        link: 19209/ephraim-robert-normington
-      - name: NN Normington
-        link: 43376303720990550570/infant-normington
-      - name: Jensine Nicolaisen
-        link: 24411/jensine-christine-nicolaisen-larsen
-      - name: Niels Peter Pedersen
-        link: 24523/niels-peter-pedersen
-      - name: Marta Gulbrandsen
-        link: 30449/marta-gulbrandsen
-      - name: Mette Marie Jensen
-        link: 30357/mette-marie-jensen
-      - name: Margaret Melling
-        link: 50410/margaret-melling
-      - name: Niels Christian Nielsen
-        link: 30700/niels-christian-nielsen
-      - name: Henry Tavener Papworth
-        link: 31977/henry-tavener-papworth
-      - name: John Richards Price
-        link: 51285/john-richards-price
-      - name: Catherine Banks Nelson
-        link: 57794/catherine-banks-nelson
-      - name: David Loynd
-        link: 13412629670919861909/david-loynd
-      - name: Ane Mette Nielsen
-        link: "34530"
-      - name: Parley Pratt Petersen
-        link: 33303/parley-pratt-petersen
-      - name: Niels Poulsen
-        link: 34579/niels-poulsen
-      - name: Johannes Alma Sandersen
-        link: 33341/johannes-alma-sandersen
-      - name: William Isaac Withers
-        link: 35509/william-isaac-withers
-      - name: Jens Marinus Jensen
-        link: 40426/jens-marinus-jensen
-      - name: Morten Olsen
-        link: "16818350604422876276"
+        link: https://history.churchofjesuschrist.org/chd/individual/margaret-caroline-davis-1854
       - name: Harriet Easthope
-        link: 43747/harriet-easthope
+        link: https://history.churchofjesuschrist.org/chd/individual/harriet-easthope-1866
       - name: Martha Alice Easthope
-        link: "75856969337422128300"
-      - name: John Heber Jones
-        link: 36071/john-heber-jones
-      - name: John Adalf Rose
-        link: 57694/john-adalf-rose
+        link: https://history.churchofjesuschrist.org/chd/individual/martha-alice-easthope-1861
+      - name: " Edward Stoudemann"
+        link: https://history.churchofjesuschrist.org/chd/individual/edward-stoudemann-1845
+      - name: " Francois Stoudemann"
+        link: https://history.churchofjesuschrist.org/chd/individual/francois-stoudemann-1843
+      - name: Samuel Gadd
+        link: https://history.churchofjesuschrist.org/chd/individual/samuel-gadd-1846
+      - name: Sarah Ann Galliher
+        link: https://history.churchofjesuschrist.org/chd/individual/sarah-ann-galliher-1851
+      - name: Marta Gulbrandsen
+        link: https://history.churchofjesuschrist.org/chd/individual/marta-gulbrandsen-1854
+      - name: Alice Hoopes
+        link: https://history.churchofjesuschrist.org/chd/individual/alice-hoopes-1850
+      - name: Jens Marinus Jensen
+        link: https://history.churchofjesuschrist.org/chd/individual/jens-marinus-jensen-1866
+      - name: Mette Marie Jensen
+        link: https://history.churchofjesuschrist.org/chd/individual/mette-marie-jensen-1859
       - name: Boel Johnson
-        link: 60318/boel-johnson
+        link: https://history.churchofjesuschrist.org/chd/individual/boel-johnson-1862
+      - name: John Heber Jones
+        link: https://history.churchofjesuschrist.org/chd/individual/john-heber-jones-1867
+      - name: David Loynd
+        link: https://history.churchofjesuschrist.org/chd/individual/david-loynd-1861
+      - name: Jane McKown
+        link: https://history.churchofjesuschrist.org/chd/individual/jane-mckown-1835
+      - name: Margaret Melling
+        link: https://history.churchofjesuschrist.org/chd/individual/margaret-melling-1857
+      - name: Catherine Banks Nelson
+        link: https://history.churchofjesuschrist.org/chd/individual/catherine-banks-nelson-1862
+      - name: Jensine Nicolaisen
+        link: https://history.churchofjesuschrist.org/chd/individual/jensine-christine-nicolaisen-1859
+      - name: Ane Mette Nielsen
+        link: https://history.churchofjesuschrist.org/chd/individual/ane-mette-nielsen-1860
+      - name: Niels Christian Nielsen
+        link: https://history.churchofjesuschrist.org/chd/individual/niels-christian-nielsen-1860
+      - name: Ephraim Robert Normington
+        link: https://history.churchofjesuschrist.org/chd/individual/ephraim-robert-normington-1851
+      - name: NN Normington
+        link: https://history.churchofjesuschrist.org/chd/individual/infant-normington-1856
+      - name: Morten Olsen
+        link: https://history.churchofjesuschrist.org/chd/individual/morten-olsen-1865
+      - name: Henry Tavener Papworth
+        link: https://history.churchofjesuschrist.org/chd/individual/henry-tavener-papworth-1864
+      - name: Niels Peter Pedersen
+        link: https://history.churchofjesuschrist.org/chd/individual/niels-peter-pedersen-1854
+      - name: Parley Pratt Petersen
+        link: https://history.churchofjesuschrist.org/chd/individual/parley-pratt-petersen-1864
+      - name: NN Pond
+        link: ""
+      - name: Niels Poulsen
+        link: https://history.churchofjesuschrist.org/chd/individual/niels-poulsen-1852
+      - name: John Richards Price
+        link: https://history.churchofjesuschrist.org/chd/individual/john-richards-price-1863
+      - name: Sarah Louisa Robinson
+        link: https://history.churchofjesuschrist.org/chd/individual/sarah-louisa-robinson-1850
+      - name: John Adalf Rose
+        link: https://history.churchofjesuschrist.org/chd/individual/john-adalf-rose-1863
+      - name: Johannes Alma Sandersen
+        link: https://history.churchofjesuschrist.org/chd/individual/johannes-alma-sandersen-1862
+      - name: " Unidentified girl"
+        link: ""
+      - name: Cyrenus Van Fleet
+        link: https://history.churchofjesuschrist.org/chd/individual/cyrenus-van-fleet-1848
+      - name: Cyrus Van Fleet
+        link: https://history.churchofjesuschrist.org/chd/individual/cyrus-van-fleet-1848
+      - name: Elmira Charlotte Wilcox
+        link: https://history.churchofjesuschrist.org/chd/individual/elmira-charlotte-wilcox-1848
+      - name: Sally Wilcox
+        link: https://history.churchofjesuschrist.org/chd/individual/sally-wilcox-1845
+      - name: William Isaac Withers
+        link: https://history.churchofjesuschrist.org/chd/individual/william-isaac-withers-1865
+      - name: Kirsten Pedersen
+        link: https://history.churchofjesuschrist.org/chd/individual/kirsten-pedersen-1858
 ---
